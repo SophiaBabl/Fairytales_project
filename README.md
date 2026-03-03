@@ -40,7 +40,7 @@ fairytale-corpus/
 
 ---
 
-## 📊 Corpus
+## Corpus
 
 The corpus consists of **309 texts** across three types and two author traditions:
 
