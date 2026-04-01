@@ -22,11 +22,15 @@ The corpus draws on two canonical fairy tale traditions: the **Brothers Grimm** 
 fairytale-corpus/
 │
 ├── corpus/
-│   ├── grimm_fairytale_corpus.csv          # Full Grimm corpus (Original, Wikipedia, Copilot)
-│   ├── andersen_fairytale_corpus.csv       # Full Andersen corpus (Original, Wikipedia, Copilot)
-│   └── combined_corpus.csv                 # Full Corpus (Grimm - Original, Wikipedia, Copilot + Andersen - Original, Wikipedia, Copilot)
+│   ├── Metadata_Fairytale_Corpus.csv       # Metadata sheet of full corpus (Original, Wikipedia, Copilot)
+│   ├── fairy_tale_corpus_complete.csv      # Full Corpus (Grimm - Original, Wikipedia, Copilot + Andersen - Original, Wikipedia, Copilot)
+│   ├── fairytale_corpus_andersen.csv       # Full Andersen corpus (Original, Wikipedia, Copilot)
+│   └── fairytale_corpus_grimm.csv          # Full Grimm corpus (Original, Wikipedia, Copilot)
 │
 ├── results/
+│   ├── Sentiment Analysis and Emotion Detection
+│   ├── Topic Modeling
+│   ├── Word2Vec
 │
 ├── notebooks/
 │   ├── Corpus_EDA.ipynb                            # Exploratory data analysis & descriptive statistics
