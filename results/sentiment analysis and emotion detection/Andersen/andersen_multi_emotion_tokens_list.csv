@@ -1,0 +1,3260 @@
+﻿Token,Emotions,EmotionCount
+kleine,"admiration, amusement, anger, annoyance, approval, caring, curiosity, disappointment, disapproval, disgust, embarrassment, excitement, fear, gratitude, joy, love, nervousness, neutral, pride, sadness",20
+große,"admiration, amusement, anger, approval, caring, desire, disappointment, disapproval, disgust, fear, gratitude, joy, neutral, realization, sadness",15
+klaus,"admiration, amusement, anger, annoyance, approval, disappointment, embarrassment, fear, gratitude, joy, love, nervousness, neutral, pride, realization, surprise",16
+kleinen,"admiration, amusement, anger, annoyance, caring, curiosity, desire, disappointment, disapproval, disgust, embarrassment, fear, gratitude, joy, love, neutral, realization, sadness, surprise",19
+dorf,"joy, neutral",2
+wohnen,"admiration, disapproval, neutral",3
+zwei,"admiration, amusement, annoyance, curiosity, desire, disappointment, disapproval, embarrassment, fear, joy, neutral, optimism, realization, sadness, surprise",15
+männer,"admiration, amusement, desire, disappointment, neutral",5
+namen,"admiration, annoyance, joy, love, neutral",5
+höhe,"admiration, neutral",2
+großen,"admiration, amusement, annoyance, approval, curiosity, disgust, excitement, fear, gratitude, joy, neutral, sadness",12
+tages,"admiration, desire, disappointment, excitement, joy, neutral, sadness",7
+reiche,"admiration, neutral",2
+gutsbesitzerstochter,"admiration, neutral",2
+dora,"admiration, neutral, realization",3
+guter,"admiration, desire, neutral",3
+laune,"admiration, annoyance, neutral",3
+macht,"admiration, amusement, anger, approval, curiosity, disappointment, joy, love, neutral, realization",10
+arme,"amusement, annoyance, disappointment, disgust, fear, grief, joy, neutral, realization, sadness",10
+klein,"admiration, neutral, sadness",3
+solle,"admiration, desire, neutral",3
+vier,"admiration, anger, joy, neutral",4
+pferde,"admiration, anger, disgust, love, neutral, pride, sadness",7
+schon,"admiration, annoyance, approval, caring, confusion, curiosity, desire, disappointment, fear, joy, love, neutral, optimism, realization, sadness",15
+bald,"admiration, approval, curiosity, desire, excitement, fear, grief, love, neutral, optimism, realization",11
+arbeit,"admiration, anger, gratitude, love, neutral, sadness",6
+fertig,"admiration, anger, neutral",3
+woche,"anger, annoyance, neutral, sadness",4
+arbeiten,"anger, caring, neutral",3
+willigt,"anger, neutral",2
+missfällt,"disapproval, neutral",2
+nächsten,"admiration, anger, disappointment, embarrassment, excitement, joy, love, neutral, realization",9
+tag,"admiration, anger, approval, caring, disappointment, embarrassment, excitement, fear, gratitude, joy, love, neutral",12
+überall,"anger, curiosity, disappointment, fear, neutral",5
+wären,"admiration, disappointment, love, neutral, realization",5
+kurzerhand,"annoyance, neutral",2
+nimmt,"approval, fear, joy, love, neutral",5
+eigenen,"admiration, neutral, realization",3
+mageren,"admiration, neutral",2
+klepper,"admiration, neutral",2
+schweren,"disappointment, neutral",2
+ziehen,"neutral, sadness",2
+tier,"admiration, amusement, disappointment, fear, grief, neutral",6
+bietet,"admiration, disapproval, neutral",3
+pferd,"admiration, annoyance, excitement, neutral, surprise",5
+gleich,"approval, embarrassment, neutral, realization",4
+erst,"anger, approval, curiosity, excitement, love, neutral, realization, sadness, surprise",9
+später,"admiration, curiosity, disappointment, fear, neutral, surprise",6
+zurückkommt,"anger, neutral",2
+altes,"admiration, neutral, sadness",3
+enttäuscht,"disappointment, neutral",2
+beutel,"disappointment, neutral",2
+hause,"admiration, amusement, anger, approval, disappointment, joy, neutral, realization, sadness, surprise",10
+spät,"desire, excitement, neutral, realization",4
+geworden,"admiration, annoyance, neutral, realization, sadness",5
+müllerin,"neutral, surprise",2
+ab,"admiration, anger, annoyance, caring, embarrassment, neutral, sadness",7
+angeblich,"admiration, neutral",2
+allein,"admiration, amusement, curiosity, disappointment, disapproval, embarrassment, fear, grief, joy, neutral, sadness",11
+müller,"admiration, amusement, curiosity, excitement, nervousness, neutral, realization, surprise",8
+heimlich,"admiration, annoyance, love, neutral",4
+durchs,"neutral, realization",2
+fenster,"admiration, amusement, fear, joy, neutral, realization, sadness, surprise",8
+sieht,"admiration, amusement, disappointment, disgust, fear, love, neutral, pride, realization, remorse, sadness",11
+reich,"admiration, annoyance, approval, curiosity, disappointment, excitement, gratitude, joy, love, neutral, pride, realization, sadness",13
+tisch,"disgust, neutral",2
+zusammen,"admiration, amusement, grief, joy, neutral",5
+liebhaber,"approval, neutral, surprise",3
+haus,"anger, annoyance, curiosity, disgust, fear, grief, neutral, realization",8
+setzt,"neutral, optimism",2
+essen,"admiration, approval, disapproval, joy, nervousness, neutral, sadness, surprise",8
+beginnt,"admiration, amusement, anger, excitement, neutral",5
+kommt,"admiration, anger, annoyance, approval, caring, curiosity, desire, joy, love, neutral, realization, surprise",12
+meint,"approval, love, neutral",3
+gast,"admiration, neutral",2
+hätte,"admiration, approval, desire, disappointment, disapproval, embarrassment, joy, love, neutral, realization, surprise",11
+zauberer,"anger, approval, curiosity, disapproval, embarrassment, gratitude, love, neutral, sadness",9
+sack,"admiration, anger, gratitude, neutral",4
+sagte,"admiration, amusement, anger, annoyance, approval, caring, confusion, curiosity, desire, disappointment, disapproval, disgust, embarrassment, excitement, fear, gratitude, joy, love, neutral, remorse, sadness, surprise",22
+sollen,"desire, neutral",2
+lieber,"admiration, disappointment, disgust, embarrassment, love, neutral",6
+speisen,"amusement, neutral",2
+ofen,"admiration, disgust, neutral, surprise",4
+findet,"admiration, caring, love, neutral, realization",5
+gebratene,"admiration, neutral",2
+gans,"admiration, neutral",2
+mal,"admiration, annoyance, approval, caring, fear, joy, neutral, realization",8
+„,"admiration, amusement, anger, annoyance, approval, confusion, curiosity, desire, excitement, fear, joy, love, neutral, optimism, pride, sadness",16
+“,"admiration, amusement, anger, approval, confusion, curiosity, desire, fear, grief, joy, love, neutral, optimism, pride, sadness",15
+beiden,"admiration, amusement, annoyance, approval, desire, disapproval, excitement, gratitude, grief, joy, love, neutral, realization, sadness",14
+teufel,"anger, curiosity, disgust, excitement, neutral",5
+unbedingt,"excitement, neutral",2
+sehen,"admiration, amusement, annoyance, approval, confusion, curiosity, desire, disappointment, disapproval, disgust, embarrassment, excitement, fear, neutral, realization, sadness, surprise",17
+gestalt,"admiration, neutral, realization",3
+truhe,"admiration, neutral, surprise",3
+sitzen,"admiration, amusement, approval, caring, neutral",5
+tatsächlich,"neutral, realization",2
+jemanden,"caring, fear, neutral",3
+küster,"admiration, approval, excitement, neutral, surprise",5
+dorfes,"grief, neutral, realization",3
+aussieht,"annoyance, neutral",2
+besitzen,"amusement, neutral",2
+allerdings,"disapproval, joy, love, neutral",4
+wasser,"admiration, approval, caring, curiosity, desire, disgust, fear, gratitude, joy, neutral, pride, remorse, sadness, surprise",14
+werfen,"caring, neutral, pride",3
+lässt,"admiration, annoyance, approval, joy, love, neutral, sadness, surprise",8
+unterwegs,"fear, neutral",2
+frei,"admiration, approval, curiosity, disappointment, excitement, joy, neutral, realization, sadness",9
+erfährt,"annoyance, approval, neutral, realization",4
+bringt,"admiration, disappointment, love, neutral",4
+schönen,"admiration, approval, desire, disapproval, gratitude, love, neutral, sadness",8
+verkaufen,"neutral, optimism, surprise",3
+denkt,"admiration, neutral",2
+teuer,"admiration, neutral",2
+stadt,"admiration, amusement, anger, approval, joy, love, neutral, realization, sadness, surprise",10
+finden,"admiration, amusement, anger, annoyance, curiosity, disappointment, fear, joy, neutral, optimism, realization",11
+kehrt,"joy, neutral, pride, surprise",4
+herberge,"admiration, neutral",2
+voll,"admiration, anger, fear, gratitude, neutral",5
+mitgenommen,"admiration, neutral",2
+gibt,"admiration, annoyance, approval, caring, love, neutral, realization",7
+wirt,"admiration, joy, neutral",3
+trägt,"admiration, neutral",2
+ja,"admiration, amusement, anger, annoyance, approval, confusion, curiosity, disappointment, disapproval, excitement, fear, gratitude, joy, love, neutral, realization, sadness",17
+darinnen,"admiration, neutral",2
+wirklich,"admiration, confusion, curiosity, desire, neutral, sadness",6
+schenkt,"gratitude, neutral, realization",3
+wirtshaus,"admiration, disappointment, neutral",3
+tochter,"admiration, amusement, annoyance, curiosity, disappointment, joy, neutral, realization, sadness",9
+fluss,"admiration, anger, neutral",3
+gerade,"admiration, annoyance, approval, curiosity, disgust, excitement, fear, gratitude, neutral, sadness",10
+bringen,"admiration, annoyance, caring, desire, grief, joy, neutral, optimism",8
+plötzlich,"curiosity, joy, love, neutral, realization, surprise",6
+fällt,"approval, curiosity, disappointment, neutral, surprise",5
+versteckt,"neutral, surprise",2
+wiederfinden,"admiration, neutral",2
+inzwischen,"neutral, realization, sadness, surprise",4
+hof,"admiration, love, neutral",3
+gejagt,"annoyance, neutral, realization",3
+sohn,"admiration, desire, disapproval, love, neutral, optimism, realization",7
+joe,"neutral, realization",2
+beide,"admiration, approval, curiosity, desire, disappointment, love, neutral, optimism, remorse",9
+kinder,"admiration, amusement, anger, approval, disappointment, joy, love, neutral, surprise",9
+zunächst,"amusement, approval, neutral",3
+aufgebrachte,"fear, neutral",2
+menge,"fear, neutral, realization, surprise",4
+versammelt,"disappointment, neutral",2
+gefängnis,"caring, neutral",2
+ebenfalls,"admiration, neutral",2
+haywood,"desire, neutral, realization",3
+dutton,"neutral, realization",2
+molly,"desire, disappointment, neutral, realization",4
+rechtzeitig,"gratitude, neutral",2
+kommen,"admiration, approval, desire, fear, joy, love, neutral, realization, sadness",9
+beschließt,"excitement, neutral",2
+häuser,"fear, joy, neutral",3
+schneekönigin,"admiration, curiosity, disappointment, disapproval, grief, love, neutral, optimism, realization",9
+prophezeiung,"neutral, realization",2
+sterne,"admiration, neutral",2
+aufs,"admiration, amusement, neutral",3
+neue,"admiration, annoyance, approval, joy, neutral, optimism",6
+geboren,"disapproval, fear, joy, neutral, sadness",5
+schwarzen,"admiration, annoyance, joy, neutral, realization",5
+schwert,"admiration, caring, disgust, neutral",4
+eis,"admiration, fear, love, neutral, realization, sadness",6
+zerschlägt,"annoyance, neutral",2
+grünen,"admiration, disapproval, neutral, sadness",4
+stein,"admiration, annoyance, caring, fear, neutral",5
+krone,"admiration, disgust, neutral",3
+dunkelheit,"admiration, disgust, neutral, relief",4
+bedeckt,"disgust, neutral",2
+besitz,"grief, neutral, realization",3
+gar,"admiration, amusement, annoyance, confusion, disappointment, disapproval, fear, joy, love, neutral, optimism, realization, sadness, surprise",14
+haupt,"admiration, joy, neutral",3
+herrscher,"admiration, disappointment, disgust, neutral",4
+welt,"admiration, amusement, caring, curiosity, desire, disappointment, embarrassment, excitement, grief, joy, love, neutral, optimism, realization, sadness, surprise",16
+wäre,"admiration, amusement, annoyance, curiosity, disappointment, embarrassment, excitement, fear, joy, love, neutral, optimism, sadness",13
+mehr,"admiration, amusement, anger, annoyance, approval, caring, desire, disappointment, disapproval, disgust, fear, grief, joy, love, neutral, realization, relief, sadness",18
+vorher,"annoyance, neutral",2
+sonne,"admiration, annoyance, caring, desire, disapproval, gratitude, joy, love, neutral, realization, sadness, surprise",12
+mond,"amusement, desire, joy, neutral",4
+silber,"disgust, love, neutral",3
+zeit,"admiration, approval, curiosity, excitement, fear, joy, love, neutral, realization, sadness, surprise",11
+strand,"admiration, approval, caring, neutral, realization",5
+gerda,"admiration, amusement, anger, caring, curiosity, disappointment, disapproval, disgust, excitement, fear, gratitude, joy, love, neutral, realization, relief, sadness",17
+kai,"admiration, joy, love, neutral, optimism",5
+beim,"admiration, curiosity, love, neutral, realization",5
+spielen,"admiration, amusement, fear, joy, love, neutral",6
+spieldose,"neutral, realization",2
+drei,"admiration, anger, fear, love, neutral",5
+goldenen,"admiration, curiosity, neutral",3
+bekommt,"love, neutral",2
+erhält,"anger, curiosity, gratitude, love, neutral",5
+nachts,"admiration, neutral, sadness",3
+daraufhin,"amusement, annoyance, embarrassment, neutral, realization",5
+glühen,"admiration, neutral",2
+beginnen,"admiration, embarrassment, gratitude, neutral",4
+wirft,"amusement, neutral, optimism",3
+kalte,"fear, neutral",2
+erde,"admiration, amusement, annoyance, disgust, fear, neutral, sadness",7
+hinunter,"approval, curiosity, fear, neutral, remorse",5
+morgen,"admiration, annoyance, confusion, curiosity, desire, disapproval, excitement, gratitude, joy, love, neutral, realization, surprise",13
+betrübt,"admiration, disappointment, disgust, joy, neutral, sadness",6
+straße,"admiration, annoyance, neutral, sadness",4
+suche,"caring, fear, love, neutral",4
+boot,"admiration, neutral",2
+einsamen,"fear, neutral",2
+hexe,"admiration, amusement, anger, annoyance, approval, disapproval, disgust, gratitude, joy, neutral, sadness",11
+hilfe,"annoyance, gratitude, love, neutral",4
+zuckerherzen,"love, neutral",2
+gebracht,"disappointment, neutral, realization",3
+vergessen,"admiration, disappointment, neutral, realization",4
+einsame,"fear, love, neutral, realization",4
+bleibt,"admiration, desire, neutral, sadness",4
+geheimnis,"admiration, neutral, realization",3
+erscheinen,"admiration, anger, annoyance, love, neutral, surprise",6
+erzählen,"admiration, approval, gratitude, love, neutral",5
+mädchen,"admiration, amusement, annoyance, approval, caring, curiosity, desire, disappointment, disgust, embarrassment, fear, joy, love, neutral, optimism, realization, sadness, surprise",18
+tanzen,"admiration, amusement, fear, joy, neutral",5
+müssen,"approval, curiosity, neutral, realization",4
+rosen,"admiration, annoyance, curiosity, excitement, joy, neutral",6
+wänden,"amusement, disgust, love, neutral",4
+verwandelt,"admiration, anger, annoyance, neutral",4
+außerdem,"admiration, neutral",2
+raten,"neutral, optimism",2
+rat,"love, neutral",2
+erwischt,"curiosity, neutral",2
+trotzdem,"love, neutral, surprise",3
+entkommen,"desire, fear, neutral",3
+woraufhin,"annoyance, love, neutral",3
+augenblicklich,"confusion, joy, neutral",3
+kalten,"admiration, curiosity, joy, neutral",4
+derweil,"fear, neutral",2
+prinzen,"admiration, anger, caring, curiosity, desire, disappointment, excitement, fear, joy, love, neutral, realization, sadness, surprise",14
+erzählt,"admiration, neutral, sadness",3
+mag,"approval, curiosity, disgust, joy, neutral",5
+bittet,"admiration, love, nervousness, neutral",4
+darum,"admiration, annoyance, disapproval, neutral",4
+alte,"admiration, anger, approval, disappointment, disapproval, excitement, fear, gratitude, joy, love, neutral, optimism, realization, sadness, surprise",15
+kraft,"admiration, curiosity, neutral, realization",4
+unterdessen,"love, neutral",2
+zweiten,"disappointment, neutral",2
+schloss,"admiration, amusement, disapproval, joy, love, neutral, surprise",7
+prinzessin,"admiration, anger, annoyance, approval, caring, confusion, curiosity, desire, disappointment, disgust, excitement, fear, gratitude, joy, love, neutral, optimism, realization, sadness, surprise",20
+leben,"admiration, approval, caring, curiosity, desire, disappointment, excitement, fear, joy, love, neutral, realization, sadness, surprise",14
+heraus,"admiration, anger, disappointment, fear, neutral, realization, sadness",7
+neues,"approval, neutral, realization",3
+kleid,"admiration, annoyance, love, neutral",4
+geschenk,"admiration, excitement, love, neutral",4
+sowie,"admiration, confusion, fear, neutral",4
+paar,"admiration, amusement, disapproval, joy, neutral, optimism, realization",7
+reise,"caring, disapproval, neutral",3
+jedoch,"admiration, amusement, annoyance, embarrassment, fear, neutral",6
+verliert,"annoyance, neutral, realization, sadness",4
+dafür,"admiration, caring, excitement, gratitude, love, neutral, optimism, realization, sadness, surprise",10
+deren,"admiration, approval, gratitude, joy, love, neutral, optimism",7
+dritten,"admiration, neutral",2
+räuber,"amusement, disapproval, neutral",3
+schlafen,"curiosity, disapproval, love, neutral",4
+norden,"admiration, neutral",2
+begibt,"caring, fear, love, neutral",4
+dorthin,"admiration, neutral",2
+gestoßen,"disgust, neutral",2
+begegnet,"neutral, realization",2
+einst,"admiration, disappointment, disgust, gratitude, love, neutral, realization",7
+licht,"admiration, annoyance, approval, joy, neutral, realization, relief, sadness",8
+miteinander,"admiration, amusement, joy, neutral",4
+rangen,"neutral, sadness",2
+fiel,"annoyance, disappointment, gratitude, joy, neutral, sadness",6
+danach,"admiration, curiosity, disgust, fear, neutral, optimism",6
+langsam,"admiration, neutral, realization",3
+ewig,"curiosity, neutral",2
+darin,"admiration, disgust, joy, love, neutral, sadness",6
+sobald,"admiration, anger, neutral, realization",4
+nahe,"caring, neutral, realization, sadness",4
+käme,"curiosity, neutral, realization",3
+hände,"admiration, anger, approval, caring, desire, disgust, gratitude, joy, neutral, sadness",10
+wärme,"admiration, amusement, joy, neutral, realization",5
+strömt,"neutral, pride",2
+menschen,"admiration, amusement, anger, annoyance, curiosity, desire, disappointment, disapproval, disgust, excitement, fear, joy, love, neutral, optimism, realization, sadness",17
+entführte,"amusement, neutral",2
+machte,"admiration, disappointment, fear, joy, neutral, sadness",6
+stunde,"neutral, sadness",2
+zerbricht,"caring, neutral",2
+weißen,"admiration, annoyance, caring, confusion, gratitude, love, neutral, sadness",8
+kurz,"grief, neutral",2
+darauf,"admiration, amusement, grief, joy, neutral, realization, sadness, surprise",8
+verzweifelt,"fear, love, neutral",3
+fasst,"caring, neutral",2
+hand,"admiration, approval, caring, confusion, disappointment, fear, love, neutral, realization, sadness",10
+bewegen,"neutral, realization",2
+zeigt,"admiration, amusement, neutral",3
+entgegen,"fear, neutral",2
+guten,"admiration, excitement, gratitude, joy, love, neutral",6
+hält,"admiration, neutral",2
+lange,"admiration, amusement, annoyance, curiosity, disgust, fear, joy, love, neutral, realization, sadness",11
+daran,"admiration, approval, desire, joy, love, neutral, sadness, surprise",8
+setzen,"admiration, neutral",2
+erwacht,"admiration, love, neutral, sadness",4
+gerdas,"fear, love, neutral, sadness",4
+zerstört,"confusion, neutral",2
+märchen,"admiration, disappointment, neutral",3
+armer,"admiration, anger, desire, disappointment, neutral, sadness",6
+präsentiert,"neutral, realization",2
+abend,"annoyance, approval, desire, excitement, fear, gratitude, joy, neutral, realization",9
+fortgehen,"neutral, realization",2
+nacht,"admiration, amusement, annoyance, approval, caring, desire, disappointment, excitement, fear, joy, love, neutral, sadness",13
+präsentieren,"admiration, neutral",2
+puppen,"neutral, sadness",2
+soldat,"admiration, amusement, annoyance, approval, desire, fear, gratitude, joy, neutral, optimism, realization",11
+wurde,"admiration, amusement, anger, annoyance, approval, caring, confusion, curiosity, desire, disappointment, disgust, fear, gratitude, grief, joy, love, neutral, optimism, realization, remorse, sadness, surprise",22
+geht,"admiration, annoyance, disapproval, excitement, fear, love, neutral, pride, sadness",9
+arm,"curiosity, neutral, realization, sadness",4
+trifft,"admiration, caring, disappointment, neutral, realization",5
+hinab,"approval, curiosity, neutral, sadness",4
+gold,"admiration, approval, confusion, disgust, gratitude, love, neutral, realization, sadness, surprise",10
+tornister,"admiration, anger, gratitude, neutral",4
+verspricht,"love, neutral, optimism",3
+zurück,"admiration, anger, approval, desire, disappointment, excitement, fear, joy, neutral, pride, realization, sadness, surprise",13
+versprechen,"annoyance, neutral, sadness",3
+eilt,"love, neutral",2
+fort,"admiration, anger, annoyance, caring, confusion, desire, disapproval, neutral, sadness",9
+soldaten,"admiration, annoyance, disappointment, excitement, gratitude, love, neutral, realization",8
+gelangt,"curiosity, neutral",2
+besiegt,"love, neutral",2
+marktplatz,"admiration, neutral",2
+sofort,"admiration, fear, love, neutral, realization, surprise",6
+verliebt,"admiration, fear, love, neutral, realization, sadness",6
+viele,"admiration, amusement, annoyance, approval, caring, neutral, sadness",7
+freier,"admiration, neutral",2
+vater,"admiration, annoyance, fear, grief, joy, love, neutral, optimism, realization, sadness, surprise",11
+königreich,"admiration, desire, disappointment, joy, love, neutral, realization",7
+geld,"admiration, amusement, anger, approval, curiosity, desire, disappointment, embarrassment, fear, joy, love, neutral, optimism",13
+reichen,"admiration, neutral",2
+sodass,"annoyance, neutral",2
+hotel,"admiration, neutral, sadness",3
+steht,"admiration, approval, confusion, joy, love, neutral, pride, realization",8
+gute,"admiration, approval, disappointment, gratitude, neutral, optimism, realization",7
+feuerzeug,"admiration, amusement, curiosity, disappointment, gratitude, neutral, optimism",7
+gerufen,"annoyance, neutral",2
+wunsch,"desire, disapproval, joy, neutral, sadness",5
+müsse,"admiration, disapproval, neutral, sadness",4
+wünscht,"desire, neutral",2
+her,"admiration, curiosity, fear, love, neutral",5
+kurze,"admiration, neutral",2
+stube,"admiration, approval, curiosity, disgust, love, neutral, sadness",7
+schlafende,"joy, neutral",2
+glaubt,"curiosity, neutral",2
+träume,"amusement, disappointment, embarrassment, neutral, sadness",5
+spaziergang,"caring, neutral",2
+erfreut,"admiration, joy, neutral",3
+schnee,"admiration, amusement, curiosity, joy, neutral",5
+sommer,"admiration, amusement, curiosity, disappointment, gratitude, neutral, sadness",7
+küssen,"admiration, desire, love, neutral",4
+erkennt,"admiration, embarrassment, joy, neutral, realization",5
+traum,"admiration, annoyance, desire, excitement, fear, joy, neutral",7
+empört,"anger, annoyance, neutral",3
+davon,"admiration, amusement, approval, curiosity, desire, disappointment, fear, joy, love, neutral, optimism, pride, realization, sadness",14
+bett,"admiration, amusement, disappointment, disapproval, fear, joy, love, neutral",8
+genug,"admiration, annoyance, approval, curiosity, love, neutral, realization",7
+hochzeit,"admiration, desire, joy, neutral, realization",5
+besteht,"love, neutral, pride",3
+stellt,"anger, curiosity, neutral, realization, sadness",5
+knifflige,"gratitude, neutral",2
+frage,"annoyance, confusion, curiosity, embarrassment, fear, gratitude, neutral",7
+zauberers,"gratitude, neutral",2
+richtig,"admiration, approval, disappointment, joy, love, neutral",6
+beantworten,"gratitude, neutral",2
+darf,"admiration, annoyance, approval, confusion, disappointment, disapproval, neutral, pride, sadness",9
+heiraten,"curiosity, desire, disappointment, excitement, joy, love, neutral, sadness",8
+befiehlt,"curiosity, neutral",2
+bemerkt,"joy, neutral",2
+liegt,"admiration, annoyance, approval, neutral",4
+kurzen,"admiration, neutral, sadness",3
+erscheint,"admiration, disappointment, fear, neutral, realization",5
+bereits,"admiration, neutral, realization",3
+löst,"annoyance, neutral",2
+unsichtbar,"admiration, joy, neutral",3
+gefangenen,"neutral, realization",2
+könig,"admiration, annoyance, approval, confusion, curiosity, disappointment, disgust, excitement, joy, love, neutral, optimism, pride, realization, sadness, surprise",16
+zaubert,"admiration, neutral",2
+nase,"annoyance, disgust, love, neutral",4
+möchte,"admiration, amusement, annoyance, curiosity, desire, disappointment, excitement, joy, neutral, sadness",10
+schicksal,"neutral, realization",2
+heirat,"admiration, neutral",2
+wege,"confusion, joy, neutral, surprise",4
+aufgabe,"fear, neutral",2
+erfüllt,"admiration, disapproval, joy, neutral, sadness",5
+verlangt,"anger, excitement, neutral",3
+prinz,"admiration, curiosity, desire, disappointment, disapproval, excitement, joy, love, neutral, sadness, surprise",11
+geliebte,"love, neutral",2
+suchen,"amusement, neutral",2
+letztendlich,"admiration, neutral",2
+ehe,"admiration, neutral, surprise",3
+liebt,"curiosity, love, neutral, realization",4
+eröffnet,"disappointment, neutral",2
+könne,"admiration, approval, desire, disapproval, disgust, excitement, neutral, surprise",8
+sei,"admiration, annoyance, approval, curiosity, desire, disappointment, disapproval, disgust, fear, gratitude, neutral, realization, sadness, surprise",14
+ort,"joy, neutral",2
+versteht,"anger, neutral",2
+puppentheater,"joy, neutral",2
+lebt,"annoyance, neutral",2
+frau,"admiration, amusement, annoyance, approval, caring, curiosity, fear, joy, love, neutral, realization, sadness, surprise",13
+kindern,"gratitude, neutral, realization",3
+montag,"admiration, neutral",2
+samstag,"admiration, neutral",2
+hans,"gratitude, joy, love, neutral, surprise",5
+feld,"admiration, grief, neutral, realization",4
+familie,"desire, disappointment, disgust, neutral",4
+haut,"admiration, neutral, sadness",3
+markt,"amusement, neutral, realization",3
+aufgrund,"approval, disgust, neutral",3
+übernachten,"disappointment, neutral",2
+schickt,"admiration, neutral",2
+boden,"admiration, disappointment, fear, neutral, realization, sadness",6
+empfängt,"nervousness, neutral",2
+behauptet,"annoyance, neutral",2
+kuchen,"admiration, neutral",2
+befinden,"neutral, optimism",2
+sogar,"admiration, desire, neutral",3
+``,"admiration, amusement, anger, annoyance, approval, caring, confusion, curiosity, desire, disappointment, disapproval, disgust, embarrassment, excitement, fear, gratitude, joy, love, neutral, optimism, pride, realization, remorse, sadness, surprise",25
+'',"admiration, amusement, anger, annoyance, approval, caring, confusion, curiosity, desire, disappointment, disapproval, disgust, embarrassment, excitement, fear, gratitude, joy, love, neutral, optimism, pride, realization, sadness, surprise",24
+sitzt,"admiration, approval, confusion, disapproval, love, neutral",6
+dankbarkeit,"admiration, neutral",2
+schuhe,"admiration, desire, disappointment, fear, joy, neutral, realization, sadness, surprise",9
+daheim,"admiration, joy, neutral",3
+nachdem,"caring, disappointment, neutral, pride",4
+toten,"annoyance, caring, neutral",3
+bekommen,"admiration, amusement, annoyance, caring, confusion, curiosity, disappointment, excitement, joy, love, neutral, optimism, realization, sadness, surprise",15
+erschlägt,"annoyance, neutral",2
+versucht,"anger, annoyance, joy, neutral, surprise",5
+wegen,"admiration, anger, neutral, remorse",4
+preisvorstellungen,"amusement, neutral",2
+zuvor,"admiration, amusement, anger, fear, neutral, realization",6
+kirche,"admiration, disapproval, fear, neutral",4
+davor,"anger, fear, neutral",3
+stehen,"admiration, curiosity, disgust, fear, joy, love, neutral",7
+steine,"caring, disappointment, neutral",3
+feind,"fear, neutral, realization",3
+geworfen,"admiration, neutral",2
+wenig,"admiration, joy, neutral, realization, sadness",5
+wiese,"admiration, neutral",2
+neben,"love, neutral",2
+berichtet,"admiration, love, neutral",3
+grund,"admiration, curiosity, neutral",3
+flusses,"curiosity, neutral",2
+fee,"gratitude, joy, love, neutral, sadness, surprise",6
+geschenkt,"joy, neutral",2
+ertrinkt,"caring, neutral",2
+meerjungfrau,"admiration, amusement, neutral, realization",4
+–,"admiration, amusement, annoyance, approval, caring, disappointment, gratitude, joy, love, neutral, realization, sadness, surprise",13
+auge,"admiration, amusement, neutral",3
+meerkönigs,"approval, neutral",2
+stelle,"approval, desire, joy, neutral, surprise",5
+see,"admiration, disappointment, fear, gratitude, joy, neutral",6
+wilde,"annoyance, love, neutral",3
+töchter,"approval, neutral",2
+glänzenden,"admiration, approval, excitement, neutral",4
+perlen,"neutral, pride",2
+heute,"excitement, neutral",2
+geburtstag,"admiration, excitement, joy, neutral",4
+singen,"admiration, curiosity, desire, disappointment, excitement, neutral",6
+singt,"love, neutral",2
+liebe,"admiration, approval, caring, desire, joy, love, neutral, realization",8
+voller,"admiration, amusement, fear, gratitude, joy, love, neutral, pride, realization",9
+trauer,"admiration, joy, love, neutral, sadness",5
+bricht,"love, neutral",2
+treibt,"anger, neutral",2
+retten,"admiration, approval, desire, neutral, sadness",5
+augen,"admiration, amusement, desire, disappointment, disapproval, excitement, fear, love, neutral, realization, sadness, surprise",12
+schiff,"caring, joy, neutral, realization, sadness, surprise",6
+meereskönig,"neutral, realization",2
+lassen,"admiration, annoyance, approval, disapproval, embarrassment, joy, love, neutral, sadness",9
+gleitet,"neutral, sadness",2
+sanft,"curiosity, neutral",2
+herab,"anger, fear, love, neutral, sadness",5
+blaue,"admiration, disgust, neutral, surprise",4
+haar,"admiration, confusion, neutral",3
+schwester,"admiration, amusement, approval, caring, joy, love, neutral, sadness",8
+erste,"annoyance, curiosity, disapproval, neutral",4
+seejungfrau,"joy, neutral, sadness",3
+schwestern,"admiration, amusement, annoyance, desire, fear, joy, neutral, sadness",8
+großmutter,"admiration, anger, annoyance, approval, disappointment, embarrassment, joy, love, neutral, sadness",10
+königin,"admiration, amusement, annoyance, caring, confusion, desire, disappointment, excitement, joy, love, neutral",11
+nordlicht,"admiration, neutral",2
+gelben,"admiration, joy, neutral",3
+meer,"admiration, amusement, curiosity, disappointment, love, neutral, sadness",7
+feuer,"admiration, disgust, neutral, realization",4
+singenden,"joy, neutral",2
+fischen,"fear, neutral",2
+blumen,"admiration, amusement, anger, annoyance, disapproval, disgust, gratitude, love, neutral, sadness",10
+schafen,"admiration, neutral",2
+fragt,"embarrassment, joy, neutral",3
+nixe,"admiration, caring, excitement, neutral, surprise",5
+verbleib,"love, neutral",2
+mutter,"admiration, caring, curiosity, disappointment, disgust, fear, joy, love, neutral, realization, sadness, surprise",12
+jahre,"disappointment, neutral, optimism",3
+alt,"love, neutral, sadness",3
+meere,"admiration, annoyance, approval, curiosity, desire, joy, neutral, realization",8
+blickt,"amusement, neutral",2
+oberfläche,"disappointment, neutral",2
+schwimmt,"admiration, neutral",2
+vergleicht,"neutral, surprise",2
+aussehen,"gratitude, neutral",2
+fest,"admiration, approval, desire, disappointment, disgust, excitement, fear, joy, neutral, sadness",10
+bevor,"approval, neutral",2
+bäumen,"admiration, approval, disgust, neutral",4
+kuss,"love, neutral",2
+königliche,"disappointment, fear, neutral",3
+meeresfamilie,"fear, neutral",2
+kostbaren,"annoyance, desire, neutral",3
+rote,"admiration, annoyance, neutral",3
+inneren,"disappointment, neutral",2
+gefunden,"amusement, joy, love, neutral, realization, surprise",6
+roten,"admiration, caring, desire, disappointment, disgust, joy, neutral",7
+schenkte,"admiration, curiosity, desire, disappointment, gratitude, neutral",6
+wunderschöne,"admiration, fear, neutral",3
+stimme,"admiration, approval, neutral, realization, sadness",5
+hören,"admiration, annoyance, approval, desire, disappointment, excitement, joy, neutral",8
+weiß,"admiration, anger, caring, confusion, curiosity, disappointment, fear, joy, love, neutral, optimism, realization, surprise",13
+rot,"admiration, love, neutral, realization, sadness",5
+schwarz,"neutral, sadness",2
+wer,"admiration, anger, annoyance, approval, curiosity, disappointment, fear, love, neutral, optimism, realization, sadness, surprise",13
+nie,"admiration, amusement, anger, annoyance, caring, confusion, disappointment, disapproval, disgust, embarrassment, fear, joy, love, neutral, realization, sadness, surprise",17
+oben,"admiration, amusement, annoyance, curiosity, joy, neutral",6
+jungen,"admiration, anger, approval, fear, joy, neutral, realization",7
+hört,"neutral, sadness",2
+sehnsucht,"admiration, amusement, fear, neutral",4
+tiefe,"neutral, realization",2
+meeres,"admiration, neutral, realization",3
+schar,"fear, neutral",2
+königlichen,"admiration, neutral",2
+prächtigen,"admiration, neutral, sadness",3
+feuerwerk,"joy, neutral",2
+meeresschaum,"annoyance, neutral",2
+land,"admiration, annoyance, desire, disapproval, joy, love, neutral, optimism, sadness",9
+fröhlich,"admiration, curiosity, excitement, joy, neutral",5
+schöne,"admiration, amusement, approval, disappointment, excitement, joy, love, neutral, sadness, surprise",10
+kummervoll,"neutral, sadness",2
+meerkönig,"disappointment, neutral",2
+streng,"admiration, neutral",2
+immer,"admiration, amusement, annoyance, approval, caring, curiosity, desire, disappointment, fear, joy, love, neutral, optimism, realization, sadness",15
+dunkelhaarige,"admiration, love, neutral, realization",4
+denken,"admiration, annoyance, neutral, realization",4
+jahr,"admiration, joy, neutral",3
+untergehenden,"admiration, neutral",2
+gekommen,"curiosity, fear, neutral, sadness",4
+läuft,"admiration, amusement, approval, love, neutral",5
+meerhexe,"fear, neutral",2
+menschliche,"disgust, neutral",2
+erhalten,"admiration, curiosity, disappointment, excitement, love, nervousness, neutral, optimism",8
+lied,"admiration, curiosity, excitement, joy, neutral, realization, sadness",7
+herz,"admiration, amusement, approval, caring, curiosity, desire, embarrassment, fear, gratitude, joy, love, neutral, optimism, realization, sadness, surprise",16
+brechen,"neutral, sadness",2
+natur,"admiration, annoyance, neutral",3
+vielen,"admiration, caring, love, neutral",4
+garten,"admiration, amusement, fear, joy, neutral",5
+einsam,"fear, neutral",2
+menschengestalt,"disappointment, neutral",2
+reisen,"approval, disappointment, neutral",3
+schweigen,"anger, annoyance, love, neutral",4
+schiffe,"admiration, neutral, surprise",3
+laufen,"love, neutral",2
+blutigen,"joy, neutral",2
+füße,"admiration, anger, embarrassment, nervousness, neutral, sadness",6
+scheint,"admiration, desire, disappointment, neutral",4
+erkennen,"admiration, disgust, fear, joy, neutral, realization",6
+meermädchen,"admiration, annoyance, neutral",3
+messer,"admiration, amusement, curiosity, fear, joy, neutral, sadness",7
+drängt,"desire, fear, neutral",3
+neigt,"admiration, neutral",2
+schrei,"admiration, annoyance, fear, neutral, sadness",5
+erwachen,"desire, neutral, realization",3
+braut,"admiration, annoyance, neutral, sadness",4
+darüber,"admiration, neutral, realization",3
+gesang,"admiration, amusement, disgust, excitement, gratitude, love, neutral",7
+evan,"admiration, embarrassment, love, neutral, sadness",5
+verloren,"admiration, confusion, disappointment, neutral, realization, sadness",6
+daher,"approval, caring, desire, joy, love, neutral",6
+baum,"admiration, annoyance, curiosity, joy, neutral, realization",6
+rettet,"caring, neutral",2
+bart,"admiration, desire, neutral",3
+gefällt,"admiration, approval, love, neutral",4
+maria,"anger, joy, love, neutral, sadness, surprise",6
+königs,"admiration, amusement, annoyance, disappointment, neutral, realization",6
+rücken,"admiration, annoyance, joy, love, neutral",5
+endlich,"amusement, caring, desire, fear, joy, neutral, optimism, realization, sadness",9
+gilt,"admiration, annoyance, love, neutral",4
+alter,"admiration, curiosity, neutral, realization, sadness",5
+räte,"admiration, neutral",2
+seite,"admiration, disappointment, fear, love, neutral, sadness",6
+mechanische,"joy, love, neutral",3
+nachtigall,"admiration, joy, love, neutral",4
+gewand,"neutral, realization",2
+krönung,"joy, neutral",2
+stoff,"admiration, neutral",2
+amtes,"admiration, neutral",2
+geben,"admiration, amusement, anger, approval, curiosity, desire, disapproval, embarrassment, neutral, realization, sadness",11
+unsichtbaren,"admiration, neutral",2
+schließlich,"admiration, anger, neutral, realization, sadness",5
+schneidern,"approval, neutral",2
+unterwäsche,"amusement, joy, neutral",3
+obwohl,"approval, joy, love, neutral",4
+eigentlich,"curiosity, neutral",2
+sagen,"admiration, amusement, annoyance, approval, curiosity, fear, gratitude, joy, love, neutral, realization, sadness",12
+anstellung,"curiosity, nervousness, neutral",3
+ruft,"anger, neutral",2
+fast,"admiration, amusement, fear, love, neutral, sadness, surprise",7
+nackt,"amusement, annoyance, neutral",3
+fassen,"disappointment, neutral",2
+gelingt,"disappointment, neutral",2
+vollkommen,"neutral, realization",2
+gemeinsam,"approval, disappointment, neutral",3
+glas,"admiration, annoyance, approval, caring, confusion, desire, disapproval, fear, neutral, sadness",10
+rose,"admiration, annoyance, confusion, joy, neutral, optimism, realization",7
+krank,"neutral, sadness",2
+künstliche,"admiration, curiosity, love, neutral",4
+ertragen,"admiration, love, neutral",3
+stets,"love, neutral, realization",3
+wald,"admiration, curiosity, fear, gratitude, grief, neutral, realization, sadness",8
+fliegt,"admiration, disapproval, neutral",3
+gesund,"caring, joy, neutral",3
+erinnert,"admiration, love, neutral, realization",4
+frühere,"amusement, love, neutral",3
+flieht,"amusement, fear, neutral",3
+wünschen,"curiosity, disappointment, neutral",3
+trennen,"love, neutral",2
+mögen,"love, neutral",2
+wilden,"gratitude, love, neutral",3
+schwäne,"admiration, anger, annoyance, caring, joy, neutral, sadness",7
+elisa,"admiration, anger, annoyance, approval, confusion, curiosity, disappointment, fear, joy, love, neutral, realization, sadness",13
+sechs,"admiration, neutral",2
+brüdern,"admiration, gratitude, neutral, sadness",4
+hielt,"admiration, amusement, annoyance, approval, disappointment, joy, neutral",7
+hexentochter,"admiration, anger, neutral",3
+brüder,"amusement, approval, caring, desire, fear, neutral, realization, sadness",8
+däumelinchen,"admiration, annoyance, caring, disapproval, disgust, joy, love, neutral, sadness",9
+kind,"admiration, annoyance, caring, curiosity, disappointment, gratitude, joy, love, neutral, sadness",10
+kröte,"admiration, amusement, disapproval, disgust, neutral, realization, remorse",7
+entführt,"anger, neutral",2
+freunde,"admiration, annoyance, love, neutral",4
+maikäfer,"annoyance, love, neutral",3
+lustig,"amusement, joy, love, neutral",4
+winter,"approval, curiosity, fear, gratitude, love, neutral, realization",7
+unterschlupf,"admiration, neutral",2
+feldmaus,"admiration, approval, neutral, sadness",4
+helfen,"admiration, approval, caring, disappointment, disapproval, gratitude, love, neutral, optimism",9
+geschichten,"admiration, amusement, approval, love, neutral",5
+besuch,"excitement, neutral, sadness",3
+maulwurf,"admiration, annoyance, neutral, realization",4
+freundin,"caring, neutral",2
+schwalbe,"admiration, caring, desire, joy, neutral, sadness",6
+blüte,"joy, neutral",2
+elf,"anger, caring, curiosity, joy, neutral, realization, sadness",7
+einzigen,"disapproval, neutral",2
+verschollen,"neutral, surprise",2
+verlassen,"annoyance, neutral, sadness",3
+leute,"admiration, amusement, approval, fear, joy, love, neutral, sadness",8
+spur,"annoyance, neutral",2
+nehmen,"admiration, approval, neutral, optimism",4
+erneut,"disappointment, fear, love, neutral, realization",5
+böse,"admiration, amusement, annoyance, approval, caring, confusion, disappointment, disapproval, disgust, embarrassment, fear, neutral, sadness",13
+stiefmutter,"annoyance, disgust, neutral, sadness",4
+hemden,"neutral, realization, sadness",3
+brennnesseln,"anger, neutral, realization",3
+zauber,"excitement, love, neutral",3
+gebrochen,"love, neutral, sadness",3
+wiederum,"love, neutral",2
+stumme,"admiration, love, neutral",3
+kammer,"disapproval, neutral",2
+pflanzen,"admiration, neutral",2
+pflücken,"disgust, neutral",2
+erzbischof,"annoyance, neutral",2
+zeuge,"admiration, neutral",2
+hexen,"anger, annoyance, neutral",3
+frauen,"neutral, sadness",2
+führt,"neutral, sadness",2
+tod,"amusement, annoyance, neutral, realization, sadness",5
+droht,"neutral, surprise",2
+gefahren,"excitement, gratitude, neutral",3
+wagen,"admiration, approval, desire, disgust, grief, neutral, pride, sadness",8
+gelegt,"desire, neutral",2
+fahrt,"amusement, excitement, neutral, surprise",4
+hastig,"neutral, sadness",2
+letzten,"desire, love, neutral, surprise",4
+richtplatz,"anger, neutral",2
+angekommen,"anger, joy, neutral",3
+zehn,"disappointment, gratitude, neutral",3
+bruder,"admiration, neutral, sadness",3
+schwan,"admiration, disgust, neutral",3
+fordert,"neutral, surprise",2
+verneigen,"admiration, neutral",2
+gehalten,"admiration, fear, neutral",3
+galoschen,"admiration, amusement, caring, confusion, curiosity, desire, disappointment, excitement, joy, neutral",10
+sorge,"fear, neutral",2
+mensch,"admiration, amusement, annoyance, disapproval, joy, neutral, optimism, realization, sadness",9
+ewigen,"fear, love, neutral, optimism, realization",5
+taugen,"confusion, neutral",2
+neuen,"annoyance, disappointment, neutral, realization",4
+herr,"admiration, approval, curiosity, embarrassment, neutral, sadness",6
+gesteckt,"curiosity, neutral",2
+idee,"neutral, realization",2
+junger,"admiration, love, neutral, surprise",4
+leutnant,"neutral, surprise",2
+ball,"approval, desire, joy, love, neutral, surprise",6
+ganzes,"approval, neutral, sadness",3
+vermögen,"curiosity, neutral, optimism",3
+tun,"admiration, annoyance, confusion, neutral, optimism, realization",6
+erschöpft,"neutral, realization",2
+schlaf,"neutral, realization, sadness",3
+denen,"admiration, approval, love, neutral, optimism",5
+tote,"neutral, sadness",2
+füßen,"admiration, caring, disgust, neutral, sadness",5
+abgenommen,"desire, neutral",2
+theater,"amusement, annoyance, neutral",3
+gelangen,"desire, fear, neutral, optimism",4
+oper,"annoyance, neutral",2
+behandelt,"admiration, caring, neutral",3
+ganz,"admiration, amusement, annoyance, approval, confusion, curiosity, disappointment, disapproval, excitement, fear, joy, love, nervousness, neutral, optimism, realization, sadness, surprise",18
+ersten,"approval, caring, disappointment, joy, love, neutral, realization",7
+reihe,"admiration, neutral",2
+laut,"admiration, amusement, approval, fear, love, neutral, sadness",7
+situation,"approval, neutral",2
+mitten,"admiration, approval, desire, disapproval, fear, love, neutral, realization, sadness, surprise",10
+gut,"admiration, amusement, approval, caring, confusion, curiosity, embarrassment, excitement, fear, joy, neutral, realization, sadness",13
+gerät,"annoyance, embarrassment, neutral, realization, sadness, surprise",6
+tiefer,"admiration, approval, neutral",3
+lauter,"love, neutral",2
+dampfbad,"fear, neutral",2
+wundert,"neutral, surprise",2
+eintrittskarte,"annoyance, neutral",2
+verrückt,"amusement, annoyance, excitement, joy, neutral",5
+irrenarzt,"annoyance, neutral",2
+einfach,"confusion, love, neutral",3
+zieht,"annoyance, love, neutral, surprise",4
+vogel,"admiration, annoyance, approval, caring, curiosity, disgust, gratitude, neutral, realization, sadness",10
+worte,"admiration, annoyance, approval, disappointment, neutral, realization",6
+feen,"love, neutral",2
+nähe,"neutral, remorse",2
+glücks,"caring, confusion, curiosity, disappointment, excitement, joy, neutral",7
+armen,"admiration, amusement, joy, love, neutral, realization, sadness",7
+langem,"joy, neutral, realization",3
+student,"desire, neutral",2
+gern,"admiration, approval, curiosity, desire, fear, gratitude, joy, love, neutral, sadness",10
+verwundert,"neutral, surprise",2
+wesen,"joy, neutral, sadness",3
+wohin,"curiosity, disappointment, embarrassment, neutral, realization",5
+gewünscht,"desire, neutral",2
+figuren,"admiration, amusement, neutral",3
+kay,"admiration, curiosity, disapproval, excitement, gratitude, love, neutral, realization, sadness",9
+kaiser,"admiration, amusement, annoyance, approval, curiosity, desire, disapproval, embarrassment, gratitude, joy, neutral, realization, surprise",13
+kleider,"admiration, amusement, annoyance, curiosity, excitement, neutral, realization",7
+schwefelhölzern,"admiration, annoyance, neutral",3
+schlosses,"annoyance, joy, neutral, sadness",4
+erwartet,"desire, neutral, optimism, remorse",4
+reisekamerad,"admiration, fear, joy, neutral, sadness",5
+beweisen,"approval, desire, love, neutral",4
+fragen,"confusion, neutral",2
+tiefste,"desire, neutral",2
+schlafmittel,"desire, neutral",2
+glücksfee,"excitement, neutral",2
+verschwindet,"admiration, neutral",2
+junge,"admiration, disappointment, fear, grief, joy, love, neutral, realization",8
+bauer,"approval, desire, disgust, joy, neutral",5
+springt,"excitement, neutral",2
+cape,"disappointment, neutral",2
+cod,"disappointment, neutral",2
+hübsches,"admiration, curiosity, neutral",3
+fischschwanz,"admiration, annoyance, neutral",3
+schnell,"admiration, anger, annoyance, fear, love, neutral",6
+fahren,"admiration, annoyance, neutral",3
+kornbluth,"neutral, sadness",2
+dabei,"approval, curiosity, disappointment, joy, neutral, realization, sadness, surprise",8
+stürzt,"annoyance, neutral",2
+bewusstlos,"neutral, sadness",2
+blonde,"admiration, neutral",2
+rettete,"caring, neutral",2
+beine,"admiration, caring, disapproval, neutral",4
+wiedersehen,"joy, neutral",2
+deshalb,"admiration, excitement, fear, joy, neutral, realization",6
+polizei,"approval, curiosity, neutral",3
+sprache,"disappointment, neutral",2
+name,"admiration, curiosity, neutral",3
+auszusprechen,"caring, love, neutral",3
+madison,"love, neutral",2
+sagt,"admiration, approval, caring, embarrassment, excitement, gratitude, neutral",7
+tage,"admiration, annoyance, disappointment, fear, love, neutral",6
+bleiben,"admiration, approval, love, neutral",4
+besessen,"admiration, neutral",2
+hilft,"approval, neutral, sadness",3
+langen,"admiration, anger, fear, joy, neutral, optimism, sadness",7
+springen,"excitement, neutral",2
+klar,"admiration, love, neutral, realization, surprise",5
+erbse,"admiration, disappointment, joy, love, neutral",5
+regen,"admiration, embarrassment, fear, neutral, sadness",5
+blick,"admiration, curiosity, love, neutral, realization",5
+gesucht,"neutral, sadness",2
+öffnet,"admiration, neutral",2
+lachen,"amusement, joy, neutral",3
+mädchens,"love, neutral",2
+kommenden,"fear, neutral",2
+weckt,"curiosity, neutral",2
+anmutig,"joy, neutral",2
+schultern,"admiration, neutral",2
+schweinehirten,"annoyance, neutral, realization",3
+prächtiger,"admiration, neutral",2
+anblick,"admiration, joy, neutral",3
+pflegt,"caring, neutral",2
+natürliche,"annoyance, neutral",2
+verspottet,"disgust, neutral",2
+schweinehirt,"admiration, anger, annoyance, curiosity, disappointment, excitement, gratitude, neutral, sadness, surprise",10
+traurig,"admiration, neutral, sadness",3
+spaß,"amusement, neutral",2
+neuer,"admiration, joy, neutral",3
+musik,"admiration, amusement, annoyance, disappointment, joy, love, neutral, surprise",8
+lieblich,"admiration, neutral",2
+küsse,"amusement, annoyance, excitement, gratitude, love, neutral, realization",7
+topf,"admiration, curiosity, gratitude, neutral",4
+schmutzigen,"disgust, neutral",2
+zehnmal,"love, neutral",2
+spielzeug,"neutral, sadness",2
+melodie,"admiration, approval, neutral",3
+oh,"admiration, curiosity, disgust, embarrassment, fear, joy, neutral, realization, surprise",9
+augustin,"admiration, approval, desire, excitement, love, neutral",6
+preis,"desire, neutral",2
+hundert,"admiration, fear, neutral",3
+gerne,"joy, love, neutral",3
+verweist,"annoyance, neutral",2
+echten,"admiration, neutral",2
+weitem,"fear, neutral",2
+berge,"curiosity, fear, joy, neutral",4
+wälder,"admiration, neutral, sadness",3
+tuch,"admiration, disgust, neutral",3
+kleiner,"admiration, annoyance, approval, curiosity, embarrassment, fear, neutral, sadness",8
+witz,"admiration, amusement, neutral, pride, realization",5
+gehen,"admiration, amusement, desire, disgust, fear, gratitude, neutral, surprise",8
+königstochter,"amusement, curiosity, neutral",3
+tief,"admiration, curiosity, fear, neutral, realization, sadness",6
+werben,"desire, neutral",2
+dinge,"admiration, caring, excitement, joy, love, neutral",6
+opfer,"caring, neutral",2
+freude,"admiration, desire, joy, love, neutral, realization, surprise",7
+verzichten,"excitement, love, neutral",3
+schwarze,"admiration, love, neutral, sadness",4
+schönheit,"admiration, embarrassment, love, neutral, realization",5
+gefahr,"neutral, realization",2
+stellen,"annoyance, fear, neutral",3
+troll,"disgust, neutral, sadness",3
+weite,"embarrassment, neutral",2
+drehen,"admiration, amusement, neutral",3
+tanz,"disappointment, joy, neutral, surprise",4
+beantwortet,"admiration, neutral",2
+hoffnung,"neutral, optimism, realization, sadness",4
+erlösen,"confusion, love, neutral",3
+liebste,"admiration, neutral",2
+diesmal,"disappointment, love, neutral",3
+kopf,"admiration, annoyance, caring, confusion, disgust, embarrassment, fear, joy, love, neutral, sadness, surprise",12
+wissen,"approval, curiosity, disapproval, excitement, joy, neutral, realization, surprise",8
+lebendige,"admiration, love, neutral",3
+dritte,"amusement, fear, love, neutral",4
+gedacht,"approval, curiosity, neutral, realization, surprise",5
+gesteht,"love, neutral",2
+wahrheit,"embarrassment, neutral, realization",3
+feiern,"joy, neutral",2
+preziöse,"anger, neutral",2
+müde,"admiration, embarrassment, nervousness, neutral, sadness",5
+ferne,"admiration, curiosity, neutral",3
+maler,"admiration, neutral",2
+gatten,"excitement, neutral",2
+unglaublichste,"admiration, annoyance, confusion, neutral",4
+kunst,"admiration, joy, love, neutral",4
+schlossgarten,"admiration, neutral",2
+darbietungen,"excitement, neutral",2
+platz,"admiration, amusement, disgust, neutral",4
+klingt,"annoyance, neutral",2
+ganze,"admiration, anger, annoyance, approval, confusion, curiosity, disappointment, embarrassment, gratitude, joy, neutral, optimism, sadness",13
+recht,"admiration, amusement, approval, caring, disappointment, disgust, fear, joy, love, neutral, realization, sadness",12
+lauten,"fear, neutral, sadness",3
+liegen,"admiration, neutral, pride",3
+gras,"gratitude, neutral",2
+tänzer,"admiration, neutral",2
+hüpfen,"excitement, neutral",2
+vorbei,"admiration, annoyance, curiosity, love, neutral, realization, sadness",7
+poet,"admiration, annoyance, neutral",3
+erster,"excitement, neutral",2
+pantomime,"admiration, neutral",2
+wahren,"approval, neutral",2
+stirbt,"neutral, sadness",2
+wohl,"admiration, amusement, anger, annoyance, approval, caring, confusion, curiosity, desire, disapproval, excitement, gratitude, joy, love, neutral, sadness",16
+leidenschaft,"admiration, approval, neutral",3
+zarte,"desire, love, neutral, realization",4
+richtige,"approval, love, neutral, realization",4
+müsste,"love, neutral",2
+bemerken,"disappointment, neutral",2
+matratzen,"admiration, neutral",2
+eiderdaunendecken,"admiration, neutral",2
+zuletzt,"annoyance, approval, disgust, fear, neutral",5
+däumeline,"admiration, neutral",2
+geschichte,"admiration, anger, annoyance, approval, desire, excitement, gratitude, neutral, realization",9
+samenkorn,"admiration, neutral",2
+genannt,"admiration, curiosity, neutral",3
+größer,"admiration, annoyance, disappointment, fear, joy, love, neutral, sadness",8
+daumen,"joy, neutral",2
+kennen,"admiration, neutral",2
+seerosenblatt,"fear, joy, neutral",3
+fliehen,"disappointment, love, neutral",3
+weiteren,"excitement, love, neutral",3
+heimweg,"admiration, disappointment, neutral, surprise",4
+erfahren,"amusement, approval, neutral, realization",4
+eltern,"admiration, disappointment, joy, neutral, sadness",5
+liebsten,"curiosity, joy, love, neutral",4
+alten,"admiration, amusement, curiosity, desire, disappointment, excitement, joy, love, neutral",9
+verfallen,"neutral, sadness",2
+gestorben,"admiration, neutral, sadness",3
+karl,"admiration, joy, neutral",3
+käfer,"admiration, neutral",2
+gewalt,"anger, neutral",2
+freundlich,"admiration, joy, neutral",3
+altar,"embarrassment, neutral",2
+tal,"love, neutral",2
+liebenden,"neutral, surprise",2
+mann,"admiration, amusement, annoyance, approval, confusion, curiosity, disappointment, disapproval, fear, joy, love, neutral, pride, realization, sadness, surprise",16
+flügel,"admiration, amusement, curiosity, embarrassment, fear, neutral, realization, sadness",8
+kaisers,"admiration, neutral",2
+lorenzo,"joy, neutral, realization",3
+steuern,"annoyance, neutral",2
+untertanen,"curiosity, neutral",2
+großer,"admiration, fear, neutral, sadness",4
+armut,"anger, neutral",2
+plan,"annoyance, neutral",2
+lehre,"gratitude, neutral, realization",3
+erteilen,"love, neutral",2
+major,"admiration, neutral",2
+kehren,"joy, neutral, sadness",3
+bitten,"desire, neutral",2
+sprechen,"admiration, amusement, confusion, disappointment, disapproval, neutral, sadness",7
+dürfen,"admiration, annoyance, neutral, sadness",4
+stoffe,"admiration, annoyance, joy, neutral",4
+weben,"admiration, neutral, realization",3
+wartet,"love, neutral",2
+weit,"admiration, amusement, annoyance, disappointment, excitement, fear, love, neutral, realization, sadness",10
+natürlich,"admiration, approval, neutral",3
+amt,"admiration, confusion, neutral",3
+zugeben,"joy, neutral, realization, sadness",4
+bestätigt,"annoyance, neutral",2
+herum,"admiration, disappointment, fear, neutral",4
+volk,"admiration, amusement, anger, joy, neutral, realization",6
+entscheidung,"approval, neutral",2
+dumm,"admiration, annoyance, approval, confusion, fear, neutral, realization",7
+unfähig,"admiration, annoyance, neutral",3
+hofstaat,"neutral, realization",2
+gewändern,"amusement, approval, neutral",3
+zeigen,"annoyance, approval, caring, embarrassment, neutral, optimism, realization",7
+entschlossen,"neutral, realization",2
+ende,"approval, disapproval, fear, love, neutral, realization",6
+führen,"caring, joy, neutral",3
+zuerst,"amusement, anger, approval, caring, neutral",5
+jubeln,"admiration, neutral",2
+seien,"admiration, neutral, sadness",3
+kleines,"admiration, amusement, fear, gratitude, joy, love, neutral, sadness",8
+klärt,"caring, neutral",2
+ehrlich,"curiosity, neutral, sadness",3
+zukunft,"disappointment, joy, neutral",3
+hässliche,"admiration, disgust, neutral",3
+entlein,"admiration, annoyance, curiosity, disgust, fear, joy, neutral, remorse, sadness",9
+ente,"admiration, curiosity, disappointment, disgust, joy, neutral",6
+enterich,"disgust, neutral",2
+schlüpfen,"admiration, approval, neutral",3
+ei,"admiration, annoyance, curiosity, disgust, neutral",5
+weißes,"admiration, grief, neutral",3
+geraten,"annoyance, desire, fear, neutral",4
+streit,"anger, annoyance, neutral, realization",4
+still,"embarrassment, neutral",2
+herzen,"admiration, amusement, annoyance, approval, caring, fear, grief, joy, love, neutral, realization, sadness",12
+aufgenommen,"love, neutral",2
+oft,"desire, disgust, joy, neutral, sadness, surprise",6
+arielle,"amusement, anger, caring, desire, disappointment, love, neutral, realization",8
+vaters,"admiration, caring, fear, neutral, sadness",5
+unbemerkt,"neutral, realization",2
+treiben,"annoyance, neutral",2
+perfekte,"admiration, neutral",2
+chance,"caring, neutral",2
+triton,"anger, disappointment, neutral",3
+abends,"admiration, amusement, fear, neutral, realization",5
+ehren,"neutral, optimism",2
+erik,"admiration, disappointment, joy, neutral, realization, sadness",6
+arielles,"admiration, neutral",2
+ertrinken,"caring, curiosity, neutral",3
+gerettet,"anger, caring, gratitude, love, neutral, sadness, surprise",7
+außer,"admiration, annoyance, confusion, disappointment, fear, gratitude, grief, neutral, realization, sadness",10
+wut,"neutral, realization",2
+dreizack,"desire, neutral",2
+geheimes,"anger, neutral",2
+versteck,"anger, neutral",2
+menschenwelt,"anger, love, neutral",3
+tagen,"amusement, neutral, sadness",3
+geküsst,"love, neutral",2
+seele,"admiration, amusement, approval, caring, confusion, curiosity, desire, disappointment, joy, love, neutral, optimism",12
+gehört,"admiration, approval, caring, disappointment, joy, neutral, realization",7
+bezahlung,"caring, neutral",2
+verwandelte,"admiration, neutral",2
+sogleich,"admiration, amusement, anger, approval, disappointment, gratitude, joy, love, neutral",9
+geplant,"neutral, realization",2
+genau,"admiration, neutral",2
+vanessa,"admiration, neutral",2
+falsche,"annoyance, neutral",2
+max,"neutral, realization",2
+begreift,"approval, neutral",2
+untergehen,"admiration, neutral",2
+versehentlich,"neutral, sadness",2
+zorn,"love, neutral, realization",3
+hinaus,"admiration, amusement, anger, caring, desire, excitement, fear, gratitude, joy, neutral, realization, sadness",12
+bord,"neutral, sadness",2
+töten,"love, neutral",2
+all,"admiration, anger, curiosity, gratitude, neutral, realization, surprise",7
+emil,"caring, fear, neutral",3
+waisenhaus,"neutral, realization",2
+landfried,"caring, neutral",2
+inga,"fear, neutral, sadness",3
+eng,"neutral, optimism",2
+ingas,"joy, neutral",2
+heim,"amusement, caring, joy, neutral, sadness",5
+bestraft,"disapproval, neutral, surprise",3
+weihnachtstag,"neutral, surprise",2
+schwefelhölzer,"admiration, neutral, optimism, surprise",4
+meisten,"admiration, neutral",2
+belohnung,"caring, neutral, optimism",3
+mut,"approval, confusion, disappointment, fear, grief, joy, love, neutral, realization",9
+kräftigen,"caring, neutral",2
+hölzchen,"admiration, neutral, realization, sadness",4
+abkauft,"fear, neutral",2
+fremde,"admiration, fear, neutral",3
+kalt,"admiration, annoyance, approval, joy, neutral",5
+festlich,"neutral, realization",2
+wohnzimmer,"neutral, realization",2
+fremden,"desire, joy, neutral",3
+bündel,"joy, neutral",2
+brand,"joy, neutral",2
+vorhang,"joy, neutral",2
+herzlich,"desire, gratitude, joy, neutral",4
+willkommen,"admiration, neutral",2
+heißen,"annoyance, neutral",2
+leblos,"neutral, realization",2
+abgebrannte,"disappointment, neutral",2
+engel,"admiration, anger, love, neutral, realization, sadness",6
+vereint,"amusement, neutral",2
+frieden,"joy, neutral",2
+heißt,"curiosity, neutral",2
+amulett,"admiration, neutral",2
+bild,"admiration, disgust, joy, love, neutral, sadness",6
+statt,"joy, neutral",2
+weise,"neutral, realization",2
+tölpelhans,"amusement, curiosity, excitement, joy, neutral",5
+klugen,"admiration, neutral",2
+melchior,"neutral, sadness",2
+gregor,"neutral, sadness",2
+kümmern,"annoyance, disapproval, neutral",3
+tausendschön,"disappointment, joy, neutral",3
+bereit,"curiosity, neutral",2
+glück,"amusement, annoyance, caring, curiosity, desire, disappointment, disgust, gratitude, grief, joy, neutral, optimism, realization, remorse",14
+unrecht,"neutral, realization",2
+getan,"neutral, realization",2
+eigener,"admiration, embarrassment, neutral",3
+erobern,"desire, neutral",2
+kennt,"neutral, surprise",2
+draußen,"admiration, amusement, anger, approval, caring, desire, fear, joy, neutral, realization, sadness, surprise",12
+dennoch,"approval, joy, neutral, optimism",4
+schließt,"admiration, joy, neutral",3
+wohnt,"admiration, curiosity, neutral",3
+mühle,"admiration, neutral",2
+händen,"admiration, amusement, caring, desire, fear, joy, neutral",7
+bewerber,"annoyance, approval, neutral",3
+reden,"disappointment, neutral",2
+ebenso,"admiration, fear, neutral, realization",4
+weniger,"excitement, neutral",2
+taugt,"admiration, neutral",2
+wolle,"admiration, disgust, fear, love, neutral",5
+gefolgt,"neutral, realization",2
+hohen,"admiration, approval, desire, neutral",4
+mauer,"admiration, amusement, joy, neutral",4
+umgeben,"love, neutral",2
+dunkel,"annoyance, love, neutral",3
+niemand,"admiration, amusement, annoyance, caring, confusion, curiosity, disappointment, disapproval, disgust, joy, neutral, realization, sadness",13
+tür,"admiration, desire, embarrassment, nervousness, neutral, pride, sadness",7
+stand,"admiration, anger, disappointment, embarrassment, fear, grief, joy, love, nervousness, neutral, realization, sadness",12
+katrin,"admiration, neutral, realization",3
+leidet,"caring, neutral",2
+verstehen,"admiration, annoyance, neutral",3
+leer,"admiration, disappointment, neutral",3
+wurden,"admiration, amusement, disgust, nervousness, neutral, realization, sadness",7
+verurteilt,"grief, neutral",2
+tode,"admiration, grief, neutral",3
+schaffen,"approval, neutral, optimism",3
+köpfe,"annoyance, curiosity, joy, neutral",4
+langer,"joy, neutral, surprise",3
+gesehen,"admiration, curiosity, disappointment, disapproval, embarrassment, excitement, fear, joy, love, neutral, surprise",11
+stiefeln,"anger, nervousness, neutral",3
+rock,"admiration, excitement, neutral",3
+mund,"admiration, disgust, neutral",3
+warum,"curiosity, neutral",2
+tragen,"admiration, annoyance, curiosity, gratitude, neutral, realization, sadness",7
+kleidung,"approval, joy, neutral",3
+zweit,"joy, neutral",2
+jan,"admiration, desire, disapproval, fear, gratitude, grief, love, neutral",8
+sterben,"annoyance, curiosity, neutral, realization",4
+wucherer,"grief, neutral, realization",3
+kindheit,"love, neutral, realization",3
+half,"admiration, anger, curiosity, neutral, optimism",5
+verlangte,"admiration, annoyance, grief, neutral, surprise",5
+agnes,"disappointment, neutral",2
+sowohl,"admiration, annoyance, disgust, neutral, realization",5
+erfüllung,"disappointment, neutral, realization",3
+einzige,"admiration, disgust, love, neutral, pride, surprise",6
+ruhe,"neutral, realization, sadness",3
+dämon,"admiration, love, neutral",3
+rubin,"admiration, desire, fear, grief, neutral",5
+verhindern,"neutral, realization",2
+erreicht,"joy, neutral",2
+falsch,"anger, annoyance, neutral",3
+ergriffen,"fear, neutral",2
+höhle,"approval, gratitude, neutral",3
+ewige,"disappointment, neutral",2
+gestalten,"admiration, amusement, disgust, fear, neutral",5
+jakob,"approval, neutral",2
+maja,"approval, neutral",2
+greta,"approval, neutral",2
+not,"admiration, neutral",2
+audienz,"admiration, annoyance, disgust, neutral",4
+beste,"admiration, curiosity, desire, neutral",4
+weber,"admiration, neutral",2
+breit,"admiration, neutral, realization",3
+nähen,"admiration, curiosity, neutral",3
+hätten,"admiration, disappointment, neutral, realization, surprise",5
+unverzeihlich,"admiration, neutral",2
+prächtig,"admiration, neutral, pride",3
+unschuldigen,"neutral, realization",2
+geschenke,"admiration, neutral, optimism",3
+kündigt,"fear, neutral",2
+abschied,"joy, neutral",2
+hängt,"disgust, neutral",2
+schlitten,"admiration, disapproval, disgust, grief, neutral",5
+zurückgekehrt,"neutral, optimism",2
+begegnen,"caring, fear, neutral",3
+rabe,"joy, neutral",2
+krähe,"approval, curiosity, love, nervousness, neutral",5
+klara,"joy, neutral",2
+bräutigam,"fear, neutral",2
+elsa,"annoyance, disappointment, fear, grief, love, neutral, realization, sadness",8
+namens,"admiration, love, neutral, sadness",4
+goldene,"admiration, neutral",2
+kutsche,"admiration, annoyance, confusion, curiosity, disappointment, neutral",6
+sicher,"admiration, approval, caring, curiosity, disapproval, excitement, gratitude, joy, love, neutral, realization, sadness, surprise",13
+elsas,"annoyance, fear, neutral",3
+märchenerzähler,"joy, neutral",2
+freuen,"gratitude, joy, neutral",3
+räubertochter,"admiration, joy, neutral",3
+ertappt,"disapproval, neutral",2
+rentier,"admiration, joy, neutral",3
+frühling,"admiration, joy, neutral",3
+innerlich,"admiration, amusement, neutral",3
+umarmt,"love, neutral",2
+angst,"admiration, caring, disappointment, fear, neutral, realization, relief",7
+getroffen,"neutral, realization",2
+glücklich,"embarrassment, joy, neutral",3
+letzte,"annoyance, neutral, optimism",3
+unten,"admiration, annoyance, approval, curiosity, neutral, realization",6
+lächelnd,"joy, neutral",2
+hoch,"admiration, fear, gratitude, joy, neutral",5
+befindet,"disappointment, neutral",2
+tore,"joy, neutral",2
+hund,"anger, disapproval, disgust, excitement, fear, love, neutral, realization, sadness",9
+hunde,"anger, excitement, joy, neutral",4
+münzen,"amusement, neutral",2
+ankommt,"neutral, realization",2
+los,"amusement, caring, confusion, neutral",4
+säbel,"admiration, curiosity, desire, neutral, optimism",5
+reichtum,"admiration, joy, love, neutral, realization",5
+schuster,"love, neutral, realization",3
+somit,"amusement, neutral",2
+falschen,"disappointment, neutral, realization",3
+kosten,"admiration, love, neutral",3
+stiefel,"fear, neutral",2
+kerze,"admiration, fear, neutral",3
+ohren,"annoyance, fear, neutral",3
+verlieren,"admiration, caring, fear, neutral, realization",5
+folgenden,"annoyance, neutral",2
+kammerfrau,"embarrassment, fear, neutral",3
+zimmer,"admiration, neutral, optimism, realization",4
+gehängt,"annoyance, neutral",2
+pfeife,"admiration, neutral",2
+rauchen,"admiration, neutral",2
+schlägt,"disgust, neutral, optimism, realization",4
+bergen,"admiration, fear, neutral",3
+rolle,"neutral, surprise",2
+wiederzuerkennen,"admiration, neutral",2
+spiegel,"admiration, fear, neutral",3
+zusammensetzen,"neutral, optimism",2
+fröhlichen,"admiration, joy, neutral",3
+kümmert,"caring, neutral",2
+lebens,"desire, joy, neutral, realization",4
+einziger,"approval, neutral",2
+angeführt,"fear, neutral",2
+behalten,"curiosity, joy, neutral, realization",4
+sprechenden,"admiration, neutral",2
+wand,"neutral, realization",2
+räubermädchen,"admiration, amusement, joy, neutral, sadness",5
+teilchen,"disappointment, neutral",2
+eisbär,"neutral, realization",2
+spiegels,"neutral, realization",2
+wind,"admiration, anger, desire, fear, neutral, realization, sadness",7
+getragen,"joy, neutral, realization",3
+zeigte,"admiration, fear, neutral",3
+sahen,"amusement, desire, disgust, excitement, fear, joy, love, neutral, optimism, realization, sadness",11
+strahlte,"joy, neutral",2
+strahlende,"neutral, pride",2
+hineinsah,"neutral, realization",2
+kälte,"neutral, realization, sadness",3
+jahreszeit,"admiration, neutral",2
+erden,"admiration, neutral",2
+nahm,"admiration, anger, fear, grief, love, neutral, optimism, realization, sadness",9
+himmel,"admiration, anger, confusion, desire, joy, love, neutral",7
+zerbrach,"fear, neutral, sadness",3
+teile,"love, neutral",2
+erreichen,"admiration, approval, neutral, sadness",4
+empfangen,"love, neutral",2
+gleichzeitig,"amusement, neutral",2
+bann,"love, neutral",2
+splitter,"love, neutral",2
+berührt,"approval, neutral",2
+entgegnet,"love, neutral",2
+dadurch,"neutral, realization",2
+lichterwald,"admiration, neutral, realization",3
+genießen,"joy, neutral",2
+kaisertochter,"admiration, excitement, neutral",3
+victoria,"admiration, approval, desire, love, neutral, surprise",6
+gewinnen,"confusion, desire, disappointment, joy, neutral, optimism",6
+tand,"love, neutral, realization",3
+schief,"disappointment, neutral",2
+lieder,"admiration, love, neutral",3
+wundersame,"neutral, realization",2
+näher,"admiration, desire, disappointment, fear, love, neutral",6
+100,"excitement, neutral",2
+park,"admiration, neutral",2
+hofball,"excitement, neutral",2
+kaum,"admiration, amusement, desire, disappointment, fear, neutral, pride, surprise",8
+moment,"anger, embarrassment, joy, love, neutral, pride, realization",7
+größten,"anger, neutral",2
+unglück,"amusement, disappointment, neutral, realization, sadness",5
+zurückzubringen,"love, neutral",2
+hochzeitstag,"admiration, neutral",2
+segen,"joy, neutral, realization",3
+hella,"admiration, caring, curiosity, desire, disappointment, embarrassment, joy, neutral, realization, sadness",10
+achtlos,"annoyance, neutral",2
+passanten,"embarrassment, neutral",2
+wenigstens,"admiration, neutral, optimism",3
+einzig,"desire, neutral",2
+schwer,"admiration, amusement, annoyance, disappointment, neutral, sadness, surprise",7
+weges,"amusement, neutral",2
+hellas,"desire, neutral",2
+obdach,"approval, neutral",2
+zustand,"love, neutral",2
+irrt,"fear, neutral",2
+straßen,"admiration, annoyance, fear, joy, neutral",5
+umher,"admiration, amusement, excitement, fear, neutral",5
+gesicht,"admiration, amusement, annoyance, disgust, joy, neutral",6
+knaben,"admiration, approval, disgust, neutral",4
+graf,"disappointment, neutral",2
+tannen,"disappointment, neutral",2
+streichholzmädchen,"neutral, sadness",2
+gelitten,"neutral, optimism, realization",3
+aufrichtig,"love, neutral",2
+bitter,"disappointment, neutral, realization",3
+wendet,"neutral, sadness",2
+holting,"disappointment, love, neutral",3
+leide,"admiration, neutral",2
+nächste,"joy, neutral",2
+lohmann,"approval, neutral",2
+wohnung,"admiration, neutral",2
+richard,"neutral, realization",2
+porträt,"neutral, realization",2
+gesellschaftliche,"embarrassment, neutral",2
+anerkennung,"neutral, realization",2
+kräften,"neutral, realization",2
+ponyo,"admiration, curiosity, neutral",3
+fujimoto,"neutral, realization",2
+gefangen,"fear, neutral",2
+küste,"admiration, neutral",2
+sōsuke,"disappointment, neutral",2
+lisa,"disappointment, neutral",2
+verlust,"neutral, sadness",2
+trösten,"approval, disappointment, neutral, sadness",4
+magie,"admiration, confusion, disappointment, neutral",4
+sturm,"admiration, anger, caring, disappointment, disgust, neutral, sadness",7
+stürzen,"anger, neutral",2
+lieben,"gratitude, joy, love, neutral",4
+fisch,"neutral, optimism, realization",3
+annehmen,"admiration, neutral, sadness",3
+gleichgewicht,"neutral, realization",2
+art,"admiration, approval, confusion, neutral",4
+johann,"admiration, approval, neutral, realization, remorse, surprise",6
+einfacher,"annoyance, neutral",2
+träumt,"joy, love, neutral",3
+feinen,"caring, neutral, realization",3
+gesellschaft,"amusement, curiosity, disappointment, gratitude, neutral, realization",6
+küche,"admiration, curiosity, neutral",3
+schwingen,"admiration, neutral",2
+großnichte,"joy, neutral",2
+großherzogin,"joy, neutral",2
+stattfinden,"neutral, realization",2
+lisbeth,"amusement, neutral",2
+seit,"joy, love, neutral, sadness, surprise",5
+herzenswünsche,"disappointment, neutral",2
+geschieht,"annoyance, neutral",2
+gekleidet,"admiration, curiosity, neutral",3
+ludwig,"neutral, realization, surprise",3
+bekannt,"admiration, love, neutral",3
+stimmt,"approval, neutral",2
+insgeheim,"disappointment, neutral",2
+verborgen,"joy, neutral",2
+geblieben,"admiration, approval, joy, neutral",4
+picknick,"admiration, neutral",2
+aurora,"admiration, joy, neutral, realization",4
+vorbereitet,"admiration, neutral",2
+wahres,"admiration, amusement, approval, neutral",4
+offenbart,"neutral, realization",2
+launisch,"annoyance, neutral",2
+öfter,"amusement, neutral",2
+sinn,"admiration, love, neutral",3
+person,"admiration, fear, neutral, sadness, surprise",5
+ergeben,"admiration, neutral",2
+blind,"disappointment, neutral, remorse",3
+vergangenheit,"neutral, realization",2
+wollten,"admiration, anger, disappointment, love, neutral",5
+weder,"admiration, approval, curiosity, disappointment, neutral, realization, sadness",7
+dingen,"admiration, neutral, realization",3
+fühlt,"caring, gratitude, love, neutral",4
+angezogen,"admiration, neutral",2
+schweinestall,"curiosity, neutral",2
+o,"admiration, excitement, gratitude, joy, neutral, realization",6
+…,"disappointment, neutral",2
+ehrlichherz,"admiration, disappointment, joy, neutral, surprise",5
+rosenmund,"admiration, approval, curiosity, neutral",4
+gewährt,"desire, neutral",2
+hofdamen,"admiration, amusement, annoyance, disappointment, neutral",5
+nächstes,"confusion, neutral",2
+knarre,"admiration, neutral",2
+schönsten,"admiration, annoyance, neutral",3
+strafe,"fear, neutral",2
+hübsche,"admiration, confusion, disappointment, love, neutral",5
+durchnässt,"curiosity, love, neutral",3
+kissen,"admiration, neutral",2
+hartem,"nervousness, neutral",2
+gelegen,"admiration, annoyance, disapproval, nervousness, neutral",5
+empfindlich,"admiration, neutral",2
+wirkliche,"admiration, neutral, sadness",3
+fridolin,"love, neutral",2
+völlig,"amusement, annoyance, neutral",3
+arendelle,"amusement, fear, love, neutral, realization",5
+besitzt,"desire, neutral",2
+lage,"disappointment, neutral",2
+unabsichtlich,"fear, neutral",2
+anna,"disappointment, fear, joy, love, neutral, realization, sadness",7
+königspaar,"admiration, embarrassment, neutral",3
+felsbrocken,"disappointment, neutral",2
+häuptling,"fear, neutral",2
+grand,"annoyance, neutral",2
+pabbie,"annoyance, neutral",2
+erinnerung,"admiration, fear, neutral, sadness",4
+kräfte,"amusement, annoyance, approval, disappointment, fear, neutral, optimism, realization",8
+lernen,"admiration, neutral",2
+kontrollieren,"disappointment, neutral",2
+ausgeht,"admiration, neutral",2
+fähigkeiten,"annoyance, neutral",2
+halten,"desire, joy, love, neutral, surprise",5
+standen,"admiration, disgust, joy, neutral, sadness",5
+herzog,"annoyance, neutral",2
+pitzbühl,"annoyance, neutral",2
+öffnen,"neutral, pride",2
+anfangs,"admiration, neutral",2
+einander,"approval, caring, curiosity, excitement, joy, love, neutral, optimism",8
+nähern,"annoyance, neutral",2
+kenne,"curiosity, neutral",2
+riesigen,"anger, neutral",2
+eispalast,"neutral, realization",2
+warme,"admiration, curiosity, joy, neutral",4
+nordberg,"fear, neutral",2
+verletzen,"disappointment, neutral",2
+annas,"approval, caring, neutral",3
+haare,"admiration, neutral",2
+trollen,"disappointment, neutral",2
+akt,"approval, caring, neutral",3
+gefrorenes,"approval, neutral",2
+auftauen,"approval, neutral",2
+erfrieren,"admiration, neutral",2
+glauben,"admiration, anger, annoyance, approval, disapproval, neutral, optimism, realization, sadness",9
+begraben,"embarrassment, neutral",2
+zwölf,"admiration, neutral",2
+thron,"excitement, neutral",2
+überlässt,"admiration, neutral",2
+anwesenden,"annoyance, neutral",2
+starb,"admiration, grief, neutral, sadness",4
+gegeben,"admiration, amusement, annoyance, neutral",4
+schneesturm,"fear, neutral",2
+auslöst,"neutral, surprise",2
+schale,"neutral, surprise",2
+schuld,"anger, neutral, remorse, sadness",4
+letzter,"admiration, curiosity, neutral",3
+schützend,"caring, neutral",2
+schlüssel,"neutral, realization",2
+kontrolle,"annoyance, fear, neutral, realization",4
+warmen,"admiration, amusement, approval, caring, neutral",5
+zeiten,"admiration, neutral",2
+schließen,"neutral, pride",2
+verschwundenen,"caring, neutral",2
+wort,"admiration, approval, curiosity, fear, love, neutral, optimism, realization, sadness, surprise",10
+laternenanzünder,"desire, neutral",2
+entzündet,"amusement, neutral",2
+zögern,"neutral, realization",2
+schein,"disgust, neutral",2
+wärmen,"admiration, neutral",2
+streichholz,"amusement, annoyance, disappointment, love, neutral, realization",6
+zweite,"annoyance, caring, neutral",3
+entzündete,"amusement, neutral, realization",3
+fantasie,"curiosity, neutral",2
+lichter,"admiration, joy, neutral",3
+erfrorene,"caring, neutral",2
+geist,"curiosity, neutral, realization, sadness",4
+unheil,"disappointment, neutral",2
+erben,"admiration, neutral",2
+testament,"admiration, neutral",2
+abdanken,"admiration, neutral",2
+hofjunker,"amusement, neutral",2
+zimmermann,"admiration, love, neutral",3
+kopfschütteln,"approval, neutral",2
+eigene,"annoyance, approval, disapproval, embarrassment, neutral, surprise",6
+freudestrahlend,"approval, neutral",2
+wahrscheinlich,"annoyance, neutral",2
+unmöglich,"admiration, neutral",2
+waisenkinder,"caring, neutral",2
+tut,"admiration, approval, neutral, sadness",4
+misstrauen,"neutral, surprise",2
+hindurch,"disapproval, neutral",2
+gespürt,"admiration, neutral",2
+nützt,"joy, neutral",2
+sun-jae,"amusement, neutral",2
+apartment,"neutral, sadness",2
+besessenheit,"approval, neutral",2
+entwickeln,"disappointment, neutral",2
+eifersucht,"neutral, realization",2
+geheimnisvollen,"desire, neutral",2
+schützen,"annoyance, love, neutral",3
+darstellt,"neutral, realization",2
+verfolgt,"disappointment, neutral, sadness",3
+dicht,"admiration, fear, grief, neutral, surprise",5
+zug,"neutral, surprise",2
+gezogen,"love, neutral, sadness",3
+schuhen,"anger, joy, neutral",3
+ging,"admiration, amusement, anger, annoyance, caring, disappointment, excitement, fear, gratitude, joy, neutral, realization, remorse, sadness, surprise",15
+mehrere,"fear, neutral, sadness",3
+ballett,"approval, love, neutral",3
+tänzerin,"admiration, neutral",2
+vicki,"disappointment, love, neutral, realization",4
+beeindruckt,"admiration, neutral",2
+tante,"annoyance, curiosity, neutral, surprise",4
+party,"neutral, realization",2
+julian,"fear, love, neutral",3
+enttäuschung,"disappointment, neutral",2
+verlieben,"admiration, love, neutral",3
+stück,"admiration, curiosity, disappointment, disgust, neutral, sadness",6
+etwa,"amusement, neutral",2
+genommen,"admiration, neutral, realization",3
+getanzt,"neutral, sadness",2
+überzeugt,"disgust, neutral",2
+balkon,"neutral, surprise",2
+herbei,"neutral, sadness",2
+trotz,"anger, disappointment, neutral",3
+leeren,"amusement, curiosity, neutral",3
+hungrig,"neutral, sadness",2
+anzündet,"anger, neutral, realization",3
+phantasie,"admiration, neutral",2
+großes,"admiration, approval, neutral",3
+zweites,"neutral, realization",2
+starker,"annoyance, neutral",2
+herrlichkeit,"admiration, annoyance, neutral, realization",4
+puppe,"anger, disgust, joy, love, neutral",5
+berühren,"disappointment, neutral",2
+schweben,"gratitude, joy, neutral",3
+hinauf,"admiration, neutral",2
+pepolino,"anger, disappointment, love, neutral",4
+pepolinos,"joy, neutral",2
+jahren,"excitement, gratitude, neutral, optimism",4
+rotbart,"neutral, surprise",2
+holzbein,"neutral, surprise",2
+glasauge,"neutral, surprise",2
+wert,"admiration, neutral, realization",3
+jacob,"anger, neutral",2
+fische,"admiration, disappointment, neutral",3
+fangen,"annoyance, neutral",2
+hafen,"neutral, surprise",2
+granny,"joy, neutral, surprise",3
+seacat,"anger, neutral",2
+großvaters,"neutral, surprise",2
+papier,"neutral, realization",2
+ganzen,"admiration, approval, disappointment, disapproval, disgust, excitement, love, nervousness, neutral, realization, sadness, surprise",12
+entsetzt,"fear, neutral",2
+lebend,"admiration, neutral",2
+entzückt,"admiration, approval, neutral, sadness",4
+hinüber,"anger, curiosity, neutral",3
+dicke,"disgust, fear, neutral",3
+katze,"annoyance, fear, neutral",3
+zurückzukommen,"neutral, surprise",2
+sinken,"neutral, realization",2
+tot,"anger, curiosity, disgust, love, neutral, realization, sadness",7
+teil,"admiration, neutral, optimism",3
+kiste,"disapproval, neutral",2
+glashaus,"admiration, neutral",2
+wachsen,"admiration, approval, desire, neutral",4
+wütend,"anger, annoyance, neutral",3
+schlagartig,"neutral, realization",2
+schneelandschaft,"curiosity, neutral",2
+halb,"caring, neutral",2
+blühende,"admiration, neutral",2
+flora,"admiration, joy, neutral",3
+herrlicher,"admiration, neutral",2
+trinken,"approval, joy, neutral",3
+länger,"neutral, realization",2
+tropfen,"admiration, love, neutral",3
+blut,"nervousness, neutral",2
+fürchten,"admiration, caring, neutral",3
+seht,"admiration, amusement, excitement, neutral",4
+gemacht,"admiration, neutral",2
+eigenschaft,"admiration, approval, joy, neutral",4
+besaß,"admiration, amusement, disapproval, embarrassment, neutral, sadness",6
+spiegelte,"neutral, realization",2
+schlecht,"amusement, caring, disapproval, disgust, neutral, realization",6
+ärger,"annoyance, neutral",2
+fuhr,"admiration, amusement, desire, neutral",4
+gedanke,"admiration, approval, confusion, neutral",4
+grinsen,"fear, neutral",2
+erzählten,"admiration, amusement, approval, neutral, sadness",5
+wunder,"love, neutral",2
+geschehen,"confusion, disapproval, neutral, realization",4
+liefen,"admiration, amusement, anger, fear, joy, neutral",6
+gab,"admiration, amusement, disappointment, excitement, joy, love, neutral, realization",8
+verdreht,"disgust, neutral",2
+je,"admiration, approval, curiosity, disappointment, joy, love, neutral, pride, realization",9
+höher,"fear, neutral",2
+flogen,"admiration, amusement, disgust, fear, neutral, sadness",6
+konnten,"admiration, disappointment, neutral, sadness",4
+festhalten,"neutral, realization",2
+groß,"admiration, amusement, disapproval, disgust, joy, neutral, sadness, surprise",8
+bekamen,"curiosity, disappointment, neutral",3
+spiegelscherbe,"amusement, neutral",2
+scheiben,"admiration, neutral",2
+betrachten,"admiration, approval, desire, neutral, surprise",5
+luft,"admiration, amusement, approval, excitement, fear, neutral",6
+knabe,"admiration, neutral",2
+drinnen,"admiration, amusement, fear, neutral, sadness",5
+besaßen,"neutral, realization",2
+dach,"admiration, fear, neutral, pride",4
+nachbarhauses,"love, neutral",2
+stieß,"fear, neutral",2
+entlang,"admiration, neutral",2
+lief,"annoyance, approval, excitement, fear, love, neutral",6
+brauchte,"caring, joy, neutral",3
+konnte,"admiration, amusement, anger, approval, caring, curiosity, desire, disappointment, disapproval, disgust, embarrassment, fear, gratitude, joy, love, neutral, realization, sadness, surprise",19
+kasten,"admiration, neutral",2
+wuchsen,"admiration, neutral, realization",3
+reichten,"admiration, neutral",2
+hingen,"admiration, approval, neutral, sadness",4
+herunter,"admiration, disapproval, disgust, neutral",4
+zweige,"desire, neutral, realization",3
+sah,"admiration, amusement, approval, confusion, curiosity, disappointment, disapproval, disgust, embarrassment, excitement, fear, gratitude, joy, love, neutral, realization, sadness",17
+wußten,"approval, neutral, realization",3
+durften,"admiration, neutral",2
+erhielten,"neutral, sadness",2
+erlaubnis,"love, neutral",2
+spielten,"admiration, approval, neutral",3
+schilling,"amusement, disapproval, neutral",3
+schönes,"admiration, neutral, sadness",3
+rund,"admiration, fear, neutral",3
+dahinter,"desire, neutral",2
+blitzte,"fear, neutral",2
+hieß,"curiosity, neutral",2
+mußten,"annoyance, neutral",2
+treppen,"love, neutral",2
+bienen,"admiration, neutral",2
+fragte,"curiosity, disappointment, gratitude, joy, neutral, realization, sadness, surprise",8
+wußte,"admiration, amusement, confusion, disapproval, disgust, embarrassment, joy, neutral, sadness",9
+fenstern,"admiration, approval, joy, neutral, sadness",5
+hinein,"admiration, amusement, anger, annoyance, confusion, curiosity, disapproval, disgust, excitement, fear, gratitude, joy, love, neutral, sadness, surprise",16
+sonderbar,"admiration, neutral",2
+laß,"disapproval, excitement, neutral",3
+schmilzt,"love, neutral",2
+erzählte,"admiration, disapproval, joy, neutral, realization",5
+loch,"admiration, neutral",2
+schneeflocken,"admiration, neutral",2
+fielen,"amusement, love, neutral",3
+blieb,"admiration, caring, curiosity, fear, neutral, sadness",6
+schneeflocke,"admiration, neutral",2
+wuchs,"admiration, love, neutral",3
+flor,"admiration, joy, neutral",3
+millionen,"fear, neutral",2
+lebendig,"admiration, desire, neutral",3
+klare,"admiration, approval, desire, joy, neutral, realization",6
+nickte,"admiration, caring, excitement, love, neutral",5
+winkte,"neutral, realization, sadness",3
+erschrak,"admiration, fear, neutral, sadness",4
+sprang,"admiration, joy, neutral",3
+rand,"neutral, sadness",2
+kam,"admiration, anger, caring, disappointment, excitement, fear, gratitude, joy, love, nervousness, neutral, realization, sadness, surprise",14
+schien,"admiration, amusement, anger, disappointment, love, neutral, realization, sadness, surprise",9
+grün,"admiration, gratitude, neutral",3
+hervor,"admiration, amusement, caring, curiosity, disgust, love, neutral",7
+saßen,"admiration, amusement, curiosity, disgust, love, neutral",6
+hielten,"amusement, disgust, neutral",3
+gottes,"gratitude, joy, neutral, sadness",4
+hellen,"admiration, neutral",2
+blickten,"admiration, curiosity, neutral",3
+sonnenschein,"admiration, approval, joy, neutral",4
+sprachen,"admiration, neutral",2
+uhr,"curiosity, neutral",2
+schlug,"amusement, anger, nervousness, neutral",4
+flog,"admiration, fear, joy, love, neutral, sadness",6
+glaube,"admiration, amusement, annoyance, neutral",4
+entsinnen,"desire, neutral",2
+häßlichen,"anger, annoyance, disapproval, neutral, remorse",5
+häßlich,"anger, annoyance, disgust, fear, neutral",5
+trat,"admiration, amusement, curiosity, disappointment, love, neutral",6
+ordentlich,"admiration, neutral",2
+fehler,"approval, neutral",2
+sache,"admiration, amusement, neutral",3
+tat,"admiration, annoyance, disapproval, fear, joy, neutral, realization, sadness",8
+weh,"neutral, sadness",2
+splitterchen,"neutral, sadness",2
+pfui,"admiration, neutral",2
+rief,"admiration, amusement, annoyance, confusion, curiosity, excitement, fear, neutral, pride",9
+fuß,"admiration, disgust, neutral, sadness",4
+machst,"neutral, sadness",2
+schreck,"confusion, fear, neutral, realization",4
+gewahr,"neutral, realization",2
+bilderbuch,"admiration, curiosity, neutral",3
+setzte,"admiration, neutral, optimism",3
+sprach,"admiration, amusement, approval, disapproval, love, neutral, optimism, sadness",8
+lachten,"amusement, embarrassment, neutral",3
+gang,"admiration, neutral",2
+sagten,"admiration, amusement, annoyance, approval, curiosity, neutral",6
+früher,"admiration, approval, neutral, realization",4
+wintertag,"joy, neutral",2
+schneite,"annoyance, neutral",2
+ließ,"admiration, amusement, confusion, desire, disgust, joy, love, neutral, realization",9
+blauen,"admiration, desire, fear, neutral",4
+sieh,"admiration, anger, curiosity, disappointment, excitement, neutral",6
+besten,"admiration, disgust, gratitude, love, neutral",5
+saß,"admiration, approval, caring, curiosity, disapproval, excitement, fear, grief, joy, love, neutral, realization, sadness, surprise",14
+jemand,"amusement, annoyance, curiosity, fear, neutral, surprise",6
+pelz,"admiration, neutral",2
+mütze,"admiration, anger, caring, neutral",4
+band,"gratitude, neutral",2
+drehte,"admiration, fear, neutral",3
+jedesmal,"admiration, neutral",2
+fuhren,"amusement, disgust, neutral",3
+begann,"admiration, caring, neutral, realization",4
+hernieder,"neutral, sadness",2
+erblicken,"admiration, desire, joy, neutral, realization, sadness",6
+hing,"admiration, fear, neutral",3
+hörte,"admiration, anger, approval, joy, neutral, sadness",6
+gräben,"love, neutral",2
+erschrocken,"disappointment, fear, neutral, sadness",4
+vaterunser,"caring, neutral",2
+küßte,"admiration, neutral, sadness",3
+stirn,"admiration, neutral",2
+augenblick,"admiration, caring, desire, fear, love, neutral, realization, sadness",8
+spürte,"admiration, fear, neutral, realization",4
+ringsumher,"amusement, neutral",2
+dachte,"admiration, amusement, confusion, desire, disappointment, disgust, fear, joy, love, neutral, optimism, realization, sadness",13
+eins,"admiration, neutral",2
+festgebunden,"annoyance, neutral",2
+nochmals,"admiration, neutral",2
+bekommst,"admiration, approval, caring, neutral",4
+landes,"admiration, neutral, realization",3
+lächelte,"admiration, disappointment, joy, neutral, realization, sadness",6
+blickte,"admiration, amusement, fear, neutral",4
+wolke,"admiration, neutral",2
+länder,"curiosity, neutral",2
+krähen,"admiration, neutral",2
+dahin,"admiration, neutral, realization, sadness",4
+betrachtete,"curiosity, joy, neutral, sadness",4
+schlief,"admiration, disgust, joy, neutral",4
+erging,"desire, neutral",2
+zurückkehrte,"amusement, neutral",2
+mächtig,"admiration, neutral",2
+binden,"admiration, neutral",2
+tränen,"love, neutral",2
+weinte,"admiration, amusement, disapproval, joy, love, neutral, sadness",7
+fluß,"caring, confusion, neutral",3
+finstere,"fear, neutral",2
+antwortete,"anger, approval, neutral",3
+morgens,"neutral, sadness",2
+zog,"admiration, amusement, anger, curiosity, disappointment, fear, neutral, realization, sadness",9
+hast,"admiration, anger, annoyance, approval, confusion, curiosity, love, neutral, optimism, sadness",10
+warf,"admiration, anger, annoyance, caring, neutral",5
+wellen,"admiration, amusement, annoyance, neutral, realization",5
+glaubte,"disapproval, joy, love, neutral, surprise",5
+schilf,"gratitude, neutral",2
+lag,"admiration, amusement, desire, fear, joy, love, neutral, realization, sadness",9
+bewegung,"admiration, neutral",2
+verursachte,"amusement, joy, neutral",3
+glitt,"neutral, sadness",2
+bemerkte,"amusement, neutral",2
+zurückkam,"admiration, neutral",2
+lande,"admiration, neutral",2
+schneller,"approval, neutral",2
+sangen,"admiration, amusement, joy, love, neutral, sadness",6
+gleichsam,"neutral, realization",2
+strom,"admiration, neutral",2
+vielleicht,"curiosity, desire, love, neutral, optimism, realization, sadness",7
+erhob,"admiration, neutral",2
+sonderbaren,"admiration, fear, joy, neutral",4
+hob,"admiration, amusement, desire, disgust, joy, neutral",6
+froh,"disappointment, gratitude, joy, neutral",4
+obgleich,"admiration, neutral",2
+fürchtete,"fear, neutral",2
+schüttelte,"joy, neutral",2
+gesagt,"admiration, approval, caring, curiosity, disgust, grief, neutral",7
+gefragt,"neutral, surprise",2
+lagen,"admiration, grief, neutral",3
+blau,"admiration, love, nervousness, neutral",4
+farben,"admiration, annoyance, neutral",3
+herein,"fear, neutral, sadness",3
+kirschen,"admiration, neutral",2
+kämmte,"admiration, neutral",2
+glänzte,"admiration, fear, neutral",3
+herrlich,"admiration, approval, curiosity, joy, neutral",5
+rings,"admiration, amusement, approval, neutral",4
+antlitz,"admiration, confusion, neutral",3
+aussah,"disgust, neutral",2
+vergaß,"admiration, neutral",2
+schön,"admiration, annoyance, confusion, desire, disappointment, gratitude, joy, love, neutral, realization",10
+blühten,"admiration, neutral",2
+erblickte,"admiration, amusement, curiosity, joy, love, neutral",6
+führte,"approval, joy, neutral",3
+kannte,"grief, neutral, realization, sadness",4
+blume,"admiration, approval, curiosity, neutral",4
+wieviel,"curiosity, neutral",2
+betrachtet,"admiration, neutral",2
+steckte,"disappointment, embarrassment, fear, neutral, realization",5
+schönste,"admiration, confusion, neutral",3
+senkte,"curiosity, neutral",2
+gedanken,"disappointment, fear, neutral, realization",4
+beisammen,"desire, neutral",2
+suchte,"disappointment, fear, love, neutral",4
+ach,"admiration, annoyance, approval, curiosity, desire, disappointment, neutral, sadness, surprise",9
+rosenstrauch,"admiration, neutral",2
+verschwunden,"neutral, realization, sadness",3
+schoß,"neutral, surprise",2
+empor,"neutral, sadness",2
+umarmte,"approval, love, neutral",3
+gedachte,"admiration, fear, love, neutral",4
+herrlichen,"admiration, annoyance, gratitude, neutral",4
+träumte,"admiration, desire, joy, neutral",4
+eigenes,"admiration, disgust, joy, neutral",4
+bum,"anger, neutral, surprise",3
+mantel,"admiration, desire, neutral, optimism",4
+flammen,"love, neutral",2
+stärker,"approval, love, neutral, sadness, surprise",5
+körper,"admiration, amusement, approval, disappointment, nervousness, neutral, sadness",7
+verstehe,"confusion, neutral",2
+durchaus,"annoyance, embarrassment, neutral, realization",4
+winde,"admiration, neutral",2
+blatt,"love, neutral, realization",3
+zweigen,"admiration, neutral",2
+schwebt,"neutral, sadness",2
+leichter,"anger, neutral",2
+prächtige,"admiration, neutral, sadness, surprise",4
+meinst,"gratitude, neutral",2
+spreche,"admiration, neutral",2
+erwiderte,"annoyance, approval, disapproval, neutral",4
+schaukel,"disgust, neutral",2
+blasen,"admiration, neutral",2
+leicht,"admiration, approval, neutral",3
+elfen,"amusement, neutral",2
+menschenkinder,"fear, neutral",2
+duft,"admiration, annoyance, neutral",3
+glitten,"joy, love, neutral",3
+schwebende,"admiration, neutral",2
+leichen,"anger, neutral",2
+nein,"admiration, amusement, annoyance, disappointment, disapproval, disgust, neutral, surprise",8
+klang,"admiration, disgust, neutral",3
+läuten,"admiration, neutral",2
+butterblume,"admiration, curiosity, neutral",3
+helle,"admiration, caring, neutral",3
+sage,"approval, neutral",2
+weißt,"admiration, curiosity, neutral, sadness",4
+gelbe,"curiosity, neutral",2
+sonnenstrahlen,"joy, neutral",2
+munde,"joy, neutral",2
+grunde,"admiration, annoyance, joy, neutral, realization",5
+morgenstunde,"joy, neutral",2
+seufzte,"approval, disappointment, disgust, embarrassment, fear, joy, neutral",7
+gewiß,"admiration, annoyance, approval, neutral, realization",5
+komme,"curiosity, disapproval, joy, neutral",4
+bescheid,"disapproval, joy, neutral",3
+pfingstlilie,"curiosity, neutral",2
+bein,"admiration, disappointment, neutral, sadness",4
+teetopf,"admiration, neutral",2
+hals,"admiration, amusement, disappointment, fear, joy, neutral",6
+weißer,"admiration, neutral",2
+stiele,"admiration, neutral",2
+drückte,"admiration, anger, neutral",3
+ruhen,"admiration, annoyance, neutral",3
+trug,"admiration, caring, desire, grief, love, neutral, optimism",7
+früchte,"curiosity, neutral",2
+zogen,"disgust, fear, neutral",3
+vierte,"amusement, neutral",2
+mußte,"admiration, amusement, disgust, embarrassment, fear, gratitude, joy, neutral",8
+ausruhen,"fear, neutral",2
+hüpfte,"admiration, disgust, neutral",3
+ruhig,"admiration, fear, neutral",3
+verstand,"admiration, love, neutral",3
+fühlte,"admiration, annoyance, approval, embarrassment, fear, nervousness, neutral, pride, realization, sadness",10
+gedrückt,"nervousness, neutral, sadness",3
+gelernt,"admiration, neutral, realization",3
+verheiraten,"admiration, neutral",2
+bloß,"admiration, neutral",2
+vornehm,"admiration, neutral",2
+langweilig,"annoyance, disappointment, love, neutral",4
+hörten,"amusement, joy, neutral",3
+vergnügt,"love, neutral, surprise",3
+leiden,"admiration, annoyance, disapproval, neutral, sadness",5
+neulich,"excitement, neutral",2
+schlosse,"admiration, caring, curiosity, desire, joy, neutral",6
+zeitungen,"admiration, neutral",2
+kamen,"amusement, curiosity, disgust, neutral, sadness",5
+lesen,"admiration, neutral",2
+manne,"admiration, disapproval, neutral",3
+schloß,"admiration, approval, curiosity, disapproval, fear, neutral, sadness, surprise",8
+schloßtor,"love, neutral",2
+traten,"admiration, neutral",2
+lakaien,"love, neutral",2
+säle,"admiration, curiosity, neutral, sadness",4
+verwirrt,"confusion, neutral",2
+throne,"admiration, neutral",2
+gesprochen,"admiration, neutral",2
+lust,"admiration, desire, joy, neutral, surprise",5
+magen,"admiration, neutral",2
+gefallen,"admiration, curiosity, joy, neutral",4
+klügsten,"approval, neutral",2
+wann,"neutral, optimism",2
+jubelte,"amusement, joy, neutral",3
+klatschte,"admiration, joy, neutral",3
+glänzten,"admiration, disgust, joy, neutral",4
+lichtern,"amusement, neutral",2
+gingen,"admiration, amusement, neutral, realization",4
+bloßen,"disgust, neutral",2
+frischen,"admiration, anger, gratitude, joy, neutral",5
+diener,"disgust, neutral, pride",3
+ringsherum,"admiration, neutral",2
+burschen,"neutral, pride",2
+aufgestellt,"admiration, neutral",2
+türe,"neutral, sadness",2
+desto,"admiration, neutral",2
+muß,"admiration, annoyance, approval, caring, desire, fear, gratitude, joy, love, neutral, realization, sadness",12
+niedlich,"admiration, neutral, remorse",3
+freien,"admiration, neutral",2
+fand,"anger, caring, curiosity, joy, love, neutral",6
+klug,"admiration, approval, neutral",3
+wackelte,"admiration, amusement, neutral",3
+kopfe,"admiration, disgust, love, neutral, sadness",5
+kehrte,"amusement, annoyance, disappointment, fear, neutral, sadness",6
+brot,"neutral, realization",2
+sollst,"admiration, anger, annoyance, curiosity, disapproval, neutral",6
+böses,"fear, neutral, realization",3
+treppe,"love, neutral",2
+brannte,"admiration, disgust, love, neutral",4
+lampe,"neutral, realization",2
+fußboden,"admiration, disapproval, neutral, sadness, surprise",5
+ginge,"amusement, neutral",2
+schatten,"admiration, approval, disappointment, neutral, realization",5
+beinen,"amusement, neutral",2
+herren,"admiration, neutral",2
+damen,"admiration, neutral",2
+walde,"admiration, love, neutral, sadness",4
+saal,"disgust, neutral",2
+sausten,"neutral, sadness",2
+bekam,"admiration, amusement, approval, curiosity, fear, joy, neutral, sadness",8
+glich,"admiration, disgust, neutral",3
+stengel,"admiration, disgust, neutral",3
+bog,"curiosity, neutral",2
+blätter,"admiration, neutral",2
+nacken,"admiration, nervousness, neutral",3
+erwachte,"admiration, confusion, neutral, realization, sadness",5
+blinzelte,"disappointment, neutral",2
+sollten,"admiration, curiosity, neutral",3
+baten,"admiration, neutral",2
+feste,"curiosity, nervousness, neutral",3
+bette,"approval, caring, neutral",3
+faltete,"gratitude, neutral",2
+seide,"admiration, neutral",2
+bat,"admiration, amusement, caring, fear, love, neutral, realization, sadness",8
+erhielt,"excitement, neutral, realization",3
+muff,"admiration, neutral",2
+stern,"admiration, fear, neutral",3
+kutscher,"disgust, neutral",2
+vorreiter,"disgust, neutral",2
+begleitete,"admiration, neutral",2
+meilen,"fear, neutral",2
+vertragen,"amusement, neutral",2
+gefüttert,"admiration, neutral",2
+lebe,"admiration, caring, gratitude, neutral",4
+riefen,"admiration, disgust, joy, neutral",4
+lebewohl,"annoyance, caring, neutral, sadness",4
+flügeln,"admiration, nervousness, neutral",3
+fünfte,"admiration, neutral",2
+dunklen,"gratitude, neutral",2
+gleicher,"admiration, neutral",2
+wild,"admiration, anger, neutral",3
+unartig,"neutral, surprise",2
+gebissen,"disgust, neutral",2
+warm,"admiration, approval, gratitude, joy, love, neutral",6
+offenen,"desire, joy, neutral",3
+bullenbeißer,"admiration, disgust, neutral",3
+sprangen,"admiration, amusement, joy, neutral",4
+suppe,"disappointment, neutral",2
+kochte,"admiration, neutral",2
+gebraten,"curiosity, neutral",2
+teppiche,"approval, neutral",2
+schienen,"admiration, joy, neutral",3
+fliegen,"admiration, curiosity, disapproval, disgust, neutral",5
+kupfernen,"admiration, neutral",2
+ring,"neutral, sadness",2
+weshalb,"curiosity, fear, neutral",3
+vorn,"admiration, neutral",2
+legte,"admiration, caring, confusion, curiosity, fear, neutral",6
+tranken,"excitement, neutral",2
+reiste,"curiosity, disappointment, neutral, sadness",4
+mußt,"admiration, annoyance, approval, caring, love, neutral",6
+einerlei,"joy, neutral",2
+funkelten,"disgust, neutral",2
+höre,"annoyance, approval, curiosity, neutral, sadness",5
+siehst,"admiration, annoyance, approval, curiosity, disapproval, excitement, neutral",7
+mittag,"admiration, neutral",2
+flasche,"joy, neutral",2
+kannst,"admiration, amusement, anger, approval, curiosity, disapproval, love, neutral, optimism",9
+hochauf,"admiration, neutral",2
+krieche,"anger, neutral",2
+häßliche,"annoyance, disappointment, disgust, joy, neutral",5
+gebunden,"disgust, neutral",2
+öffnete,"admiration, amusement, joy, love, neutral",5
+scharfen,"fear, joy, neutral, sadness",4
+laufe,"neutral, realization",2
+streckte,"admiration, disgust, fear, neutral",4
+steppen,"love, neutral",2
+leuchten,"neutral, realization",2
+finnin,"admiration, amusement, neutral",3
+bauch,"amusement, neutral",2
+erschien,"admiration, amusement, anger, fear, joy, love, neutral, realization, surprise",9
+finnmarken,"neutral, sadness",2
+schreiben,"annoyance, neutral",2
+besser,"admiration, annoyance, approval, curiosity, embarrassment, fear, joy, neutral, optimism",9
+erwärmt,"approval, neutral",2
+worden,"approval, fear, neutral, surprise",4
+schrieb,"love, neutral",2
+achten,"disappointment, neutral",2
+brannten,"annoyance, neutral, sadness",3
+las,"admiration, neutral",2
+geschrieben,"admiration, curiosity, neutral",3
+schiffer,"admiration, neutral",2
+scharf,"curiosity, neutral",2
+zwölf-männer-kraft,"curiosity, neutral",2
+winkel,"disgust, joy, neutral",3
+freilich,"admiration, annoyance, approval, curiosity, desire, fear, neutral",7
+glaskörnchen,"admiration, neutral",2
+beeren,"approval, neutral",2
+hierher,"curiosity, love, neutral",3
+merkte,"neutral, realization",2
+schneidenden,"admiration, neutral",2
+wagte,"amusement, disappointment, neutral",3
+anzuhalten,"admiration, neutral",2
+backen,"joy, neutral",2
+hell,"admiration, desire, joy, love, neutral, surprise",6
+künstlich,"admiration, approval, love, neutral",4
+damals,"admiration, embarrassment, love, neutral, realization",5
+ausgesehen,"confusion, neutral",2
+schlangen,"amusement, disgust, neutral",3
+betete,"admiration, caring, love, neutral",4
+atem,"approval, neutral",2
+dichter,"admiration, excitement, neutral, realization",4
+engeln,"fear, love, neutral",3
+stachen,"anger, neutral",2
+stücke,"amusement, fear, neutral",3
+wände,"approval, neutral, optimism",3
+türen,"embarrassment, fear, neutral",3
+manieren,"approval, neutral",2
+höchsten,"admiration, neutral",2
+tausend,"admiration, neutral",2
+kunstwerk,"admiration, neutral",2
+schleppte,"anger, neutral",2
+scharfe,"neutral, sadness",2
+eisstücke,"admiration, neutral",2
+herausbringen,"embarrassment, neutral",2
+legen,"caring, neutral",2
+ewigkeit,"neutral, optimism",2
+schlittschuhe,"admiration, neutral, optimism",3
+hineinsehen,"approval, neutral",2
+erfroren,"joy, neutral",2
+geschah,"love, neutral",2
+erkannte,"admiration, amusement, neutral, realization",4
+brust,"admiration, neutral",2
+drangen,"annoyance, neutral",2
+sang,"admiration, desire, joy, neutral",4
+blüh'n,"excitement, neutral",2
+verwehen,"admiration, excitement, neutral",3
+christkindlein,"admiration, excitement, neutral",3
+brach,"disappointment, grief, joy, neutral",4
+wangen,"admiration, joy, love, neutral",4
+leuchteten,"admiration, fear, neutral",3
+mochte,"annoyance, disapproval, neutral, realization",4
+wartete,"disappointment, neutral",2
+junges,"neutral, realization",2
+genäht,"admiration, neutral",2
+grenze,"neutral, realization",2
+nahmen,"amusement, anger, disapproval, fear, joy, neutral",6
+vögel,"admiration, amusement, joy, love, neutral",5
+grüne,"admiration, curiosity, gratitude, neutral",4
+schöner,"admiration, neutral, sadness",3
+patron,"love, neutral",2
+klopfte,"fear, joy, neutral",3
+besuchen,"disappointment, neutral",2
+läuteten,"joy, neutral",2
+erkannten,"joy, neutral, sadness",3
+setzten,"joy, neutral",2
+leere,"admiration, disappointment, neutral",3
+werdet,"gratitude, neutral",2
+erwachsen,"admiration, neutral, realization",3
+erwartete,"disappointment, fear, neutral",3
+wirthin,"disgust, neutral, sadness",3
+unterhaltung,"neutral, realization",2
+fing,"neutral, sadness",2
+rede,"admiration, joy, neutral",3
+justizrath,"annoyance, approval, neutral, sadness, surprise",5
+'s,"admiration, anger, excitement, neutral, realization, sadness",6
+worin,"curiosity, neutral",2
+unserm,"disappointment, neutral, realization",3
+zeitalter,"neutral, realization",2
+ankunft,"admiration, neutral, optimism",3
+zeitung,"curiosity, neutral",2
+werth,"admiration, neutral",2
+mäntel,"curiosity, neutral",2
+stöcke,"admiration, neutral",2
+begriff,"fear, neutral",2
+fein,"admiration, neutral",2
+schnitt,"neutral, sadness",2
+jüngste,"admiration, caring, disappointment, neutral",4
+unbedeutende,"neutral, surprise",2
+ausgeführt,"fear, neutral",2
+vornehmen,"admiration, neutral",2
+null,"annoyance, neutral",2
+__________,"amusement, neutral",2
+ernst,"admiration, neutral",2
+menschheit,"curiosity, neutral",2
+oststraße,"amusement, fear, neutral",3
+laternen,"amusement, neutral",2
+überdies,"annoyance, neutral",2
+ziemlich,"admiration, neutral",2
+dick,"admiration, neutral",2
+sodaß,"confusion, neutral, realization",3
+ganzer,"admiration, neutral",2
+artig,"admiration, neutral",2
+vornehmste,"admiration, neutral",2
+bischof,"curiosity, neutral",2
+linken,"neutral, realization",2
+brücke,"fear, neutral",2
+wassers,"admiration, neutral",2
+christianshafen,"neutral, sadness",2
+thun,"annoyance, curiosity, disgust, neutral",4
+droschke,"neutral, sadness",2
+königs-neumarkt,"disappointment, neutral",2
+büsche,"love, neutral, realization",3
+breiter,"admiration, neutral",2
+trank,"caring, curiosity, desire, fear, joy, neutral",6
+punsch,"amusement, fear, neutral",3
+erblicke,"neutral, realization",2
+offene,"admiration, fear, joy, neutral",4
+thüre,"joy, neutral, sadness",3
+spalte,"amusement, neutral",2
+redete,"neutral, sadness",2
+zunge,"caring, fear, neutral",3
+brachte,"admiration, annoyance, disappointment, love, neutral, sadness",6
+unwohl,"neutral, sadness",2
+holte,"neutral, realization, sadness",3
+kopenhagen,"disappointment, neutral, surprise",3
+meinte,"admiration, confusion, curiosity, embarrassment, neutral",5
+reichte,"admiration, neutral",2
+dergleichen,"caring, neutral",2
+entstehen,"desire, neutral",2
+erstaunt,"neutral, surprise",2
+miene,"fear, neutral",2
+seid,"curiosity, neutral",2
+höchst,"admiration, disgust, neutral",3
+baccalaureus,"disappointment, neutral, optimism",3
+heiligen,"caring, joy, neutral, realization",4
+alltagsgeschichten,"approval, neutral",2
+enthalten,"neutral, sadness",2
+gelesen,"admiration, neutral",2
+besonders,"admiration, approval, desire, neutral, sadness",5
+herrn,"desire, fear, neutral",3
+heiberg,"disapproval, neutral",2
+englischen,"disappointment, neutral",2
+stimmte,"approval, disappointment, neutral, realization",4
+buchdrucker,"curiosity, excitement, neutral",3
+dänemark,"curiosity, neutral",2
+aermel,"amusement, neutral",2
+gott,"admiration, curiosity, disappointment, fear, gratitude, joy, love, neutral, realization, surprise",10
+gäste,"amusement, annoyance, disgust, fear, neutral",5
+sollt,"excitement, neutral",2
+betrunken,"neutral, realization",2
+glaubten,"admiration, approval, neutral",3
+that,"admiration, fear, neutral, sadness",4
+ruf,"neutral, sadness",2
+bezauberung,"admiration, neutral",2
+deutlich,"joy, love, neutral, realization",4
+gebäude,"neutral, sadness",2
+pforte,"neutral, sadness",2
+wächter,"anger, curiosity, neutral, sadness",4
+wahrlich,"admiration, embarrassment, neutral, realization, sadness",5
+thür,"admiration, neutral",2
+übrigen,"approval, neutral",2
+dinger,"desire, neutral",2
+drollig,"annoyance, neutral",2
+warmes,"neutral, relief",2
+nieder,"admiration, amusement, love, neutral, sadness",5
+wirkten,"admiration, neutral",2
+fingern,"anger, neutral",2
+gedicht,"admiration, neutral",2
+gehabt,"disgust, love, neutral, sadness",4
+schreibt,"fear, neutral",2
+poesie,"neutral, sadness",2
+wär,"excitement, neutral, realization",3
+jung,"admiration, neutral",2
+dagegen,"disgust, neutral",2
+verstehst,"approval, neutral",2
+geweiht,"neutral, sadness",2
+dunkler,"neutral, sadness",2
+mangel,"curiosity, neutral",2
+zufrieden,"joy, neutral",2
+kurzem,"fear, neutral",2
+vergnügen,"approval, confusion, joy, neutral",4
+todt,"admiration, neutral",2
+dessenungeachtet,"admiration, neutral",2
+entweder,"neutral, realization",2
+schiffen,"admiration, fear, neutral",3
+flug,"disappointment, neutral",2
+wanderung,"fear, neutral",2
+acht,"caring, neutral",2
+wenige,"fear, neutral",2
+gebraucht,"admiration, neutral",2
+zwanzig,"admiration, neutral",2
+raum,"admiration, neutral",2
+unserer,"disappointment, love, neutral",3
+kostet,"annoyance, curiosity, neutral",3
+körpers,"joy, neutral",2
+hienieden,"joy, neutral",2
+zurückgelegt,"joy, neutral",2
+geschaffen,"admiration, amusement, annoyance, love, neutral",5
+frisch,"admiration, joy, neutral",3
+kuppeln,"admiration, neutral",2
+durchsichtig,"admiration, neutral, realization",3
+grade,"admiration, amusement, neutral",3
+lebten,"fear, joy, neutral",3
+verlor,"curiosity, disappointment, neutral, sadness",4
+lang,"admiration, embarrassment, fear, gratitude, neutral, optimism, realization",7
+erschraken,"admiration, neutral",2
+natürlicherweise,"love, neutral",2
+versicherte,"admiration, neutral",2
+schrecklichste,"fear, neutral",2
+blieben,"amusement, joy, neutral",3
+dünne,"disappointment, neutral",2
+strömte,"joy, neutral, sadness",3
+vertrauen,"caring, fear, neutral",3
+mindesten,"love, neutral",2
+wetter,"admiration, embarrassment, fear, gratitude, neutral, realization",6
+leisten,"curiosity, neutral",2
+voraus,"amusement, neutral",2
+geschwind,"caring, neutral, surprise",3
+hui,"excitement, neutral",2
+eher,"annoyance, disgust, neutral",3
+leuten,"admiration, approval, neutral",3
+denke,"admiration, annoyance, caring, neutral, optimism",5
+dame,"admiration, disgust, love, neutral, sadness",5
+schaden,"caring, fear, neutral",3
+solide,"curiosity, neutral",2
+schrumpfte,"admiration, neutral",2
+unterschied,"neutral, realization",2
+geistige,"admiration, neutral",2
+unwürdig,"admiration, neutral",2
+ärmliche,"admiration, neutral",2
+fleisch,"anger, neutral",2
+gemahlin,"joy, neutral",2
+thüren,"admiration, neutral",2
+versetzt,"joy, neutral",2
+jungfrau,"admiration, neutral",2
+allzu,"embarrassment, joy, neutral",3
+starke,"admiration, curiosity, love, neutral",4
+kleidern,"admiration, neutral, realization",3
+erreichte,"admiration, fear, neutral",3
+anerkennen,"embarrassment, neutral",2
+stellte,"amusement, curiosity, gratitude, neutral, realization, sadness",6
+copist,"admiration, embarrassment, fear, joy, neutral",5
+wendete,"fear, neutral",2
+naß,"admiration, disgust, neutral",3
+begegnete,"neutral, surprise",2
+glücklicher,"joy, neutral, sadness",3
+befestigt,"admiration, neutral",2
+brauchen,"disappointment, neutral",2
+sorgen,"admiration, caring, desire, neutral",4
+probiren,"annoyance, neutral",2
+gefühlt,"neutral, realization",2
+veilchen,"admiration, neutral",2
+zweig,"joy, neutral",2
+dufteten,"admiration, neutral",2
+fensterscheibe,"approval, neutral",2
+wehten,"admiration, amusement, neutral",3
+sägte,"admiration, neutral",2
+entzwei,"admiration, disappointment, neutral",3
+hingleiten,"amusement, neutral",2
+brief,"love, neutral",2
+zwang,"approval, neutral",2
+verschwand,"admiration, amusement, disappointment, love, neutral, surprise",6
+läßt,"fear, neutral",2
+flüsterte,"admiration, annoyance, caring, confusion, joy, love, neutral",7
+größe,"neutral, surprise",2
+merkwürdig,"admiration, disappointment, neutral",3
+träumen,"admiration, joy, neutral",3
+ungewöhnlich,"admiration, neutral",2
+traume,"anger, neutral",2
+besorgen,"fear, neutral, sadness",3
+sitze,"approval, neutral",2
+seiten,"neutral, sadness",2
+schnabel,"neutral, pride",2
+geschmeidigen,"admiration, neutral",2
+pfiff,"fear, neutral, sadness",3
+balg,"annoyance, neutral",2
+wanderte,"neutral, sadness",2
+nannte,"admiration, joy, neutral, sadness",4
+papchen,"amusement, disgust, neutral",3
+fügte,"amusement, neutral",2
+lachte,"amusement, curiosity, joy, neutral",4
+gratuliren,"excitement, neutral",2
+einziges,"admiration, annoyance, fear, neutral",4
+kanarienvogel,"annoyance, desire, neutral",3
+spiegelklaren,"admiration, neutral",2
+entsinnst,"curiosity, neutral",2
+hübschen,"amusement, neutral",2
+zelte,"admiration, neutral",2
+tanzten,"admiration, amusement, joy, love, neutral",5
+laßt,"amusement, annoyance, disapproval, disgust, neutral",5
+nennen,"admiration, neutral, realization",3
+vaterland,"disappointment, love, neutral",3
+lacht,"annoyance, neutral",2
+fliege,"admiration, love, neutral",3
+gehorchte,"love, neutral",2
+augenblicke,"amusement, neutral, sadness",3
+geschmeidig,"admiration, neutral",2
+funkelnden,"fear, neutral",2
+schlich,"fear, neutral, sadness",3
+tische,"neutral, realization",2
+bewahre,"neutral, surprise",2
+brachten,"curiosity, disgust, neutral",3
+nachbar,"annoyance, neutral, realization",3
+theolog,"approval, neutral",2
+gange,"caring, neutral",2
+ertönte,"admiration, fear, neutral",3
+schweiz,"admiration, disappointment, neutral",3
+schwebte,"admiration, disgust, neutral, sadness",4
+zustande,"neutral, optimism",2
+accreditiv,"disappointment, neutral",2
+fühlen,"caring, love, neutral",3
+blies,"grief, neutral",2
+italien,"admiration, neutral",2
+dunkelblauen,"neutral, sadness",2
+friedlich,"disappointment, neutral",2
+liebliche,"love, neutral",2
+irgend,"joy, neutral",2
+schlugen,"disgust, neutral",2
+bissen,"fear, neutral",2
+angeschwollen,"nervousness, neutral",2
+schaaren,"neutral, sadness",2
+thiere,"neutral, sadness",2
+sank,"admiration, annoyance, neutral, realization, sadness",5
+sommertage,"joy, neutral",2
+wolken,"admiration, confusion, fear, neutral",4
+gemälden,"approval, neutral",2
+erlebt,"disappointment, disapproval, neutral",3
+weiden,"disgust, neutral",2
+lumpen,"anger, neutral",2
+bot,"gratitude, neutral",2
+stall,"grief, neutral, realization",3
+frische,"admiration, neutral, surprise",3
+verdorrten,"admiration, neutral",2
+miserabili,"anger, neutral, surprise",3
+eccellenza,"neutral, surprise",2
+pfeffer,"admiration, neutral",2
+ausgesprochen,"confusion, neutral",2
+heimath,"amusement, joy, neutral",3
+niemanden,"neutral, realization, sadness",3
+grabe,"admiration, neutral",2
+schwerer,"anger, desire, neutral, sadness",4
+drückt,"curiosity, neutral",2
+bewegten,"admiration, love, neutral, realization",4
+todten,"neutral, sadness",2
+todesschlaf,"neutral, sadness",2
+geendet,"approval, neutral",2
+kranke,"joy, neutral",2
+milden,"love, neutral",2
+knieen,"love, neutral",2
+thränen,"admiration, joy, neutral",3
+herrlichkeiten,"admiration, neutral",2
+sarg,"neutral, sadness",2
+geliebt,"curiosity, neutral, realization",3
+bäume,"admiration, amusement, desire, gratitude, love, neutral",6
+johannes,"admiration, caring, gratitude, joy, love, neutral, sadness",7
+allezeit,"love, neutral",2
+möge,"desire, neutral",2
+grab,"caring, neutral",2
+geschmückt,"approval, neutral, realization, sadness, surprise",5
+gethan,"neutral, realization",2
+packte,"admiration, neutral",2
+erbtheil,"neutral, sadness",2
+psalm,"admiration, approval, neutral",3
+gesungen,"admiration, neutral, sadness",3
+rothen,"admiration, amusement, anger, approval, fear, gratitude, joy, neutral, realization",9
+beschattete,"admiration, neutral",2
+heuschober,"admiration, neutral",2
+felde,"admiration, neutral",2
+zündete,"neutral, sadness",2
+aufging,"desire, joy, neutral",3
+glocken,"admiration, joy, neutral",3
+prediger,"neutral, sadness",2
+kirchhofe,"caring, fear, neutral",3
+gräber,"anger, neutral",2
+schmücken,"annoyance, neutral",2
+kirchhofsthüre,"fear, neutral",2
+ermüdet,"admiration, excitement, neutral",3
+donnerte,"fear, neutral",2
+furchtsam,"fear, neutral",2
+gutes,"admiration, confusion, disgust, embarrassment, joy, love, neutral, realization",8
+gewissen,"disappointment, neutral",2
+lebende,"annoyance, neutral",2
+schlimme,"disgust, neutral",2
+uebles,"annoyance, neutral",2
+erweisen,"curiosity, desire, disapproval, neutral",4
+schnickschnack,"excitement, neutral",2
+bezahlen,"anger, neutral",2
+willst,"amusement, anger, approval, caring, curiosity, desire, joy, love, neutral",9
+leiche,"annoyance, neutral",2
+stören,"desire, neutral",2
+bösen,"annoyance, embarrassment, neutral, realization",4
+finger,"admiration, amusement, caring, neutral",4
+schaukelten,"admiration, neutral",2
+lärmen,"fear, neutral",2
+bunte,"amusement, neutral",2
+spinnen,"amusement, neutral",2
+feine,"admiration, amusement, neutral",3
+währte,"neutral, sadness",2
+eben,"admiration, amusement, annoyance, disappointment, neutral",5
+herausgekommen,"disapproval, neutral",2
+möglichen,"neutral, realization",2
+gesammelt,"anger, neutral",2
+ruthen,"curiosity, neutral",2
+wohnte,"admiration, curiosity, neutral",3
+salbe,"confusion, neutral",2
+verlange,"admiration, approval, neutral",3
+bezahlt,"admiration, disappointment, excitement, neutral, remorse",5
+angenehm,"amusement, disappointment, excitement, neutral, realization",5
+schwere,"disappointment, neutral",2
+wirtshause,"disappointment, joy, neutral",3
+komödie,"admiration, disappointment, neutral, sadness",4
+aufstand,"admiration, neutral, realization",3
+schlächter,"admiration, neutral",2
+schlanke,"joy, neutral",2
+holzpuppen,"admiration, neutral",2
+glasaugen,"admiration, neutral",2
+könnten,"admiration, annoyance, disappointment, neutral",4
+kniee,"gratitude, neutral",2
+hofleute,"admiration, neutral",2
+niedlichsten,"admiration, curiosity, neutral",3
+machten,"admiration, neutral",2
+städte,"admiration, neutral",2
+schlage,"anger, annoyance, approval, neutral",4
+wirthshause,"fear, neutral",2
+nett,"admiration, neutral",2
+rathen,"joy, neutral",2
+unterlassen,"admiration, desire, love, neutral, sadness",5
+jahres,"annoyance, disappointment, disapproval, joy, neutral",5
+ruthe,"approval, neutral",2
+ritten,"amusement, neutral",2
+kohlschwarzen,"admiration, neutral",2
+pferden,"anger, neutral",2
+purem,"approval, neutral",2
+sonnenstrahl,"neutral, surprise",2
+bestimmt,"excitement, neutral, realization",3
+pochte,"fear, neutral",2
+pantoffeln,"curiosity, neutral, pride",3
+haupte,"admiration, neutral",2
+scepter,"love, neutral",2
+apfel,"admiration, neutral",2
+erfuhr,"anger, fear, joy, neutral",4
+weinen,"amusement, desire, joy, neutral, sadness",5
+aufgegeben,"love, neutral",2
+errathen,"annoyance, neutral",2
+gerathen,"disappointment, neutral",2
+tanzte,"admiration, amusement, joy, neutral, sadness",5
+landstraße,"anger, neutral",2
+sehnte,"love, neutral",2
+herrschte,"fear, joy, neutral",3
+geschlossen,"neutral, sadness",2
+kuchenfrauen,"joy, neutral, surprise",3
+banden,"disgust, neutral",2
+priester,"disappointment, neutral, sadness",3
+kirchen,"admiration, neutral",2
+freiern,"gratitude, neutral",2
+ergangen,"curiosity, neutral",2
+getrunken,"joy, neutral",2
+stuhle,"annoyance, approval, neutral",3
+größte,"admiration, amusement, annoyance, fear, neutral, sadness",6
+stille,"admiration, caring, love, neutral",4
+leuchtenden,"fear, neutral",2
+trommel,"anger, neutral",2
+saale,"admiration, neutral",2
+woran,"curiosity, neutral",2
+stark,"admiration, annoyance, curiosity, gratitude, neutral, realization",6
+hagelwetter,"disapproval, neutral",2
+löste,"annoyance, love, neutral",3
+klatschten,"admiration, amusement, neutral",3
+könige,"admiration, fear, neutral",3
+stürmte,"joy, neutral",2
+schilfe,"neutral, sadness",2
+sturmwind,"anger, neutral",2
+bleich,"admiration, fear, neutral",3
+arg,"neutral, optimism",2
+wirbelte,"admiration, neutral, sadness",3
+ausgewesen,"disapproval, neutral",2
+gewonnen,"joy, neutral",2
+tauchte,"admiration, neutral, remorse, sadness",4
+feierlich,"joy, neutral",2
+gehe,"annoyance, curiosity, love, neutral",4
+enten,"disappointment, disgust, neutral",3
+hühnern,"disgust, neutral",2
+wein,"admiration, joy, love, neutral, surprise",5
+erleuchtet,"joy, neutral",2
+federn,"admiration, amusement, joy, neutral, sadness",5
+zauberei,"disgust, neutral",2
+lieb,"admiration, disapproval, love, neutral",4
+male,"gratitude, neutral, sadness",3
+mild,"admiration, neutral, sadness",3
+ward,"neutral, sadness",2
+lebte,"amusement, love, neutral, realization, sadness",5
+kluge,"admiration, neutral",2
+bekomme,"annoyance, neutral",2
+sticken,"admiration, neutral",2
+gelehrsamkeit,"disapproval, neutral",2
+wollt,"curiosity, desire, joy, neutral, sadness",5
+plaudern,"disgust, neutral",2
+nehme,"neutral, sadness",2
+gebe,"approval, caring, neutral",3
+stande,"disgust, neutral, realization",3
+halloh,"excitement, neutral",2
+seltenen,"curiosity, neutral",2
+anzusehen,"admiration, approval, fear, neutral, pride",5
+tölpel,"amusement, neutral",2
+holzschuh,"curiosity, neutral",2
+füllte,"joy, neutral",2
+zeug,"admiration, anger, approval, curiosity, disapproval, neutral, realization",7
+glied,"admiration, neutral",2
+rühren,"admiration, desire, neutral, surprise",4
+empfing,"amusement, disgust, neutral",3
+verließ,"curiosity, joy, neutral",3
+glühte,"fear, neutral",2
+hitze,"amusement, anger, neutral",3
+—,"admiration, amusement, anger, approval, caring, confusion, curiosity, disappointment, disapproval, embarrassment, fear, gratitude, joy, love, neutral, realization, sadness, surprise",18
+schenken,"amusement, desire, neutral",3
+zugleich,"caring, excitement, neutral, realization, sadness",5
+wandte,"disappointment, embarrassment, neutral, sadness",4
+taschen,"anger, neutral",2
+rechter,"excitement, neutral",2
+wöchentlich,"approval, neutral",2
+vorbeiging,"admiration, neutral",2
+sagst,"admiration, neutral",2
+sehe,"caring, disapproval, neutral",3
+hüten,"curiosity, neutral",2
+schulter,"fear, neutral",2
+pferdehaut,"neutral, surprise",2
+daneben,"disappointment, neutral",2
+storch,"disapproval, neutral",2
+nest,"disgust, grief, neutral",3
+dache,"joy, neutral",2
+gedeckt,"approval, neutral",2
+reiten,"curiosity, desire, love, neutral",4
+komm,"anger, annoyance, curiosity, neutral",4
+schüssel,"admiration, neutral",2
+schmecken,"admiration, disapproval, neutral",3
+sacke,"annoyance, curiosity, fear, love, neutral",5
+durfte,"caring, disapproval, neutral",3
+aßen,"anger, neutral",2
+hörst,"anger, neutral",2
+bange,"fear, neutral",2
+hu,"annoyance, disgust, neutral",3
+könnt,"admiration, caring, neutral",3
+aufmachen,"disapproval, neutral",2
+scheffel,"admiration, approval, embarrassment, neutral",4
+karren,"admiration, neutral",2
+floß,"admiration, neutral",2
+geschlagen,"neutral, realization",2
+dummen,"fear, neutral",2
+gestern,"admiration, neutral",2
+axt,"annoyance, neutral",2
+kaufen,"neutral, optimism, realization, surprise",4
+gelaufen,"fear, neutral",2
+foppen,"anger, neutral",2
+na,"confusion, neutral",2
+schlimm,"amusement, annoyance, neutral",3
+zurückkehren,"disapproval, neutral",2
+liege,"caring, neutral",2
+böser,"neutral, realization",2
+totschlagen,"anger, neutral",2
+kümmel,"annoyance, desire, neutral",3
+erschlagen,"annoyance, neutral",2
+woher,"joy, neutral",2
+flusse,"annoyance, neutral",2
+möglich,"admiration, disapproval, neutral",3
+viehtreiber,"gratitude, neutral, sadness",3
+kommst,"curiosity, neutral",2
+kühen,"admiration, neutral",2
+warfst,"fear, neutral",2
+seevieh,"curiosity, neutral",2
+vieh,"curiosity, fear, love, neutral, surprise",5
+erzähle,"curiosity, disapproval, neutral",3
+umweg,"love, neutral",2
+erhalte,"approval, neutral",2
+durstig,"neutral, sadness",2
+behälter,"joy, neutral",2
+spielte,"admiration, joy, neutral, sadness",4
+kavalier,"admiration, neutral",2
+einschüchtern,"annoyance, neutral",2
+braun,"nervousness, neutral",2
+brauche,"neutral, sadness",2
+arbeitete,"admiration, neutral",2
+niedlichen,"amusement, neutral",2
+hofdame,"fear, neutral",2
+tue,"approval, neutral",2
+gegangen,"disappointment, fear, neutral",3
+schellen,"admiration, neutral",2
+stellten,"annoyance, neutral",2
+feuerherd,"amusement, neutral",2
+süße,"curiosity, love, neutral",3
+haltet,"caring, neutral",2
+hineingegangen,"admiration, neutral",2
+rieb,"confusion, neutral, realization",3
+sputete,"fear, neutral",2
+leise,"admiration, amusement, disgust, joy, neutral, sadness",6
+geschöpf,"annoyance, curiosity, neutral",3
+haaren,"admiration, disgust, neutral",3
+schlafkammer,"admiration, neutral",2
+schrecklich,"admiration, fear, neutral",3
+wiege,"admiration, desire, neutral",3
+nackten,"neutral, sadness",2
+langes,"amusement, neutral",2
+blondes,"admiration, neutral",2
+fror,"admiration, neutral",2
+beinahe,"annoyance, disappointment, neutral",3
+schleier,"admiration, neutral",2
+schneeweißes,"neutral, surprise",2
+erlosch,"admiration, neutral",2
+erlischt,"neutral, realization",2
+herrliche,"admiration, confusion, curiosity, joy, neutral, sadness, surprise",7
+gänsebraten,"joy, neutral",2
+strich,"admiration, neutral",2
+glanze,"admiration, neutral",2
+heller,"admiration, joy, neutral",3
+glanz,"admiration, neutral",2
+hunger,"neutral, sadness",2
+starr,"embarrassment, neutral",2
+traf,"fear, neutral, sadness",3
+garstig,"disgust, neutral",2
+lampen,"amusement, neutral",2
+magst,"approval, neutral",2
+teetassen,"disapproval, neutral",2
+kerl,"admiration, neutral",2
+genügt,"joy, neutral",2
+wahrhaftig,"joy, neutral",2
+gib,"caring, neutral",2
+prächtigsten,"admiration, approval, neutral",3
+allerbesten,"admiration, neutral",2
+jämmerliche,"approval, neutral",2
+überhaupt,"approval, neutral",2
+türmen,"admiration, neutral",2
+gewohnt,"admiration, neutral",2
+funken,"neutral, realization",2
+einher,"neutral, sadness",2
+verschwanden,"admiration, neutral, surprise",3
+gemalt,"neutral, realization",2
+einsehen,"neutral, realization",2
+feiner,"admiration, neutral",2
+warfen,"amusement, neutral",2
+tabak,"admiration, neutral",2
+dauerte,"neutral, realization",2
+schuhmacherfrau,"admiration, neutral",2
+gemeint,"embarrassment, neutral",2
+karen,"admiration, approval, disgust, joy, neutral, remorse",6
+darein,"anger, neutral",2
+gräulich,"fear, neutral",2
+strömten,"disappointment, neutral",2
+allerliebst,"approval, excitement, love, neutral",4
+rothe,"admiration, caring, disgust, neutral",4
+glänzen,"approval, neutral",2
+paßten,"admiration, neutral",2
+wunderbar,"admiration, neutral",2
+neigte,"admiration, gratitude, neutral, realization",4
+tanzt,"amusement, approval, disappointment, neutral",4
+kniete,"love, neutral",2
+kelche,"gratitude, neutral",2
+stieg,"admiration, confusion, neutral",3
+gewaltig,"fear, gratitude, neutral",3
+gewartet,"joy, neutral",2
+genesen,"neutral, sadness",2
+sünde,"fear, neutral, realization, remorse",4
+finstern,"joy, neutral",2
+besseres,"curiosity, neutral, realization",3
+stolze,"admiration, annoyance, neutral",3
+gnade,"joy, neutral",2
+hineinkommen,"disapproval, neutral",2
+geführt,"embarrassment, neutral, sadness",3
+dienst,"curiosity, neutral, sadness",3
+fleißig,"admiration, neutral",2
+sonntage,"excitement, neutral",2
+orgeltöne,"admiration, neutral",2
+hilf,"approval, neutral, sadness",3
+berührte,"neutral, realization, sadness",3
+orgel,"admiration, joy, neutral",3
+kinderstimmen,"joy, neutral",2
+korn,"admiration, neutral",2
+aufgesetzt,"annoyance, neutral",2
+wäldern,"admiration, approval, neutral",3
+neste,"joy, neutral",2
+schwammen,"admiration, disapproval, neutral",3
+klettenblatt,"admiration, neutral",2
+rapp,"love, neutral",2
+platzen,"curiosity, neutral",2
+schwimmen,"admiration, curiosity, neutral",3
+keins,"gratitude, neutral",2
+entleinmutter,"admiration, neutral",2
+platsch,"fear, neutral",2
+schwamm,"admiration, amusement, neutral, remorse",4
+entenhof,"caring, neutral",2
+aalkopf,"admiration, fear, neutral",3
+euern,"admiration, neutral",2
+thaten,"annoyance, neutral",2
+büschen,"love, neutral",2
+grüßte,"admiration, neutral",2
+gänse,"love, neutral, sadness",3
+richtiger,"admiration, neutral",2
+gekrochen,"disgust, neutral",2
+jäger,"admiration, neutral",2
+dampf,"amusement, fear, neutral",3
+dunkeln,"love, neutral",2
+moore,"love, neutral",2
+tobte,"fear, neutral",2
+kater,"curiosity, gratitude, neutral",3
+henne,"admiration, neutral",2
+sprühte,"disgust, neutral",2
+eier,"admiration, neutral",2
+litt,"fear, nervousness, neutral",3
+güte,"admiration, neutral, realization",3
+darfst,"admiration, neutral",2
+schlechter,"disapproval, neutral",2
+sonderbare,"admiration, neutral",2
+grillen,"joy, neutral",2
+lege,"fear, neutral",2
+glaubst,"curiosity, neutral",2
+zusammenschlagen,"admiration, neutral",2
+eigenthümlichen,"neutral, sadness",2
+glücklichen,"joy, neutral",2
+eise,"admiration, neutral",2
+haufen,"fear, neutral",2
+noth,"admiration, fear, neutral",3
+scheinen,"admiration, disappointment, neutral",3
+brausten,"joy, neutral",2
+duftete,"admiration, neutral",2
+vögeln,"curiosity, neutral",2
+wasserfläche,"desire, neutral",2
+brod,"admiration, neutral",2
+neigten,"joy, neutral",2
+seejungfer,"admiration, amusement, curiosity, embarrassment, fear, joy, love, neutral, sadness",9
+irgendein,"admiration, neutral",2
+kirchtürme,"admiration, neutral",2
+reicher,"anger, neutral, pride",3
+nackte,"admiration, neutral",2
+zart,"admiration, approval, neutral",3
+rosenblatt,"admiration, disgust, neutral",3
+endete,"love, neutral",2
+meeresgrunde,"admiration, approval, neutral",3
+meerweiblein,"admiration, neutral",2
+bilde,"caring, neutral",2
+wurzeln,"disgust, neutral",2
+städten,"love, neutral",2
+tieren,"curiosity, neutral",2
+mondschein,"admiration, neutral",2
+warten,"annoyance, neutral",2
+aufsteigen,"admiration, neutral",2
+längsten,"disappointment, neutral",2
+lärm,"admiration, neutral",2
+schwarm,"admiration, neutral",2
+wilder,"neutral, sadness",2
+hügel,"fear, neutral",2
+schauten,"neutral, sadness",2
+dreist,"disappointment, neutral",2
+herrlichste,"admiration, approval, neutral",3
+kreuzten,"neutral, surprise",2
+emporhob,"admiration, neutral",2
+hübsch,"admiration, disappointment, neutral",3
+austern,"admiration, neutral",2
+schwanze,"admiration, neutral",2
+segel,"admiration, fear, neutral",3
+rührte,"annoyance, neutral",2
+matrosen,"fear, neutral",2
+deck,"amusement, neutral",2
+erschreckt,"fear, neutral",2
+schwangen,"disappointment, neutral",2
+klaren,"admiration, amusement, curiosity, gratitude, neutral",5
+stillen,"admiration, approval, desire, neutral, sadness",5
+tau,"admiration, neutral",2
+bunten,"admiration, amusement, neutral",3
+breitete,"neutral, relief",2
+wogen,"gratitude, neutral",2
+herauf,"anger, neutral, sadness",3
+mindeste,"neutral, sadness",2
+unwetter,"fear, neutral",2
+wünschte,"desire, fear, love, neutral",4
+schimmerte,"admiration, neutral",2
+bucht,"fear, neutral",2
+sorgte,"admiration, neutral",2
+paßte,"love, neutral",2
+reifen,"admiration, neutral",2
+trost,"neutral, realization",2
+flochten,"admiration, neutral",2
+aushalten,"caring, neutral",2
+erhoben,"disappointment, neutral, optimism",3
+säulen,"admiration, neutral",2
+strahlen,"love, neutral",2
+flaggen,"amusement, neutral",2
+innig,"love, neutral",2
+antwort,"annoyance, love, neutral",3
+höhere,"annoyance, neutral",2
+dreihundert,"excitement, gratitude, neutral, optimism",4
+schaum,"annoyance, love, neutral",3
+unsterbliche,"approval, confusion, curiosity, desire, neutral, optimism",6
+schimmernden,"desire, neutral",2
+rechte,"admiration, neutral, realization",3
+klarem,"admiration, neutral",2
+muschelschalen,"joy, neutral, pride",3
+brennenden,"neutral, realization",2
+kummer,"admiration, neutral, sadness",3
+waldhorn,"admiration, neutral",2
+strecke,"amusement, neutral",2
+polypen,"fear, neutral",2
+wälzten,"amusement, neutral",2
+zeigten,"disgust, neutral",2
+errichtet,"neutral, surprise",2
+schwebenden,"admiration, neutral",2
+schritt,"anger, neutral",2
+bedenke,"curiosity, neutral",2
+ineinander,"admiration, love, neutral",3
+behalte,"admiration, gratitude, neutral",3
+schwarzes,"fear, neutral",2
+gehst,"disapproval, neutral",2
+stumm,"admiration, disappointment, neutral",3
+nackend,"fear, neutral",2
+träte,"neutral, sadness",2
+bekleidet,"amusement, neutral, realization",3
+wüßte,"admiration, neutral",2
+zehenspitzen,"admiration, neutral",2
+marmortreppe,"neutral, surprise",2
+unterging,"admiration, desire, neutral",3
+tempel,"approval, caring, joy, love, neutral",5
+gefolge,"admiration, neutral",2
+stummes,"admiration, annoyance, neutral",3
+findelkind,"neutral, sadness",2
+näherte,"neutral, realization",2
+tauchten,"approval, neutral",2
+schleppe,"admiration, neutral",2
+selben,"admiration, desire, neutral",3
+täglich,"approval, neutral",2
+ahnte,"admiration, neutral",2
+atmete,"neutral, sadness",2
+spritzt,"gratitude, neutral",2
+heftete,"admiration, neutral",2
+stürzte,"confusion, fear, neutral, surprise",4
+lächeln,"joy, love, neutral, sadness",4
+prüfungszeit,"joy, neutral",2
+stimmen,"admiration, neutral",2
+schwebten,"admiration, neutral",2
+wem,"confusion, love, neutral",3
+ewiges,"annoyance, neutral",2
+lüfte,"joy, neutral",2
+durchsichtigen,"admiration, neutral",2
+rathe,"annoyance, neutral",2
+amte,"confusion, neutral",2
+verlangten,"neutral, sadness",2
+arbeiteten,"annoyance, neutral",2
+tauge,"admiration, confusion, disapproval, neutral",4
+minister,"neutral, realization",2
+behüte,"admiration, neutral",2
+muster,"admiration, neutral",2
+webte,"neutral, sadness",2
+majestät,"admiration, neutral",2
+beifall,"neutral, realization",2
+procession,"admiration, neutral",2
+titel,"annoyance, neutral, realization",3
+angezündet,"amusement, annoyance, neutral",3
+thronhimmel,"admiration, neutral",2
+merken,"annoyance, neutral",2
+landmanns,"neutral, sadness",2
+erstreckte,"fear, neutral",2
+erbaut,"disgust, neutral",2
+schmerzen,"caring, neutral",2
+fromm,"admiration, neutral",2
+unschuldig,"approval, neutral",2
+stahl,"admiration, desire, neutral",3
+hunderte,"admiration, amusement, neutral",3
+gekostet,"disapproval, neutral",2
+theil,"joy, neutral",2
+baumzweige,"love, neutral",2
+gekannt,"joy, neutral",2
+nahebei,"love, neutral",2
+ufern,"admiration, neutral",2
+weicher,"caring, neutral",2
+unermüdlich,"joy, neutral",2
+strauß,"admiration, disappointment, neutral",3
+süßen,"curiosity, neutral",2
+finster,"fear, neutral",2
+kehrten,"anger, neutral",2
+ruhte,"neutral, sadness",2
+weinten,"neutral, sadness",2
+verstanden,"excitement, neutral, optimism",3
+klippe,"love, neutral, realization",3
+mitte,"admiration, neutral",2
+nehmt,"caring, joy, neutral",3
+welle,"admiration, neutral",2
+muth,"curiosity, neutral",2
+rein,"admiration, love, neutral, realization",4
+fata,"neutral, realization",2
+morgana,"neutral, realization",2
+herrliches,"admiration, curiosity, neutral",3
+hineinbringen,"anger, neutral",2
+stürzten,"anger, disgust, neutral",3
+segelte,"love, neutral",2
+herrlichsten,"admiration, disgust, neutral",3
+glänzend,"admiration, neutral",2
+flachs,"admiration, neutral",2
+merke,"annoyance, approval, neutral",3
+geschlafen,"curiosity, neutral",2
+nessel,"neutral, realization",2
+thue,"amusement, neutral",2
+eilig,"admiration, neutral",2
+floh,"fear, love, neutral",3
+plätscherten,"fear, neutral",2
+handschuhe,"neutral, sadness",2
+blendend,"admiration, neutral",2
+gerichte,"admiration, neutral",2
+schmerzte,"neutral, sadness",2
+ganzem,"caring, neutral, sadness",3
+schmerz,"admiration, caring, disappointment, love, neutral, realization, sadness",7
+qual,"caring, neutral",2
+erduldet,"admiration, neutral",2
+lamien,"fear, neutral",2
+zweifel,"fear, neutral",2
+sammet,"admiration, neutral",2
+schimmernde,"fear, neutral, realization",3
+diamanten,"disgust, neutral, surprise",3
+wünschten,"desire, neutral",2
+fehlte,"disappointment, neutral, realization",3
+freundlichen,"fear, neutral",2
+versprochen,"neutral, optimism",2
+armes,"neutral, sadness",2
+verbreitete,"disgust, neutral",2
+duftende,"annoyance, neutral, sadness",3
+glückseligkeit,"neutral, optimism",2
+gerstenkorn,"neutral, sadness",2
+walnußschale,"admiration, neutral",2
+niedliche,"admiration, curiosity, disapproval, neutral",4
+hausen,"admiration, neutral",2
+blatte,"curiosity, disapproval, neutral, sadness",4
+koax,"admiration, disgust, neutral",3
+zähnen,"caring, joy, neutral",3
+stiel,"fear, neutral",2
+niedlicher,"approval, neutral",2
+schmetterling,"love, neutral",2
+gefiel,"admiration, love, neutral",3
+klauen,"amusement, neutral",2
+loskommen,"neutral, sadness",2
+verhungern,"gratitude, neutral",2
+erbärmlich,"neutral, sadness",2
+gefrorenen,"approval, neutral",2
+samtpelz,"admiration, neutral",2
+besonnener,"fear, neutral",2
+spazieren,"annoyance, neutral",2
+leid,"disappointment, love, neutral, realization, sadness",5
+teppich,"admiration, neutral",2
+vogels,"admiration, neutral",2
+verspätet,"neutral, realization",2
+hierhergekommen,"neutral, sadness",2
+quivit,"amusement, curiosity, gratitude, neutral",4
+langweilige,"annoyance, neutral",2
+samtpelze,"neutral, realization",2
+fehlen,"curiosity, neutral",2
+aussteuer,"curiosity, neutral",2
+ungern,"annoyance, neutral",2
+weintrauben,"approval, neutral",2
+goldkrone,"admiration, neutral",2
+irrte,"fear, neutral",2
+aufgebahrten,"disapproval, neutral",2
+wusste,"admiration, confusion, disapproval, joy, love, neutral",6
+fürchte,"fear, neutral",2
+manchmal,"approval, joy, love, neutral, realization",5
+nährte,"neutral, realization",2
+versteinerten,"desire, neutral",2
+grau,"neutral, surprise",2
+heiratete,"admiration, love, neutral",3
+begleiter,"caring, fear, neutral",3
+erwartung,"amusement, neutral",2
+schnaubte,"love, neutral",2
+stritten,"admiration, amusement, neutral",3
+windstoß,"admiration, neutral",2
+stolz,"admiration, annoyance, embarrassment, joy, neutral, pride",6
+hässliches,"annoyance, neutral",2
+russischen,"admiration, neutral",2
+schwefelholz,"neutral, realization",2
+hölzer,"fear, neutral",2
+wirkte,"disappointment, neutral",2
+dünnes,"neutral, sadness",2
+schachtel,"neutral, optimism, realization",3
+eilten,"curiosity, neutral",2
+flamme,"admiration, curiosity, disgust, neutral, realization",5
+blühen,"joy, neutral",2
+winziges,"admiration, joy, neutral",3
+liebes,"disappointment, love, neutral",3
+blattes,"neutral, sadness",2
+freiheit,"approval, neutral",2
+entdeckte,"neutral, realization",2
+menschenkind,"admiration, neutral",2
+erzählst,"admiration, neutral",2
+ordnung,"neutral, realization",2
+ding,"neutral, realization",2
+felder,"neutral, sadness",2
+schimpfte,"love, neutral",2
+zuneigung,"approval, neutral",2
+unerreichbar,"admiration, neutral",2
+verliebte,"love, neutral",2
+liebte,"admiration, annoyance, disappointment, love, neutral, realization",6
+schmetterlinge,"admiration, neutral, surprise",3
+kronen,"admiration, neutral",2
+schmetterlingen,"admiration, neutral",2
+kümmerte,"annoyance, neutral, sadness",3
+wahr,"approval, curiosity, neutral",3
+umarmten,"love, neutral",2
+diente,"gratitude, neutral",2
+echte,"admiration, desire, joy, neutral",4
+geblendet,"admiration, neutral",2
+neid,"neutral, realization",2
+stattdessen,"admiration, neutral",2
+nachtlager,"nervousness, neutral",2
+stopfte,"admiration, neutral",2
+ertränken,"anger, neutral",2
+bewachte,"neutral, realization",2
+verschwenderisch,"annoyance, neutral",2
+benutzte,"admiration, neutral",2
+staunen,"admiration, neutral",2
+halt,"anger, neutral",2
+verdient,"fear, joy, neutral",3
+gärten,"neutral, sadness",2
+singende,"admiration, neutral",2
+willigte,"anger, neutral",2
+wahre,"admiration, desire, disappointment, neutral, realization",5
+waldgeister,"desire, neutral",2
+entstelltes,"disgust, neutral",2
+versteckte,"neutral, surprise",2
+beantwortete,"annoyance, neutral",2
+liebten,"love, neutral",2
+schwenkte,"caring, neutral",2
+gefeiert,"joy, neutral",2
+zauberte,"amusement, joy, neutral",3
+glasschale,"admiration, neutral",2
+sieger,"excitement, neutral",2
+erklären,"admiration, neutral",2
+entkam,"disappointment, neutral",2
+sicherheit,"love, neutral",2
+herzform,"desire, neutral",2
+windhauch,"neutral, realization",2
+versuchte,"disappointment, neutral, sadness, surprise",4
+schützte,"fear, neutral",2
+gepäck,"neutral, optimism",2
+morgentau,"neutral, realization",2
+baute,"admiration, neutral",2
+neugier,"annoyance, curiosity, neutral, surprise",4
+scham,"embarrassment, neutral",2
+geriet,"fear, joy, neutral, surprise",4
+wischte,"admiration, neutral",2
+gestand,"disappointment, neutral, sadness",3
+lernte,"amusement, neutral",2
+geheimnisvoll,"joy, neutral",2
+vernunft,"neutral, realization",2
+küsste,"love, neutral",2
+zersprang,"fear, neutral",2
+schätzen,"caring, joy, neutral",3
+victorias,"love, neutral",2
+gehörte,"neutral, realization",2
+gemächer,"approval, neutral",2
+meeresvolk,"disappointment, neutral",2
+beobachtete,"admiration, caring, neutral",3
+scuttle,"neutral, realization",2
+eriks,"neutral, realization",2
+vertrag,"grief, neutral",2
+herzens,"admiration, love, neutral",3
+bursche,"neutral, sadness",2
+verdienen,"caring, neutral",2
+rufen,"amusement, neutral",2
+falle,"amusement, neutral",2
+fegte,"admiration, neutral",2
+dank,"approval, gratitude, neutral",3
+skeptisch,"admiration, neutral",2
+beschloss,"admiration, neutral",2
+gelangten,"joy, neutral",2
+hoher,"disappointment, neutral",2
+mitwirkenden,"annoyance, neutral",2
+bühnenbild,"annoyance, neutral",2
+scheiterte,"disappointment, neutral",2
+menschenreich,"love, neutral",2
+lina,"admiration, neutral, realization, sadness",4
+flattern,"curiosity, neutral",2
+rannte,"admiration, neutral",2
+froschsohn,"admiration, neutral",2
+öffneten,"joy, neutral",2
+halfen,"desire, neutral",2
+liebevolle,"love, neutral",2
+zerschlug,"caring, confusion, neutral",3
+behandelte,"love, neutral",2
+sklavin,"admiration, neutral",2
+grauen,"fear, neutral, sadness",3
+pustete,"joy, neutral",2
+fanden,"admiration, disappointment, neutral, remorse",4
+warteten,"disgust, neutral",2
+torwächter,"joy, neutral",2
+lippen,"admiration, neutral, sadness",3
+murmelte,"desire, neutral, sadness",3
+immerfroh,"admiration, love, neutral",3
+auszusetzen,"love, neutral",2
+eisig,"admiration, neutral",2
+krächzte,"joy, neutral",2
+duell,"disappointment, neutral",2
+eissplittern,"neutral, optimism",2
+wärmer,"joy, neutral, realization",3
+neu,"love, neutral",2
+verändern,"approval, joy, neutral",3
+wich,"admiration, fear, neutral",3
+besiegte,"admiration, neutral",2
+monster,"annoyance, neutral",2
+zitternd,"neutral, sadness",2
+regnen,"admiration, neutral",2
+herbeizaubern,"excitement, neutral",2
+zuhause,"disappointment, joy, neutral, realization",4
+befahl,"excitement, neutral",2
+verbeugte,"admiration, neutral",2
+irgendwo,"neutral, optimism",2
+gesichter,"disgust, neutral",2
+verschaffte,"neutral, realization",2
+taten,"admiration, approval, neutral",3
+gezeigt,"neutral, realization",2
+freizulassen,"neutral, realization",2
+flatterten,"disappointment, fear, neutral",3
+stolperte,"curiosity, neutral",2
+sees,"neutral, sadness",2
+nickten,"admiration, approval, joy, neutral",4
+riss,"anger, neutral",2
+ärmel,"neutral, realization",2
+morgenlicht,"admiration, neutral",2
+bewunderte,"admiration, neutral",2
+begeistert,"excitement, neutral",2
+ritter,"love, neutral, realization",3
+jacke,"neutral, realization",2
+arbeite,"anger, neutral",2
+größter,"fear, neutral",2
+lüge,"disappointment, neutral",2
+verbrachte,"fear, love, neutral",3
+bewunderer,"admiration, neutral",2
+lächelten,"joy, neutral",2
+hinweg,"admiration, neutral",2
+auto,"disappointment, neutral",2
+schwächer,"admiration, neutral",2
+grafen,"disappointment, neutral",2
+verwundet,"disappointment, neutral",2
+lyria,"caring, fear, love, neutral",4
+dunkelhaarigen,"love, neutral",2
+blutenden,"caring, neutral",2
+netze,"admiration, neutral",2
+blühte,"admiration, neutral",2
+hallte,"neutral, sadness",2
+unendlich,"admiration, neutral",2
+wunderhölzern,"desire, neutral",2
+getrennt,"neutral, sadness",2
+sammelten,"approval, neutral",2
+ruhigen,"admiration, neutral",2
+stiller,"disappointment, neutral",2
+leiser,"neutral, realization",2
+morgengrauen,"disappointment, neutral",2
+sun‑jae,"neutral, optimism, realization",3
+tae‑soo,"neutral, sadness",2
+gier,"admiration, neutral, realization",3
+verletzt,"disappointment, neutral",2
+drohte,"fear, neutral",2
+versenkten,"anger, neutral",2
+neckte,"caring, neutral",2
+lasse,"annoyance, neutral",2
+französisch,"annoyance, neutral",2
+gassen,"neutral, sadness",2
+hungriger,"neutral, sadness",2
+seitdem,"nervousness, neutral",2
+machtlos,"neutral, realization",2
+verlorener,"admiration, neutral",2
+milder,"love, neutral",2
+gestillt,"neutral, relief",2
+verstorbene,"neutral, realization",2
+überglücklich,"admiration, joy, love",3
+gestehen,"admiration, love",2
+schlicht,"admiration, approval, curiosity",3
+besonderes,"admiration, desire, excitement",3
+magisches,"admiration, gratitude",2
+freut,"admiration, excitement",2
+tauglich,"admiration, approval, realization",3
+befehle,"admiration, love",2
+reinlichkeit,"admiration, realization",2
+krähensprache,"admiration, approval",2
+zahmen,"admiration, love",2
+geliebten,"admiration, love",2
+abgemalt,"admiration, realization",2
+drucken,"admiration, fear",2
+seh,"admiration, disappointment",2
+wiedergeben,"admiration, desire",2
+hauptrolle,"admiration, disappointment",2
+schätze,"admiration, anger",2
+mittel,"admiration, love",2
+hurrah,"admiration, amusement, joy",3
+geträumt,"admiration, annoyance, confusion, excitement, love, surprise",6
+glückte,"admiration, disappointment",2
+fräulein,"admiration, love",2
+dankte,"admiration, gratitude",2
+süß,"admiration, sadness",2
+roch,"admiration, joy",2
+liebevoll,"admiration, love",2
+prächtiges,"admiration, approval, realization",3
+lappen,"admiration, disappointment",2
+außerordentlich,"admiration, anger",2
+adel,"admiration, approval",2
+verdiente,"admiration, fear",2
+wundersam,"admiration, sadness, surprise",3
+tänze,"admiration, amusement",2
+offenbarte,"admiration, realization",2
+gleichst,"admiration, love",2
+rosenhecken,"admiration, gratitude",2
+niedliches,"admiration, gratitude",2
+zitronen,"admiration, approval",2
+marmorschloß,"admiration, approval",2
+häßlicher,"admiration, annoyance",2
+dose,"admiration, surprise",2
+wiesenblumen,"admiration, disappointment",2
+tapfer,"admiration, disappointment",2
+scherzte,"admiration, joy",2
+süßer,"admiration, love",2
+neugierig,"admiration, curiosity",2
+unruhig,"admiration, fear",2
+summten,"admiration, anger",2
+jubel,"admiration, desire",2
+klangen,"admiration, disappointment",2
+gefrorener,"admiration, joy",2
+wirklichkeit,"approval, fear, surprise",3
+weiten,"amusement, gratitude, surprise",3
+furcht,"annoyance, fear, realization, surprise",4
+schöneres,"disappointment, surprise",2
+heimkehrte,"optimism, surprise",2
+erstaunlichste,"desire, surprise",2
+mussten,"annoyance, surprise",2
+einöde,"curiosity, realization",2
+weinst,"annoyance, curiosity",2
+wißt,"curiosity, gratitude",2
+schläfst,"approval, curiosity",2
+denkst,"curiosity, love",2
+verkehrt,"amusement, curiosity",2
+fühle,"curiosity, disappointment, realization, relief",4
+instrument,"annoyance, curiosity, desire",3
+wünsche,"annoyance, caring, curiosity, desire",4
+veränderte,"curiosity, realization",2
+hüh,"anger, pride",2
+vorwürfe,"amusement, anger, sadness",3
+lachend,"amusement, anger, approval",3
+verdammt,"anger, sadness",2
+erbarmer,"anger, caring, sadness",3
+dummes,"anger, realization",2
+mücken,"anger, disgust",2
+ziel,"desire, joy, love",3
+schweinhirtin,"desire, love",2
+sonnenseite,"desire, joy",2
+offizier,"desire, sadness",2
+wiederzusehen,"desire, fear",2
+erfüllten,"desire, disappointment",2
+ungerechtigkeit,"desire, disapproval",2
+unglücklich,"caring, disappointment, realization, sadness",4
+vision,"love, realization",2
+jemandem,"caring, fear, realization",3
+nachgejagt,"disappointment, realization",2
+bezug,"joy, realization",2
+schreckliches,"fear, realization",2
+kobold,"caring, realization",2
+tracht,"annoyance, fear, realization",3
+besinnung,"realization, sadness",2
+vorgegangen,"joy, realization",2
+gefühl,"annoyance, realization",2
+besondere,"approval, optimism, realization",3
+begierig,"embarrassment, realization",2
+gewirkt,"fear, realization",2
+erscheinung,"embarrassment, realization",2
+verzweiflung,"disappointment, realization",2
+rauschendes,"approval, joy",2
+opfern,"approval, love",2
+natürlicher,"approval, optimism",2
+wahrer,"approval, caring",2
+schöpfer,"annoyance, gratitude",2
+glückliche,"caring, fear, joy",3
+lustige,"amusement, joy",2
+jubelten,"joy, sadness",2
+weinend,"joy, sadness",2
+heilte,"fear, joy",2
+verschandeln,"annoyance, disgust",2
+knarrten,"annoyance, fear",2
+entsetzlich,"annoyance, disgust, fear",3
+komisch,"annoyance, disgust",2
+beziehung,"love, sadness",2
+einfaches,"love, sadness",2
+pflegen,"caring, love",2
+pirat,"disappointment, love",2
+unzufrieden,"disappointment, sadness",2
+wund,"embarrassment, sadness",2
+beißen,"caring, disgust",2
+schreckliche,"disappointment, fear",2
+rachen,"disgust, fear",2
+seltsamsten,"disgust, fear",2
+scheußlich,"amusement, disapproval",2
+entenhofe,"disapproval, disgust",2
+schlimmer,"disappointment, disgust",2
+geduldet,"disappointment, optimism",2
