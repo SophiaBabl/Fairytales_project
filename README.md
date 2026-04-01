@@ -27,17 +27,17 @@ fairytale-corpus/
 │   ├── fairytale_corpus_andersen.csv       # Full Andersen corpus (Original, Wikipedia, Copilot)
 │   └── fairytale_corpus_grimm.csv          # Full Grimm corpus (Original, Wikipedia, Copilot)
 │
-├── results/
-│   ├── Sentiment Analysis and Emotion Detection
-│   ├── Topic Modeling
-│   ├── Word2Vec
-│
 ├── notebooks/
 │   ├── Corpus_EDA.ipynb                            # Exploratory data analysis & descriptive statistics
 │   ├── Grimm_Fairytales_Sentiment_Emotion.ipynb    # Sentiment & emotion analysis - Grimm
 │   ├── Andersen_Fairytales_Sentiment_Emotion.ipynb # Sentiment & emotion analysis - Andersen
 │   ├── Topic Modeling
 │   └── Word2Vec
+│
+├── results/
+│   ├── Sentiment Analysis and Emotion Detection  # csvs and figures
+│   ├── Topic Modeling
+│   ├── Word2Vec
 │
 └── README.md
 ```
