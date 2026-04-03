@@ -10,7 +10,7 @@ This project was developed as part of a seminar at the University of Regensburg 
 
 - **Sentiment & Emotion Detection**: affective shifts across text types and author traditions
 - **Topic Modelling**: thematic changes from original to adaptation
-- **Word2Vec**: semantic shifts in vocabulary and meaning
+- **Distributional Semantic Analysis**: semantic shifts in vocabulary and meaning
 
 The corpus draws on two canonical fairy tale traditions: the **Brothers Grimm** (folktale tradition) and **Hans Christian Andersen** (literary fairy tale tradition).
 
@@ -32,12 +32,13 @@ fairytale-corpus/
 │   ├── Grimm_Fairytales_Sentiment_Emotion.ipynb    # Sentiment & emotion analysis - Grimm
 │   ├── Andersen_Fairytales_Sentiment_Emotion.ipynb # Sentiment & emotion analysis - Andersen
 │   ├── Topic Modeling
-│   └── Word2Vec
+│   └── distributional_semantic_analysis_andersen.ipynb
+│   └── distributional_semantic_analysis_grimm.ipynb
 │
 ├── results/
 │   ├── Sentiment Analysis and Emotion Detection  # csvs and figures
 │   ├── Topic Modeling
-│   ├── Word2Vec
+│   ├── Distributional Semantic Analysis
 │
 └── README.md
 ```
@@ -77,7 +78,7 @@ Notebooks were developed in **Google Colab**. To run locally, adjust file paths 
 
 - **Sophia Babl**: Sentiment Analysis & Emotion Detection
 - **Emily Heinz**: Topic Modelling
-- **Oscar Aquite-Pena**: Word2Vec
+- **Oscar Aquite-Pena**: Distributional Semantic Analysis
 
 University of Regensburg, Faculty of Language, Literature and Cultural Studies, 2026
 
