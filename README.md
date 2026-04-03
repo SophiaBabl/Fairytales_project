@@ -28,17 +28,17 @@ fairytale-corpus/
 │   └── fairytale_corpus_grimm.csv          # Full Grimm corpus (Original, Wikipedia, Copilot)
 │
 ├── notebooks/
-│   ├── Corpus_EDA.ipynb                            # Exploratory data analysis & descriptive statistics
-│   ├── Grimm_Fairytales_Sentiment_Emotion.ipynb    # Sentiment & emotion analysis - Grimm
-│   ├── Andersen_Fairytales_Sentiment_Emotion.ipynb # Sentiment & emotion analysis - Andersen
-│   ├── KI_Märchen_topic_modeling_+_word_clouds.ipynb # Topic Modelling - Andersen + Grimm
+│   ├── Fairytale_corpus_EDA.ipynb                      # Exploratory data analysis & descriptive statistics
+│   ├── Grimm_Fairytales_Sentiment_Emotion.ipynb        # Sentiment & emotion analysis - Grimm
+│   ├── Andersen_Fairytales_Sentiment_Emotion.ipynb     # Sentiment & emotion analysis - Andersen
+│   ├── KI_Märchen_topic_modeling_+_word_clouds.ipynb   # Topic Modelling - Andersen + Grimm
 │   └── distributional_semantic_analysis_andersen.ipynb # distributional semantic analysis - Andersen
-│   └── distributional_semantic_analysis_grimm.ipynb  # distributional semantic analysis - Grimm
+│   └── distributional_semantic_analysis_grimm.ipynb    # distributional semantic analysis - Grimm
 │
 ├── results/
-│   ├── Sentiment Analysis and Emotion Detection  # csvs and figures
-│   ├── Topic Modeling # figures
-│   ├── Distributional Semantic Analysis # csvs and figures
+│   ├── Sentiment Analysis and Emotion Detection   # csvs and figures
+│   ├── Topic Modeling                             # figures
+│   ├── Distributional Semantic Analysis           # csvs and figures
 │
 └── README.md
 ```
