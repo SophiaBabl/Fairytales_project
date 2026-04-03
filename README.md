@@ -37,7 +37,7 @@ fairytale-corpus/
 │
 ├── results/
 │   ├── Sentiment Analysis and Emotion Detection  # csvs and figures
-│   ├── Topic Modeling
+│   ├── Topic Modeling # figures
 │   ├── Distributional Semantic Analysis # csvs and figures
 │
 └── README.md
