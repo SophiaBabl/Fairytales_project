@@ -1,0 +1,215 @@
+﻿document,true_corpus,cluster_k3,silhouette_k3
+orig_1857_Grimm_Original_Grimm_Der_arme_Müllerbursch_und_das_Kätzchen.txt,Originals,2,0.0352
+orig_1812_Grimm_Original_Grimm_Der_gestiefelte_Kater.txt,Originals,2,0.0403
+orig_1857_Grimm_Original_Grimm_Jorinde_und_Joringel.txt,Originals,2,0.0076
+orig_1857_Grimm_Original_Grimm_Die_sechs_Schwaene.txt,Originals,2,0.0231
+orig_1857_Grimm_Original_Grimm_Die_Krystallkugel.txt,Originals,2,0.0245
+orig_1857_Grimm_Original_Grimm_Der_Wolf_und_die_sieben_jungen_Geißlein.txt,Originals,2,0.0466
+orig_1857_Grimm_Original_Grimm_Das_blaue_Licht.txt,Originals,2,0.0307
+orig_1857_Grimm_Original_Grimm_Die_Goldkinder.txt,Originals,2,0.04
+orig_1857_Grimm_Original_Grimm_Der_Geist_im_Glas.txt,Originals,2,0.0373
+orig_1857_Grimm_Original_Grimm_Rothkäppchen.txt,Originals,2,0.0537
+orig_1857_Grimm_Original_Grimm_Sneewittchen.txt,Originals,2,0.0246
+orig_1857_Grimm_Original_Grimm_Das_singende_springende_Löweneckerchen.txt,Originals,2,0.034
+orig_1857_Grimm_Original_Grimm_Die_Bremer_Stadtmusikanten.txt,Originals,2,0.0445
+orig_1857_Grimm_Original_Grimm_Rapunzel.txt,Originals,2,0.0366
+orig_1812_Grimm_Original_Grimm_Die_zertanzten_Schuhe.txt,Originals,2,0.0318
+orig_1857_Grimm_Original_Grimm_Aschenputtel.txt,Originals,2,0.0342
+orig_1857_Grimm_Original_Grimm_Das_Wasser_des_Lebens.txt,Originals,2,0.0428
+orig_1857_Grimm_Original_Grimm_Frau_Holle.txt,Originals,2,0.0551
+orig_1857_Grimm_Original_Grimm_Die_Gänsemagd.txt,Originals,2,0.0294
+orig_1857_Grimm_Original_Grimm_Der_Gevatter_Tod.txt,Originals,2,0.0254
+orig_1857_Grimm_Original_Grimm_Die_goldene_Gans.txt,Originals,2,0.0461
+orig_1857_Grimm_Original_Grimm_Allerleirauh.txt,Originals,2,0.0408
+orig_1812_Grimm_Original_Grimm_König_Drosselbart.txt,Originals,2,0.0467
+orig_1857_Grimm_Original_Grimm_Der_Froschkönig_oder_der_eiserne_Heinrich.txt,Originals,2,0.0339
+orig_1857_Grimm_Original_Grimm_Der_Teufel_mit_den_drei_goldenen_Haaren.txt,Originals,2,0.0423
+orig_1843_Grimm_Original_Grimm_Der_Hase_und_der_Igel.txt,Originals,2,0.0145
+orig_1857_Grimm_Original_Grimm_Rumpelstilzchen.txt,Originals,2,0.0267
+orig_1857_Grimm_Original_Grimm_Sechse_kommen_durch_die_ganze_Welt.txt,Originals,2,0.0499
+orig_1857_Grimm_Original_Grimm_Dornröschen.txt,Originals,2,0.028
+orig_1857_Grimm_Original_Grimm_Der_Bärenhäuter.txt,Originals,2,0.0321
+orig_1857_Grimm_Original_Grimm_Die_sieben_Raben.txt,Originals,2,0.022
+orig_1857_Grimm_Original_Grimm_Schneeweißchen_und_Rosenroth.txt,Originals,2,0.0311
+orig_1857_Grimm_Original_Grimm_Die_drei_Federn.txt,Originals,2,0.0477
+orig_1812_Grimm_Original_Grimm_Der_Meisterdieb.txt,Originals,2,0.0303
+orig_1857_Grimm_Original_Grimm_Der_treue_Johannes.txt,Originals,2,0.0454
+orig_1857_Grimm_Original_Grimm_Hänsel_und_Grethel.txt,Originals,2,0.0512
+orig_1857_Grimm_Original_Grimm_Die_zwei_Brüder.txt,Originals,2,0.0383
+orig_1857_Grimm_Original_Grimm_Brüderchen_und_Schwesterchen.txt,Originals,2,0.0359
+orig_1857_Grimm_Original_Grimm_Die_weiße_Schlange.txt,Originals,2,0.0243
+orig_1819_Grimm_Original_Grimm_Hans_im_Glück.txt,Originals,2,0.0373
+wiki_1986_Grimm_Wikipedia_Beck_Der_Bärenhäuter.txt,Wikipedia,1,0.0945
+wiki_1962_Grimm_Wikipedia_Rodenberg_Rotkäppchen.txt,Wikipedia,1,0.0796
+wiki_1988_Grimm_Wikipedia_Steigerwald_Das_Wasser_des_Lebens.txt,Wikipedia,1,0.0655
+wiki_1978_Grimm_Wikipedia_Hübner_Der_Meisterdieb.txt,Wikipedia,1,0.0712
+wiki_1964_Grimm_Wikipedia_Kaltofen_Die_goldene_Gans.txt,Wikipedia,1,0.1075
+wiki_2011_Grimm_Wikipedia_Kreis_Die_zertanzten_Schuhe.txt,Wikipedia,1,0.089
+wiki_2011_Grimm_Wikipedia_Johnson_Red_Riding_Hood.txt,Wikipedia,1,0.0794
+wiki_1983_Grimm_Wikipedia_Petrik_Vom_tapferen_Schmied.txt,Wikipedia,1,0.0538
+wiki_2015_Grimm_Wikipedia_Nellis_Die_sieben_Raben.txt,Wikipedia,1,0.067
+wiki_1997_Grimm_Wikipedia_Freedman_Cinderella.txt,Wikipedia,1,0.0816
+wiki_1962_Grimm_Wikipedia_Stobrawa_König_Drosselbart.txt,Wikipedia,1,0.0765
+wiki_1957_Grimm_Wikipedia_Podehl_Der_Wolf_und_die_sieben_Geißlein.txt,Wikipedia,1,0.0794
+wiki_1986_Grimm_Wikipedia_Küchenmeister_Jorinde_und_Joringel.txt,Wikipedia,1,0.0669
+wiki_2025_Grimm_Wikipedia_Blichfeldt_The_Ugly_Stepsister.txt,Wikipedia,1,0.046
+wiki_1999_Grimm_Wikipedia_Genschow_Hans_im_Glück.txt,Wikipedia,1,0.0878
+wiki_2009_Grimm_Wikipedia_Ungureit_Die_Bremer_Stadtmusikanten.txt,Wikipedia,1,0.0669
+wiki_1954_Grimm_Wikipedia_Surmann_Der Froschkönig.txt,Wikipedia,1,0.0976
+wiki_1981_Grimm_Wikipedia_Glocko_Die_drei_goldenen_Haare_des_Sonnenkönigs.txt,Wikipedia,1,0.0754
+wiki_2015_Grimm_Wikipedia_Prendes_Hänsel_Vs_Gretel.txt,Wikipedia,1,0.09
+wiki_1937_Grimm_Wikipedia_Sears_Schneewittchen_und_die_sieben_Zwerge.txt,Wikipedia,1,0.0818
+wiki_2014_Grimm_Wikipedia_Ungereit_Sechse_kommen_durch_die_ganze_Welt.txt,Wikipedia,1,0.0782
+wiki_2014_Grimm_Wikipedia_Turhan_Die_drei_Federn.txt,Wikipedia,1,0.0697
+wiki_2012_Grimm_Wikipedia_Giordano_Schneeweißchen_und_Rosenrot.txt,Wikipedia,1,0.0797
+wiki_2015_Grimm_Wikipedia_Honert_Die_weiße_Schlange.txt,Wikipedia,1,0.0815
+wiki_2011_Grimm_Wikipedia_Wheeler_Der_gestiefelte_Kater.txt,Wikipedia,1,0.0747
+wiki_1954_Grimm_Wikipedia_Lustig_Rotkäppchen.txt,Wikipedia,1,0.0662
+wiki_1953_Grimm_Wikipedia_Fitz_Brüderchen_und_Schwesterchen.txt,Wikipedia,1,0.0868
+wiki_1988_Grimm_Wikipedia_Beck_Froschkönig.txt,Wikipedia,1,0.0865
+wiki_2009_Grimm_Wikipedia_Janis_Der_Teufel_mit_den_drei_goldenen_Haaren.txt,Wikipedia,1,0.0804
+wiki_1982_Grimm_Wikipedia_Beck_Der_Prinz_hinter_den_sieben_Meeren.txt,Wikipedia,1,0.0592
+wiki_2010_Grimm_Wikipedia_Fogelman_Rapunzel_neu_verföhnt.txt,Wikipedia,1,0.0774
+wiki_1987_Grimm_Wikipedia_Weigl_Die_Pfauenfeder.txt,Wikipedia,1,0.0565
+wiki_1980_Grimm_Wikipedia_Hübner_Gevatter_Tod.txt,Wikipedia,1,0.0925
+wiki_2015_Grimm_Wikipedia_Bongartz_Hans_im_Glück.txt,Wikipedia,1,0.0871
+wiki_1965_Grimm_Wikipedia_Kaltofen_König_Drosselbart.txt,Wikipedia,1,0.1081
+wiki_2009_Grimm_Wikipedia_Clements_Küss_den_Frosch.txt,Wikipedia,1,0.0644
+wiki_1984_Grimm_Wikipedia_Genschow_Schneeweißchen_und_Rosenrot.txt,Wikipedia,1,0.0846
+wiki_1977_Grimm_Wikipedia_Bothe-Pelzer_Allerleirauh.txt,Wikipedia,1,0.0662
+wiki_1976_Grimm_Wikipedia_Gusner_Das_blaue_Licht.txt,Wikipedia,1,0.0873
+wiki_2009_Grimm_Wikipedia_Kömmerling_Die_Gänsemagd.txt,Wikipedia,1,0.0645
+wiki_1953_Grimm_Wikipedia_Luhmann_Die_goldene_Gans.txt,Wikipedia,1,0.0798
+wiki_2021_Grimm_Wikipedia_Cannon_Cinderella.txt,Wikipedia,1,0.0796
+wiki_2012_Grimm_Wikipedia_Bongartz_Allerleirauh.txt,Wikipedia,1,0.0741
+wiki_1982_Grimm_Wikipedia_Ensikat_Der_Hase_und_der_Igel.txt,Wikipedia,1,0.0941
+wiki_2013_Grimm_Wikipedia_Hahn_Der_Teufel_mit_den_drei_goldenen_Haaren.txt,Wikipedia,1,0.0574
+wiki_2021_Grimm_Wikipedia_Schönberger_Der_Geist_im_Glas.txt,Wikipedia,1,0.0664
+wiki_2013_Grimm_Wikipedia_Kömmerling_Die_goldene_Gans.txt,Wikipedia,1,0.0778
+wiki_2019_Grimm_Wikipedia_Woolverton_Maleficient2.txt,Wikipedia,1,0.0533
+wiki_1976_Grimm_Wikipedia_Bothe-Pelzer_König_Drosselbart.txt,Wikipedia,1,0.0875
+wiki_1984_Grimm_Wikipedia_Luther_König_Drosselbart.txt,Wikipedia,1,0.0695
+wiki_1979_Grimm_Wikipedia_Hartmann_Schneeweißchen_und_Rosenrot.txt,Wikipedia,1,0.0913
+wiki_2025_Grimm_Wikipedia_Wilson_Schneewittchen.txt,Wikipedia,1,0.0858
+wiki_2014_Grimm_Wikipedia_Woolverton_Maleficent.txt,Wikipedia,1,0.0636
+wiki_1955_Grimm_Wikipedia_Lustig_Schneeweißchen_und_Rosenrot.txt,Wikipedia,1,0.0907
+wiki_1940_Grimm_Wikipedia_Schonger_Hänsel_und_Gretel.txt,Wikipedia,1,0.068
+wiki_1971_Grimm_Wikipedia_Bothe-Pelzer_Schneewittchen.txt,Wikipedia,1,0.0866
+wiki_1977_Grimm_Wikipedia_Schmenger_Die_zertanzten_Schuhe.txt,Wikipedia,1,0.0387
+wiki_2010_Grimm_Wikipedia_Janis_Aschenputtel.txt,Wikipedia,1,0.0963
+wiki_2015_Grimm_Wikipedia_Ungureit_Der_Prinz_im_Bärenfell.txt,Wikipedia,1,0.0574
+wiki_1987_Grimm_Wikipedia_Weems_Hänsel_und_Gretel.txt,Wikipedia,1,0.0879
+wiki_1991_Grimm_Wikipedia_Fiedler_Froschkönig.txt,Wikipedia,1,0.0778
+wiki_1972_Grimm_Wikipedia_Simon_Sechse_kommen_durch_die_Welt.txt,Wikipedia,1,0.0898
+wiki_1949_Grimm_Wikipedia_Hamel_Hans_im_Glück.txt,Wikipedia,1,0.076
+wiki_2012_Grimm_Wikipedia_Klein_Spieglein_Spieglein.txt,Wikipedia,1,0.0697
+wiki_2008_Grimm_Wikipedia_Ewald_Frau_Holle.txt,Wikipedia,1,0.0778
+wiki_2010_Grimm_Wikipedia_Bongartz_Der_Meisterdieb.txt,Wikipedia,1,0.0839
+wiki_2018_Grimm_Wikipedia_Esser_Schneeweißchen_und_Rosenrot.txt,Wikipedia,1,0.0917
+wiki_1971_Grimm_Wikipedia_Barke_Der_arme_Müllerbursch_und_das_Kätzchen.txt,Wikipedia,1,0.0706
+wiki_1993_Grimm_Wikipedia_Aujezdsky_Die_sieben_Raben.txt,Wikipedia,1,0.061
+wiki_1982_Grimm_Wikipedia_Hofman_Der_dritte_Prinz.txt,Wikipedia,1,0.0811
+wiki_1950_Grimm_Wikipedia_Anderson_Cinderella.txt,Wikipedia,1,0.0541
+wiki_2011_Grimm_Wikipedia_Winkler_Jorinde_und_Joringel.txt,Wikipedia,1,0.0659
+wiki_1959_Grimm_Wikipedia_Rinaldi_Dornröschen.txt,Wikipedia,1,0.0558
+wiki_1971_Grimm_Wikipedia_Kachlik_Prinz_Bajaja.txt,Wikipedia,1,0.077
+wiki_2010_Grimm_Wikipedia_Kömmerling_Das_blaue_Licht.txt,Wikipedia,1,0.0823
+wiki_1977_Grimm_Wikipedia_Schlegel_Wer_reißt_denn_gleich_vorm_Teufel_aus.txt,Wikipedia,1,0.0763
+wiki_2012_Grimm_Wikipedia_Kömmerling_Rotkäppchen.txt,Wikipedia,1,0.082
+wiki_2012_Grimm_Wikipedia_Keerl_Die_sechs_Schwäne.txt,Wikipedia,1,0.0839
+wiki_1987_Grimm_Wikipedia_Luther_Der_treue_Johannes.txt,Wikipedia,1,0.0605
+wiki_1960_Grimm_Wikipedia_Carballido_Macario.txt,Wikipedia,1,0.0895
+wiki_2013_Grimm_Wikipedia_Wirkola_Hänsel_und_Gretel_Hexenjäger.txt,Wikipedia,1,0.0693
+wiki_2008_Grimm_Wikipedia_Kömmerling_König_Drosselbart.txt,Wikipedia,1,0.0941
+wiki_1960_Grimm_Wikipedia_Beichler_Das Zaubermännchen.txt,Wikipedia,1,0.0691
+wiki_2008_Grimm_Wikipedia_Kreis_Brüderchen_und_Schwesterchen.txt,Wikipedia,1,0.0696
+wiki_1995_Grimm_Wikipedia_Bloom_Rotkäppchen.txt,Wikipedia,1,0.087
+wiki_1997_Grimm_Wikipedia_Serra_Schneewittchen.txt,Wikipedia,1,0.0649
+wiki_2017_Grimm_Wikipedia_Ungureit_Das_Wasser_des_Lebens.txt,Wikipedia,1,0.0716
+ia_1982_Grimm_Copilot_Beck_Der_Prinz_hinter_den_sieben_Meeren.txt,AI (Copilot),0,0.0931
+ia_1987_Grimm_Copilot_Weigl_Die_Pfauenfeder.txt,AI (Copilot),0,0.0628
+ia_1997_Grimm_Copilot_Freedman_Cinderella.txt,AI (Copilot),0,0.0548
+ia_2015_Grimm_Copilot_Nellis_Die_sieben_Raben.txt,AI (Copilot),0,0.0517
+ia_1964_Grimm_Copilot_Kaltofen_Die_goldene_Gans.txt,AI (Copilot),0,0.0622
+ia_1986_Grimm_Copilot_Küchenmeister_Jorinde_und_Joringel.txt,AI (Copilot),0,0.0733
+ia_1972_Grimm_Copilot_Simon_Sechse_kommen_durch_die_Welt.txt,AI (Copilot),0,0.0448
+ia_1986_Grimm_Copilot_Beck_Der_Bärenhäuter.txt,AI (Copilot),0,0.0713
+ia_2009_Grimm_Copilot_Janis_Der_Teufel_mit_den_drei_goldenen_Haaren.txt,AI (Copilot),0,0.0443
+ia_2011_Grimm_Copilot_Johnson_Red_Riding_Hood.txt,AI (Copilot),0,0.0465
+ia_2014_Grimm_Copilot_Turhan_Die_drei_Federn.txt,AI (Copilot),0,0.0564
+ia_1949_Grimm_Copilot_Hamel_Hans_im_Glück.txt,AI (Copilot),0,0.0429
+ia_1957_Grimm_Copilot_Podehl_Der_Wolf_und_die_sieben_Geißlein.txt,AI (Copilot),0,0.0436
+ia_2015_Grimm_Copilot_Ungureit_Der_Prinz_im_Bärenfell.txt,AI (Copilot),0,0.0845
+ia_2010_Grimm_Copilot_Bongratz_Der_Meisterdieb.txt,AI (Copilot),0,0.0337
+ia_2008_Grimm_Copilot_Ewald_Frau_Holle.txt,AI (Copilot),0,0.0499
+ia_1978_Grimm_Copilot_Hübner_Der_Meisterdieb.txt,AI (Copilot),0,0.0303
+ia_1959_Grimm_Copilot_Rinaldi_Dornröschen.txt,AI (Copilot),0,0.0745
+ia_1991_Grimm_Copilot_Fiedler_Froschkönig.txt,AI (Copilot),0,0.0655
+ia_1971_Grimm_Copilot_Barke_Der_arme_Müllerbursch_und_das_Kätzchen.txt,AI (Copilot),0,0.0389
+ia_2021_Grimm_Copilot_Schönberger_Der_Geist_im_Glas.txt,AI (Copilot),0,0.0475
+ia_1999_Grimm_Copilot_Genschow_Hans_im_Glück.txt,AI (Copilot),0,0.0514
+ia_1980_Grimm_Copilot_Hübner_Gevatter_Tod.txt,AI (Copilot),0,0.0266
+ia_2019_Grimm_Copilot_Woolverton_Maleficient2.txt,AI (Copilot),0,0.0707
+ia_2009_Grimm_Copilot_Clements_Küss_den_Frosch.txt,AI (Copilot),0,0.0476
+ia_2015_Grimm_Copilot_Honert_Die_weiße_Schlange.txt,AI (Copilot),0,0.0578
+ia_2010_Grimm_Copilot_Kömmerling_Das_blaue_Licht.txt,AI (Copilot),0,0.0485
+ia_1965_Grimm_Copilot_Kaltofen_König_Drosselbart.txt,AI (Copilot),0,0.0649
+ia_2013_Grimm_Copilot_Kömmerling_Die_goldene_Gans.txt,AI (Copilot),0,0.0684
+ia_1983_Grimm_Copilot_Petrik_Vom_tapferen_Schmied.txt,AI (Copilot),0,0.0494
+ia_1971_Grimm_Copilot_Kachlik_Prinz_Bajaja.txt,AI (Copilot),0,0.0367
+ia_1984_Grimm_Copilot_Luther_König_Drosselbart.txt,AI (Copilot),0,0.0584
+ia_1987_Grimm_Copilot_Luther_Der_treue_Johannes.txt,AI (Copilot),0,0.0587
+ia_2012_Grimm_Copilot_Giordano_Schneeweißchen_und_Rosenrot.txt,AI (Copilot),0,0.0291
+ia_1984_Grimm_Copilot_Genschow_Schneeweißchen_und_Rosenrot.txt,AI (Copilot),0,0.0626
+ia_2008_Grimm_Copilot_Kömmerling_König_Drosselbart.txt,AI (Copilot),0,0.0434
+ia_1982_Grimm_Copilot_Hofman_Der_dritte_Prinz.txt,AI (Copilot),0,0.0685
+ia_2014_Grimm_Copilot_Ungureit_Sechse_kommen_durch_die_ganze_Welt.txt,AI (Copilot),0,0.0516
+ia_1954_Grimm_Copilot_Surmann_Der_Froschkönig.txt,AI (Copilot),0,0.0422
+ia_1997_Grimm_Copilot_Serra_Schneewittchen.txt,AI (Copilot),0,0.0695
+ia_2015_Grimm_Copilot_Bongartz_Hans_im_Glück.txt,AI (Copilot),0,0.0531
+ia_1954_Grimm_Copilot_Lustig_Rotkäppchen.txt,AI (Copilot),0,0.0384
+ia_1960_Grimm_Copilot_Carballido_Macario.txt,AI (Copilot),0,0.0414
+ia_2025_Grimm_Copilot_Blichfeldt_The_Ugly_Stepsister.txt,AI (Copilot),0,0.038
+ia_2011_Grimm_Copilot_Kreis_Die_zertanzten_Schuhe.txt,AI (Copilot),0,0.0586
+ia_1981_Grimm_Copilot_Glocko_Die_drei_goldenen_Haare_des_Sonnenkönigs.txt,AI (Copilot),0,0.063
+ia_1971_Grimm_Copilot_Bothe-Pelzer_Schneewittchen.txt,AI (Copilot),0,0.028
+ia_2013_Grimm_Copilot_Wirkola_Hänsel_und_Gretel_Hexenjäger.txt,AI (Copilot),0,0.0476
+ia_1977_Grimm_Copilot_Schlegel_Wer_reisst_denn_gleich_vorm_Teufel_aus.txt,AI (Copilot),0,0.0745
+ia_2009_Grimm_Copilot_Ungureit_Die_Bremer_Stadtmusikanten.txt,AI (Copilot),0,0.0442
+ia_1977_Grimm_Copilot_Schmenger_Die_zertanzten_Schuhe.txt,AI (Copilot),0,0.0567
+ia_2013_Grimm_Copilot_Hahn_Der_Teufel_mit_den_drei_goldenen_Haaren.txt,AI (Copilot),0,0.0665
+ia_1979_Grimm_Copilot_Hartmann_Schneeweißchen_und_Rosenrot.txt,AI (Copilot),0,0.0451
+ia_1995_Grimm_Copilot_Bloom_Rotkäppchen.txt,AI (Copilot),0,0.0369
+ia_2018_Grimm_Copilot_Esser_Schneeweißchen_und_Rosenrot.txt,AI (Copilot),0,0.0095
+ia_2012_Grimm_Copilot_Kömmerling_Rotkäppchen.txt,AI (Copilot),0,0.05
+ia_1950_Grimm_Copilot_Anderson_Cinderella.txt,AI (Copilot),0,0.0562
+ia_1976_Grimm_Copilot_Gusner_Das_blaue_Licht.txt,AI (Copilot),0,0.0412
+ia_2025_Grimm_Copilot_Wilson_Schneewittchen.txt,AI (Copilot),0,0.0823
+ia_1976_Grimm_Copilot_Bothe-Pelzer_König_Drosselbart.txt,AI (Copilot),0,0.0582
+ia_2015_Grimm_Copilot_Prendes_Hänsel_Vs_Gretel.txt,AI (Copilot),0,0.0338
+ia_2012_Grimm_Copilot_Klein_Spieglein_Spieglein.txt,AI (Copilot),0,0.0702
+ia_1982_Grimm_Copilot_Ensikat_Der_Hase_und_der_Igel.txt,AI (Copilot),0,0.0336
+ia_1993_Grimm_Copilot_Aujezdsky_Die_sieben_Raben.txt,AI (Copilot),0,0.0758
+ia_2008_Grimm_Copilot_Kreis_Brüderchen_und_Schwesterchen.txt,AI (Copilot),0,0.0697
+ia_1962_Grimm_Copilot_Stobrawa_König_Drosselbart.txt,AI (Copilot),0,0.0705
+ia_2010_Grimm_Copilot_Fogelman_Rapunzel_neu_verföhnt.txt,AI (Copilot),0,0.0771
+ia_2012_Grimm_Copilot_Keerl_Die_sechs_Schwäne.txt,AI (Copilot),0,0.0634
+ia_2010_Grimm_Copilot_Janis_Aschenputtel.txt,AI (Copilot),0,0.0198
+ia_2012_Grimm_Copilot_Bongartz_Allerleirauh.txt,AI (Copilot),0,0.0646
+ia_2017_Grimm_Copilot_Ungureit_Das_Wasser_des_Lebens.txt,AI (Copilot),0,0.0699
+ia_1953_Grimm_Copilot_Luhmann_Die_goldene_Gans.txt,AI (Copilot),0,0.0383
+ia_1977_Grimm_Copilot_Bothe-Pelzer_Allerleirauh.txt,AI (Copilot),0,0.0675
+ia_1953_Grimm_Copilot_Fitz_Brüderchen_und_Schwesterchen.txt,AI (Copilot),0,0.0465
+ia_2011_Grimm_Copilot_Wheeler_Der_gestiefelte_Kater.txt,AI (Copilot),0,0.0411
+ia_1962_Grimm_Copilot_Rodenberg_Rotkäppchen.txt,AI (Copilot),0,0.0324
+ia_1937_Grimm_Copilot_Sears_Schneewittchen_und_die_sieben_Zwerge.txt,AI (Copilot),0,0.0594
+ia_1988_Grimm_Copilot_Steigerwald_Das_Wasser_des_Lebens.txt,AI (Copilot),0,0.0657
+ia_1940_Grimm_Copilot_Schonger_Hänsel_und_Gretel.txt,AI (Copilot),0,0.0666
+ia_2011_Grimm_Copilot_Winkler_Jorinde_und_Joringel.txt,AI (Copilot),0,0.0596
+ia_2009_Grimm_Copilot_Kömmerling_Die_Gänsemagd.txt,AI (Copilot),0,0.0405
+ia_1955_Grimm_Copilot_Lustig_Schneeweißchen_und_Rosenrot.txt,AI (Copilot),0,0.0154
+ia_2014_Grimm_Copilot_Woolverton_Maleficent.txt,AI (Copilot),0,0.0811
+ia_1987_Grimm_Copilot_Weems_Hänsel_und_Gretel.txt,AI (Copilot),0,0.0721
+ia_2021_Grimm_Copilot_Cannon_Cinderella.txt,AI (Copilot),0,0.0474
+ia_1960_Grimm_Copilot_Beichler_Das_Zaubermännchen.txt,AI (Copilot),0,0.0677
+ia_1988_Grimm_Copilot_Beck_Froschkönig.txt,AI (Copilot),0,0.0637

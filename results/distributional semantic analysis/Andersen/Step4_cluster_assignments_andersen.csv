@@ -1,0 +1,96 @@
+﻿document,true_corpus,cluster_k3,silhouette_k3
+orig_1837_Andersen_Original_Andersen_Die_Prinzessin_auf_der_Erbse.txt,Originals,0,0.0083
+orig_1844_Andersen_Original_Andersen_Die_Schneekönigin.txt,Originals,0,0.0114
+orig_1835_Andersen_Original_Andersen_Däumelinchen.txt,Originals,0,0.034
+orig_1862_Andersen_Original_Andersen_Das_kleine_Mädchen_mit_den_Schwefelhölzern.txt,Originals,0,0.022
+orig_1862_Andersen_Original_Andersen_Die_roten_Schuhe.txt,Originals,0,0.0246
+orig_1837_Andersen_Original_Andersen_Die_kleine_Seejungfer.txt,Originals,0,-0.0141
+orig_1835_Andersen_Original_Andersen_Der_kleine_Klaus_und_der_grosse_Klaus.txt,Originals,0,0.0531
+orig_1862_Andersen_Original_Andersen_Die_wilden_Schwäne.txt,Originals,0,0.028
+orig_1862_Andersen_Original_Andersen_Die_Galoschen_des_Glücks.txt,Originals,0,-0.0147
+orig_1862_Andersen_Original_Andersen_Der_Reisekamerad.txt,Originals,0,0.0361
+orig_1835_Andersen_Original_Andersen_Das_Feuerzeug.txt,Originals,0,0.0523
+orig_1855_Andersen_Original_Andersen_Der_Töpelhans.txt,Originals,0,0.0446
+orig_1862_Andersen_Original_Andersen_Das_hässliche_junge_Entlein.txt,Originals,0,0.0358
+orig_1862_Andersen_Original_Andersen_Des_Kaisers_neue_Kleider.txt,Originals,0,0.0489
+orig_1841_Andersen_Original_Andersen_Der_Schweinehirt.txt,Originals,0,0.0606
+wiki_1995_Andersen_Wikipedia_Wincelberg_Pepolino_und_der_Schwanz_der_Meerjungfrau.txt,Wikipedia,2,0.127
+wiki_1939_Andersen_Wikipedia_Disney_Das_hässliche_Entlein.txt,Wikipedia,2,0.1115
+wiki_1978_Andersen_Wikipedia_Oyabu_Däumelinchen.txt,Wikipedia,2,0.1388
+wiki_2013_Andersen_Wikipedia_Ungureit_Das_Mädchen_mit_den_Schwefelhölzern.txt,Wikipedia,2,0.0951
+wiki_2006_Andersen_Wikipedia_Allers_Das_Mädchen_mit_den_Schwefelhölzern.txt,Wikipedia,2,0.1195
+wiki_1980_Andersen_Wikipedia_Wolpin_Die_Nachtigall.txt,Wikipedia,2,0.1196
+wiki_1987_Andersen_Wikipedia_Burrell_Das_Mädchen_mit_den_Wunderhölzern.txt,Wikipedia,2,0.1008
+wiki_1967_Andersen_Wikipedia_Schwarz_Die_Schneekönigin.txt,Wikipedia,2,0.1077
+wiki_1916_Andersen_Wikipedia_Goetz_Streichhölzer_kauft_Streichhölzer.txt,Wikipedia,2,0.0766
+wiki_2014_Andersen_Wikipedia_Brinx_Die_Schneekönigin.txt,Wikipedia,2,0.1196
+wiki_1959_Andersen_Wikipedia_Hartmann_Das_Feuerzeug.txt,Wikipedia,2,0.1167
+wiki_1987_Andersen_Wikipedia_Fleischer_Der_kleine_und_der_große_Klaus.txt,Wikipedia,2,0.116
+wiki_1961_Andersen_Wikipedia_Günther_Das_Kleid.txt,Wikipedia,2,0.113
+wiki_2010_Andersen_Wikipedia_Jacob_Die_Prinzessin_auf_der_Erbse.txt,Wikipedia,2,0.1155
+wiki_1990_Andersen_Wikipedia_Raza_Der_Reisekamerad.txt,Wikipedia,2,0.1023
+wiki_1953_Andersen_Wikipedia_Trebst_Die_Prinzessin_auf_der_Erbse.txt,Wikipedia,2,0.0681
+wiki_1968_Andersen_Wikipedia_Dunski_Ein_uraltes_Märchen.txt,Wikipedia,2,0.1054
+wiki_1984_Andersen_Wikipedia_Ganz_Splash.txt,Wikipedia,2,0.1446
+wiki_1986_Andersen_Wikipedia_Hartzell_Die_Schneekönigin.txt,Wikipedia,2,0.1044
+wiki_1977_Andersen_Wikipedia_Mironer_Die_Prinzessin_auf_der_Erbse.txt,Wikipedia,2,0.1071
+wiki_1971_Andersen_Wikipedia_Küchenmeister_Der_kleine_und_der_große_Klaus.txt,Wikipedia,2,0.1138
+wiki_2008_Andersen_Wikipedia_Miyazaki_Ponyo_Das_große_Abenteuer_am_Meer.txt,Wikipedia,2,0.1175
+wiki_1937_Andersen_Wikipedia_Marcus_The_Little_Match_Girl.txt,Wikipedia,2,0.092
+wiki_2013_Andersen_Wikipedia_Lee_Frozen_Die_Eiskönigin_völlig_unverfroren.txt,Wikipedia,2,0.1232
+wiki_1953_Andersen_Wikipedia_Surmann_Die_Prinzessin_und_der_Schweinehirt.txt,Wikipedia,2,0.0977
+wiki_1987_Andersen_Wikipedia_Karis_Die_elf_Schwäne.txt,Wikipedia,2,0.1117
+wiki_2017_Andersen_Wikipedia_Brinx_Der_Schweinehirt.txt,Wikipedia,2,0.1089
+wiki_1986_Andersen_Wikipedia_Königsmark_Die_Galoschen_des_Glücks.txt,Wikipedia,2,0.1115
+wiki_1962_Andersen_Wikipedia_Ryss_Die_wilden_Schwäne.txt,Wikipedia,2,0.1046
+wiki_2018_Andersen_Wikipedia_Brinx_Die_Galoschen_des_Glücks.txt,Wikipedia,2,0.1073
+wiki_1989_Andersen_Wikipedia_Musker_Arielle.txt,Wikipedia,2,0.1035
+wiki_1989_Andersen_Wikipedia_Hürtgen_Der_Tölpelhans.txt,Wikipedia,2,0.0958
+wiki_2010_Andersen_Wikipedia_Ungureit_Des_Kaisers_neue_Kleider.txt,Wikipedia,2,0.1192
+wiki_1994_Andersen_Wikipedia_Bluth_Däumeline.txt,Wikipedia,2,0.1074
+wiki_1977_Andersen_Wikipedia_Takashi_Die_wilden_Schwäne.txt,Wikipedia,2,0.0771
+wiki_2005_Andersen_Wikipedia_Yong-gyun_The_Red_Shoes.txt,Wikipedia,2,0.1127
+wiki_1976_Andersen_Wikipedia_Hofman_Die_kleine_Meerjungfrau.txt,Wikipedia,2,0.0971
+wiki_1994_Andersen_Wikipedia_Fiedler_Des_Kaisers_neue_Kleider.txt,Wikipedia,2,0.1307
+wiki_2002_Andersen_Wikipedia_Moore_Die_Schneekönigin.txt,Wikipedia,2,0.1056
+wiki_1948_Andersen_Wikipedia_Powell_Die_roten_Schuhe.txt,Wikipedia,2,0.0965
+ia_1962_Andersen_Copilot_Ryss_Die_wilden_Schwäne.txt,AI (Copilot),1,0.0784
+ia_1916_Andersen_Copilot_Goetz_Streichhölzer_kauft_Streichhölzer.txt,AI (Copilot),1,0.0753
+ia_2018_Andersen_Copilot_Brinx_Die_Galoschen_des_Glücks.txt,AI (Copilot),1,0.043
+ia_1977_Andersen_Copilot_Takashi_Die_wilden_Schwäne.txt,AI (Copilot),1,0.0728
+ia_2010_Andersen_Copilot_Jacob_Die_Prinzessin_auf_der_Erbse.txt,AI (Copilot),1,0.0277
+ia_1994_Andersen_Copilot_Fiedler_Des_Kaisers_neue_Kleider.txt,AI (Copilot),1,0.0258
+ia_1990_Andersen_Copilot_Raza_Der_Reisekamerad.txt,AI (Copilot),1,0.0492
+ia_1978_Andersen_Copilot_Oyabu_Däumelinchen.txt,AI (Copilot),1,0.0488
+ia_2013_Andersen_Copilot_Ungureit_Das_Mädchen_mit_den_Schwefelhölzern.txt,AI (Copilot),1,0.0555
+ia_1984_Andersen_Copilot_Ganz_Splash.txt,AI (Copilot),1,0.04
+ia_2002_Andersen_Copilot_Moore_Die_Schneekönigin.txt,AI (Copilot),1,0.0572
+ia_1995_Andersen_Copilot_Wincelberg_Pepolino_und_der_Schatz_der_Meerjungfrau.txt,AI (Copilot),1,0.0024
+ia_1986_Andersen_Copilot_Königsmark_Die_Galoschen_des_Glücks.txt,AI (Copilot),1,0.0102
+ia_1971_Andersen_Copilot_Küchenmeister_Der_kleine_und_der_große_Klaus.txt,AI (Copilot),1,0.0443
+ia_1989_Andersen_Copilot_Hürtgen_Der_Tölpelhans.txt,AI (Copilot),1,0.0087
+ia_2013_Andersen_Copilot_Lee_Frozen_Die_Eiskönigin_völlig_unverfroren.txt,AI (Copilot),1,0.0339
+ia_2014_Andersen_Copilot_Brinx_Die_Schneekönigin.txt,AI (Copilot),1,0.0287
+ia_1989_Andersen_Copilot_Musker_Arielle.txt,AI (Copilot),1,0.0484
+ia_1987_Andersen_Copilot_Fleischer_Der_große_und_der_kleine_Klaus.txt,AI (Copilot),1,0.0132
+ia_1976_Andersen_Copilot_Hofman_Die_kleine_Meerjungfrau.txt,AI (Copilot),1,0.0621
+ia_1948_Andersen_Copilot_Powell_Die_roten_Schuhe.txt,AI (Copilot),1,0.059
+ia_2008_Andersen_Copilot_Miyazaki_Ponyo_Das_große_Abenteuer_am_Meer.txt,AI (Copilot),1,0.0221
+ia_1953_Andersen_Copilot_Surmann_Die_Prinzessin_und_der_Schweinehirt.txt,AI (Copilot),1,0.0557
+ia_2005_Andersen_Copilot_Yong-gyun_The_Red_Shoes.txt,AI (Copilot),1,0.0383
+ia_1968_Andersen_Copilot_Dunski_Ein_uraltes_Märchen.txt,AI (Copilot),1,0.0499
+ia_1987_Andersen_Copilot_Karis_Die_elf_Schwäne.txt,AI (Copilot),1,0.0422
+ia_1959_Andersen_Copilot_Hartmann_Das_Feuerzeug.txt,AI (Copilot),1,0.0249
+ia_2017_Andersen_Copilot_Brinx_Der_Schweinehirt.txt,AI (Copilot),1,0.0466
+ia_1977_Andersen_Copilot_Mironer_Die_Prinzessin_auf_der_Erbse.txt,AI (Copilot),1,0.0227
+ia_1939_Andersen_Copilot_Disney_Das_haessliche_Entlein.txt,AI (Copilot),1,0.0393
+ia_1961_Andersen_Copilot_Günther_Das_Kleid.txt,AI (Copilot),1,0.0759
+ia_1994_Andersen_Copilot_Bluth_Däumeline.txt,AI (Copilot),1,0.0586
+ia_1987_Andersen_Copilot_Burrell_Das_Mädchen_mit_den_Wunderhölzern.txt,AI (Copilot),1,0.0758
+ia_2010_Andersen_Copilot_Ungureit_Des_Kaisers_neue_Kleider.txt,AI (Copilot),1,0.0485
+ia_1937_Andersen_Copilot_Marcus_The_Little_Match_Girl.txt,AI (Copilot),1,0.0857
+ia_1980_Andersen_Copilot_Wolpin_Die_Nachtigall.txt,AI (Copilot),1,0.0208
+ia_1953_Andersen_Copilot_Trebst_Die_Prinzessin_auf_der_Erbse.txt,AI (Copilot),1,0.048
+ia_1986_Andersen_Copilot_Hartzell_Die_Schneekönigin.txt,AI (Copilot),1,0.0103
+ia_1967_Andersen_Copilot_Schwarz_Die_Schneekönigin.txt,AI (Copilot),1,0.0392
+ia_2006_Andersen_Copilot_Allers_Das_Mädchen_mit_den_Schwefelhölzern.txt,AI (Copilot),1,0.0605
