@@ -31,14 +31,14 @@ fairytale-corpus/
 │   ├── Corpus_EDA.ipynb                            # Exploratory data analysis & descriptive statistics
 │   ├── Grimm_Fairytales_Sentiment_Emotion.ipynb    # Sentiment & emotion analysis - Grimm
 │   ├── Andersen_Fairytales_Sentiment_Emotion.ipynb # Sentiment & emotion analysis - Andersen
-│   ├── Topic Modeling
-│   └── distributional_semantic_analysis_andersen.ipynb
-│   └── distributional_semantic_analysis_grimm.ipynb
+│   ├── KI_Märchen_topic_modeling_+_word_clouds.ipynb # Topic Modelling - Andersen + Grimm
+│   └── distributional_semantic_analysis_andersen.ipynb # distributional semantic analysis - Andersen
+│   └── distributional_semantic_analysis_grimm.ipynb  # distributional semantic analysis - Grimm
 │
 ├── results/
 │   ├── Sentiment Analysis and Emotion Detection  # csvs and figures
 │   ├── Topic Modeling
-│   ├── Distributional Semantic Analysis
+│   ├── Distributional Semantic Analysis # csvs and figures
 │
 └── README.md
 ```
